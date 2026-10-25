@@ -1,0 +1,5 @@
+activity,total,confirmed_bot,flagged_mixed,unknown,remaining,automation
+commit,10787,91,0,1,10695,0
+issue,33964,12,1,0,33951,0
+pull_request,14674,4107,0,0,10567,0
+workflow_run,783716,0,0,0,0,783716

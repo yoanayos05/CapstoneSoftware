@@ -1,0 +1,140 @@
+{
+  "body": {
+    "incomplete_results": false,
+    "items": [
+      {
+        "active_lock_reason": null,
+        "assignee": null,
+        "assignees": [],
+        "author_association": "NONE",
+        "body": "### What version of the Codex App are you using (From \u201cAbout Codex\u201d dialog)?\n\nI can not see About Codex please update instruction of fix your app interface\n\n### What subscription do you have?\n\nplus\n\n### What platform is your computer?\n\nMicrosoft Windows NT 10.0.26200.0 x64\n\n### What issue are you seeing?\n\nAutomatic app quit, Active task suspend, i manually reopened app to resume 5+ times till now sadly\n\nIssue is mostly with codex and browser i feel\n\n<img width=\"996\" height=\"496\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/86ab5f7c-f965-4675-95f1-fd1b164cac9a\" />\n\n### What steps can reproduce the bug?\n\nUse codex inapp headless browser , get configured with other chrome and computer use mcp , the codex confuses maybe and crashes im not sure as idk how codex gets full browser use skill, but i think it still gets browser use after resuming when i reopen, btw i was on a /goal too \n\nthe exact step codex uses terminal to start browser app goes crashed maybe\n\n019f24c0-83e5-7052-a79d-1864cfc4e2ee feedback id\n\n### What is the expected behavior?\n\nthe app should not quit\n\n### Additional information\n\nplease solve immediately its critical bug disrupting workflow \n\n<img width=\"943\" height=\"617\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/4d39d759-13b4-4c6d-b29d-84864715aa33\" />\n\nalso wasting tokens for this browser issue past months it still cant use browser properly consumes 70% tokens on it and just goes out of tokens on real product work and also 90% of tokens it use for tests and it takes less than 0.1% in real architectural planning",
+        "closed_at": "2026-07-14T22:28:53Z",
+        "comments": 2,
+        "comments_url": "https://api.github.com/repos/openai/codex/issues/33183/comments",
+        "created_at": "2026-07-14T22:24:14Z",
+        "events_url": "https://api.github.com/repos/openai/codex/issues/33183/events",
+        "html_url": "https://github.com/openai/codex/issues/33183",
+        "id": 4887482102,
+        "issue_dependencies_summary": {
+          "blocked_by": 0,
+          "blocking": 0,
+          "total_blocked_by": 0,
+          "total_blocking": 0
+        },
+        "issue_field_values": [],
+        "labels": [
+          {
+            "archived_at": null,
+            "archived_by": null,
+            "color": "d73a4a",
+            "default": true,
+            "description": "Something isn't working",
+            "id": 8448146916,
+            "name": "bug",
+            "node_id": "LA_kwDOOYsS4c8AAAAB94x95A",
+            "url": "https://api.github.com/repos/openai/codex/labels/bug"
+          },
+          {
+            "archived_at": null,
+            "archived_by": null,
+            "color": "78dc9b",
+            "default": false,
+            "description": "Issues related to Codex on Windows systems",
+            "id": 9095738671,
+            "name": "windows-os",
+            "node_id": "LA_kwDOOYsS4c8AAAACHiX1Lw",
+            "url": "https://api.github.com/repos/openai/codex/labels/windows-os"
+          },
+          {
+            "archived_at": null,
+            "archived_by": null,
+            "color": "401e87",
+            "default": false,
+            "description": "Issues related to the Codex desktop app",
+            "id": 10121036495,
+            "name": "app",
+            "node_id": "LA_kwDOOYsS4c8AAAACW0LCzw",
+            "url": "https://api.github.com/repos/openai/codex/labels/app"
+          },
+          {
+            "archived_at": null,
+            "archived_by": null,
+            "color": "828f71",
+            "default": false,
+            "description": "",
+            "id": 10853139785,
+            "name": "browser",
+            "node_id": "LA_kwDOOYsS4c8AAAAChuXFSQ",
+            "url": "https://api.github.com/repos/openai/codex/labels/browser"
+          }
+        ],
+        "labels_url": "https://api.github.com/repos/openai/codex/issues/33183/labels{/name}",
+        "locked": false,
+        "milestone": null,
+        "node_id": "I_kwDOOYsS4c8AAAABI1EO9g",
+        "number": 33183,
+        "performed_via_github_app": null,
+        "pinned_comment": null,
+        "reactions": {
+          "+1": 0,
+          "-1": 0,
+          "confused": 0,
+          "eyes": 0,
+          "heart": 0,
+          "hooray": 0,
+          "laugh": 0,
+          "rocket": 0,
+          "total_count": 0,
+          "url": "https://api.github.com/repos/openai/codex/issues/33183/reactions"
+        },
+        "repository_url": "https://api.github.com/repos/openai/codex",
+        "score": 1.0,
+        "state": "closed",
+        "state_reason": "duplicate",
+        "sub_issues_summary": {
+          "completed": 0,
+          "percent_completed": 0,
+          "total": 0
+        },
+        "timeline_url": "https://api.github.com/repos/openai/codex/issues/33183/timeline",
+        "title": "App Quits in Windows while codex tries to use inapp headless browser via its cmd",
+        "type": null,
+        "updated_at": "2026-07-14T22:28:53Z",
+        "url": "https://api.github.com/repos/openai/codex/issues/33183",
+        "user": {
+          "avatar_url": "https://avatars.githubusercontent.com/u/129080764?v=4",
+          "events_url": "https://api.github.com/users/abhinavmusrif/events{/privacy}",
+          "followers_url": "https://api.github.com/users/abhinavmusrif/followers",
+          "following_url": "https://api.github.com/users/abhinavmusrif/following{/other_user}",
+          "gists_url": "https://api.github.com/users/abhinavmusrif/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/abhinavmusrif",
+          "id": 129080764,
+          "login": "abhinavmusrif",
+          "node_id": "U_kgDOB7GdvA",
+          "organizations_url": "https://api.github.com/users/abhinavmusrif/orgs",
+          "received_events_url": "https://api.github.com/users/abhinavmusrif/received_events",
+          "repos_url": "https://api.github.com/users/abhinavmusrif/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/abhinavmusrif/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/abhinavmusrif/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/abhinavmusrif",
+          "user_view_type": "public"
+        }
+      }
+    ],
+    "search_type": "lexical",
+    "total_count": 201
+  },
+  "headers": {
+    "ETag": null,
+    "X-GitHub-Request-Id": "FD75:38E773:7F074B:BE1B92:6ADAADD9",
+    "X-RateLimit-Remaining": "17",
+    "X-RateLimit-Reset": "1792716284"
+  },
+  "next": null,
+  "retrieved_at": "2026-10-23T00:44:09Z",
+  "sha256": "962c0c1ca7a2163272cd3b3e28b113edb5ba457888a3d9fc11e5dc335cd64b41",
+  "url": "https://api.github.com/search/issues?q=repo%3Aopenai%2Fcodex+is%3Aissue+is%3Aclosed+closed%3A2026-07-08T00%3A00%3A00Z..2026-07-14T23%3A59%3A59Z&per_page=100&sort=created&order=asc&page=3"
+}

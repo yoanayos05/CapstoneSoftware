@@ -1,0 +1,17 @@
+{
+  "repository": "openai/codex",
+  "start_inclusive": "2025-10-22T00:00:00Z",
+  "end_exclusive": "2026-10-21T00:00:00Z",
+  "commit_branch": "main",
+  "commit_snapshot": "c419fd01a70dd1d05356da443ac44328bda2e6f4",
+  "commit_date_field": "commit.committer.date",
+  "commit_account_field": "author",
+  "merge_commits": "included",
+  "workflow_reruns": "one event per distinct run ID",
+  "confirmed_bot_logins": [
+    "github-actions[bot]"
+  ],
+  "flagged_mixed_logins": [
+    "dabazti"
+  ]
+}

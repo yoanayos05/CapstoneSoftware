@@ -1,0 +1,118 @@
+{
+  "body": {
+    "incomplete_results": false,
+    "items": [
+      {
+        "active_lock_reason": null,
+        "assignee": null,
+        "assignees": [],
+        "author_association": "NONE",
+        "body": "### What version of the Codex App are you using (From \u201cAbout Codex\u201d dialog)?\n\nVersion 26.513.31313 (2867)\n\n### What subscription do you have?\n\nPro\n\n### What platform is your computer?\n\nDarwin 25.4.0 arm64 arm\n\n### What issue are you seeing?\n\nLines keep jumping around when im zoomed in using `ctrl` + `+`. When codex is thinking and running commands, the lines keep jumping to the left and then to the center, this happens only when zoomed in, when resetting zoom level, it doesn't happen\n\n### What steps can reproduce the bug?\n\nFeedback ID: 019e3a66-c659-7a00-a8f5-e91f028a5faa\n\n### What is the expected behavior?\n\nShouldn't jump around. Must be stable, just like the `ctrl` + `0` level\n\n### Additional information\n\n_No response_",
+        "closed_at": "2026-05-19T21:47:10Z",
+        "comments": 1,
+        "comments_url": "https://api.github.com/repos/openai/codex/issues/23560/comments",
+        "created_at": "2026-05-19T21:42:50Z",
+        "events_url": "https://api.github.com/repos/openai/codex/issues/23560/events",
+        "html_url": "https://github.com/openai/codex/issues/23560",
+        "id": 4481271425,
+        "issue_dependencies_summary": {
+          "blocked_by": 0,
+          "blocking": 0,
+          "total_blocked_by": 0,
+          "total_blocking": 0
+        },
+        "issue_field_values": [],
+        "labels": [
+          {
+            "archived_at": null,
+            "archived_by": null,
+            "color": "d73a4a",
+            "default": true,
+            "description": "Something isn't working",
+            "id": 8448146916,
+            "name": "bug",
+            "node_id": "LA_kwDOOYsS4c8AAAAB94x95A",
+            "url": "https://api.github.com/repos/openai/codex/labels/bug"
+          },
+          {
+            "archived_at": null,
+            "archived_by": null,
+            "color": "401e87",
+            "default": false,
+            "description": "Issues related to the Codex desktop app",
+            "id": 10121036495,
+            "name": "app",
+            "node_id": "LA_kwDOOYsS4c8AAAACW0LCzw",
+            "url": "https://api.github.com/repos/openai/codex/labels/app"
+          }
+        ],
+        "labels_url": "https://api.github.com/repos/openai/codex/issues/23560/labels{/name}",
+        "locked": false,
+        "milestone": null,
+        "node_id": "I_kwDOOYsS4c8AAAABCxrGgQ",
+        "number": 23560,
+        "performed_via_github_app": null,
+        "pinned_comment": null,
+        "reactions": {
+          "+1": 0,
+          "-1": 0,
+          "confused": 0,
+          "eyes": 0,
+          "heart": 0,
+          "hooray": 0,
+          "laugh": 0,
+          "rocket": 0,
+          "total_count": 0,
+          "url": "https://api.github.com/repos/openai/codex/issues/23560/reactions"
+        },
+        "repository_url": "https://api.github.com/repos/openai/codex",
+        "score": 1.0,
+        "state": "closed",
+        "state_reason": "duplicate",
+        "sub_issues_summary": {
+          "completed": 0,
+          "percent_completed": 0,
+          "total": 0
+        },
+        "timeline_url": "https://api.github.com/repos/openai/codex/issues/23560/timeline",
+        "title": "Codex lines keeps jumping around",
+        "type": null,
+        "updated_at": "2026-05-19T21:47:11Z",
+        "url": "https://api.github.com/repos/openai/codex/issues/23560",
+        "user": {
+          "avatar_url": "https://avatars.githubusercontent.com/u/61679566?v=4",
+          "events_url": "https://api.github.com/users/wasem-melhem/events{/privacy}",
+          "followers_url": "https://api.github.com/users/wasem-melhem/followers",
+          "following_url": "https://api.github.com/users/wasem-melhem/following{/other_user}",
+          "gists_url": "https://api.github.com/users/wasem-melhem/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/wasem-melhem",
+          "id": 61679566,
+          "login": "wasem-melhem",
+          "node_id": "MDQ6VXNlcjYxNjc5NTY2",
+          "organizations_url": "https://api.github.com/users/wasem-melhem/orgs",
+          "received_events_url": "https://api.github.com/users/wasem-melhem/received_events",
+          "repos_url": "https://api.github.com/users/wasem-melhem/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/wasem-melhem/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/wasem-melhem/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/wasem-melhem",
+          "user_view_type": "public"
+        }
+      }
+    ],
+    "search_type": "lexical",
+    "total_count": 301
+  },
+  "headers": {
+    "ETag": null,
+    "X-GitHub-Request-Id": "FD75:38E773:7E0CB4:BCA16F:6ADAADAD",
+    "X-RateLimit-Remaining": "8",
+    "X-RateLimit-Reset": "1792716222"
+  },
+  "next": null,
+  "retrieved_at": "2026-10-23T00:43:26Z",
+  "sha256": "3d50c88c498596932e1023cffc39b85501b076d97446254e96bae844020756b5",
+  "url": "https://api.github.com/search/issues?q=repo%3Aopenai%2Fcodex+is%3Aissue+is%3Aclosed+closed%3A2026-05-13T00%3A00%3A00Z..2026-05-19T23%3A59%3A59Z&per_page=100&sort=created&order=asc&page=4"
+}

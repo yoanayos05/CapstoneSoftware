@@ -1,0 +1,10 @@
+{
+  "at": "2026-10-23T00:46:07Z",
+  "count": 164,
+  "end_exclusive": "2026-10-21T00:00:00Z",
+  "kind": "closed_issues",
+  "page": 2,
+  "query": "repo:openai/codex is:issue is:closed closed:2026-10-14T00:00:00Z..2026-10-20T23:59:59Z",
+  "start": "2026-10-14T00:00:00Z",
+  "status": "interval_complete"
+}

@@ -1,0 +1,91 @@
+{
+  "body": {
+    "incomplete_results": false,
+    "items": [
+      {
+        "active_lock_reason": null,
+        "assignee": null,
+        "assignees": [],
+        "author_association": "CONTRIBUTOR",
+        "body": "## Summary\n\nAdds the shipped Rust app-server lifecycle for Desktop multi-account profile switching on top of the protocol PR.\n\nExposes additive `accountSession/login/start`, `accountSession/add`, `accountSession/list`, `accountSession/switch`, and `accountSession/logout` routes; stores all saved session credentials and metadata in one `account-sessions.json`; keeps the active `auth.json` snapshot current; refreshes workspace metadata; and exchanges the bearer token when switching workspaces so backend routing uses the newly selected workspace.\n\nThe existing `account/login/start` and `account/logout` routes remain unchanged. The saved-session login route snapshots the active session before starting another browser login and does not revoke the previous session credentials. The saved-session logout route removes and revokes only the selected session.\n\nAddresses the review findings by returning an empty saved-session list for non-ChatGPT auth bootstrap, restoring the prior auth payload for add-without-switch, preserving managed sessions during additional login, deriving canonical metadata from parsed ID-token data, revoking sessions only during saved-session logout, and removing unused account-session plan and workspace-status metadata.\n\n## Rust Stack\n\n1. [openai/codex#25469](https://github.com/openai/codex/pull/25469) adds the account-session protocol.\n2. This PR\n\n## Desktop Consumer Stack\n\n1. [openai/openai#912789](https://github.com/openai/openai/pull/912789) adds Desktop compatibility protocol types.\n2. [openai/openai#912791](https://github.com/openai/openai/pull/912791) routes Desktop account session requests through Rust app server.\n3. [openai/openai#912794](https://github.com/openai/openai/pull/912794) adds the profile account and workspace switcher.\n4. [openai/openai#912795](https://github.com/openai/openai/pull/912795) makes token-derived selected workspace drive Desktop current-account consumers.\n\n## Validation\n\n- Regenerated app-server schema fixtures with `just write-app-server-schema`.\n- Did not run tests per requested scope.\n",
+        "closed_at": "2026-09-11T23:05:26Z",
+        "comments": 4,
+        "comments_url": "https://api.github.com/repos/openai/codex/issues/25383/comments",
+        "created_at": "2026-05-31T07:45:46Z",
+        "draft": true,
+        "events_url": "https://api.github.com/repos/openai/codex/issues/25383/events",
+        "html_url": "https://github.com/openai/codex/pull/25383",
+        "id": 4556927564,
+        "issue_field_values": [],
+        "labels": [],
+        "labels_url": "https://api.github.com/repos/openai/codex/issues/25383/labels{/name}",
+        "locked": false,
+        "milestone": null,
+        "node_id": "PR_kwDOOYsS4c7hDzaQ",
+        "number": 25383,
+        "performed_via_github_app": null,
+        "pull_request": {
+          "diff_url": "https://github.com/openai/codex/pull/25383.diff",
+          "html_url": "https://github.com/openai/codex/pull/25383",
+          "merged_at": null,
+          "patch_url": "https://github.com/openai/codex/pull/25383.patch",
+          "url": "https://api.github.com/repos/openai/codex/pulls/25383"
+        },
+        "reactions": {
+          "+1": 0,
+          "-1": 0,
+          "confused": 0,
+          "eyes": 0,
+          "heart": 0,
+          "hooray": 0,
+          "laugh": 0,
+          "rocket": 0,
+          "total_count": 0,
+          "url": "https://api.github.com/repos/openai/codex/issues/25383/reactions"
+        },
+        "repository_url": "https://api.github.com/repos/openai/codex",
+        "score": 1.0,
+        "state": "closed",
+        "state_reason": null,
+        "timeline_url": "https://api.github.com/repos/openai/codex/issues/25383/timeline",
+        "title": "[profile-switcher][rust] -- [2/2] Add app-server account session lifecycle",
+        "type": null,
+        "updated_at": "2026-09-12T15:45:17Z",
+        "url": "https://api.github.com/repos/openai/codex/issues/25383",
+        "user": {
+          "avatar_url": "https://avatars.githubusercontent.com/u/247462758?v=4",
+          "events_url": "https://api.github.com/users/dhruvgupta-oai/events{/privacy}",
+          "followers_url": "https://api.github.com/users/dhruvgupta-oai/followers",
+          "following_url": "https://api.github.com/users/dhruvgupta-oai/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dhruvgupta-oai/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/dhruvgupta-oai",
+          "id": 247462758,
+          "login": "dhruvgupta-oai",
+          "node_id": "U_kgDODr_7Zg",
+          "organizations_url": "https://api.github.com/users/dhruvgupta-oai/orgs",
+          "received_events_url": "https://api.github.com/users/dhruvgupta-oai/received_events",
+          "repos_url": "https://api.github.com/users/dhruvgupta-oai/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/dhruvgupta-oai/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dhruvgupta-oai/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/dhruvgupta-oai",
+          "user_view_type": "public"
+        }
+      }
+    ],
+    "search_type": "lexical",
+    "total_count": 1
+  },
+  "headers": {
+    "ETag": null,
+    "X-GitHub-Request-Id": "FD35:2A7E74:67FA1D:9A656F:6ADAA95E",
+    "X-RateLimit-Remaining": "16",
+    "X-RateLimit-Reset": "1792715137"
+  },
+  "next": null,
+  "retrieved_at": "2026-10-23T00:25:05Z",
+  "sha256": "ac4e990c65cd253dcd8abf3dd5115ce6a36b70594f05bf28be21f23f7e83d780",
+  "url": "https://api.github.com/search/issues?q=repo%3Aopenai%2Fcodex+is%3Apr+is%3Aclosed+is%3Aunmerged+closed%3A2026-09-09T00%3A00%3A00Z..2026-09-15T23%3A59%3A59Z&per_page=100&sort=created&order=asc"
+}

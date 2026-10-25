@@ -1,0 +1,5439 @@
+{
+  "scope": {
+    "repo": "openai/codex",
+    "start": "2025-10-22T00:00:00Z",
+    "end": "2026-10-21T00:00:00Z",
+    "requested_branch": null,
+    "schema_version": 1,
+    "resolved_branch": "main",
+    "commit_head_sha": "75a4146411d22e4c487ba86f026201594cdbaa85",
+    "initialized_at": "2026-10-23T00:13:13Z"
+  },
+  "exported_at": "2026-10-23T05:05:54Z",
+  "api_version": "2022-11-28",
+  "collection_status": "complete_for_api_visible_scope",
+  "historical_archive_completeness": "not_verifiable",
+  "pull_request_opened_only_available": false,
+  "page_retrieval_earliest": "2026-10-23T00:13:12Z",
+  "page_retrieval_latest": "2026-10-23T05:04:49Z",
+  "mixed_cached_snapshots": true,
+  "gaps": [],
+  "completed_intervals": [
+    {
+      "kind": "commit",
+      "start": "2025-10-22T00:00:00Z",
+      "end": "2025-10-29T00:00:00Z",
+      "count": 80
+    },
+    {
+      "kind": "commit",
+      "start": "2025-10-29T00:00:00Z",
+      "end": "2025-11-05T00:00:00Z",
+      "count": 85
+    },
+    {
+      "kind": "commit",
+      "start": "2025-11-05T00:00:00Z",
+      "end": "2025-11-12T00:00:00Z",
+      "count": 91
+    },
+    {
+      "kind": "commit",
+      "start": "2025-11-12T00:00:00Z",
+      "end": "2025-11-19T00:00:00Z",
+      "count": 106
+    },
+    {
+      "kind": "commit",
+      "start": "2025-11-19T00:00:00Z",
+      "end": "2025-11-26T00:00:00Z",
+      "count": 145
+    },
+    {
+      "kind": "commit",
+      "start": "2025-11-26T00:00:00Z",
+      "end": "2025-12-03T00:00:00Z",
+      "count": 48
+    },
+    {
+      "kind": "commit",
+      "start": "2025-12-03T00:00:00Z",
+      "end": "2025-12-10T00:00:00Z",
+      "count": 117
+    },
+    {
+      "kind": "commit",
+      "start": "2025-12-10T00:00:00Z",
+      "end": "2025-12-17T00:00:00Z",
+      "count": 134
+    },
+    {
+      "kind": "commit",
+      "start": "2025-12-17T00:00:00Z",
+      "end": "2025-12-24T00:00:00Z",
+      "count": 126
+    },
+    {
+      "kind": "commit",
+      "start": "2025-12-24T00:00:00Z",
+      "end": "2025-12-31T00:00:00Z",
+      "count": 10
+    },
+    {
+      "kind": "commit",
+      "start": "2025-12-31T00:00:00Z",
+      "end": "2026-01-07T00:00:00Z",
+      "count": 61
+    },
+    {
+      "kind": "commit",
+      "start": "2026-01-07T00:00:00Z",
+      "end": "2026-01-14T00:00:00Z",
+      "count": 147
+    },
+    {
+      "kind": "commit",
+      "start": "2026-01-14T00:00:00Z",
+      "end": "2026-01-21T00:00:00Z",
+      "count": 144
+    },
+    {
+      "kind": "commit",
+      "start": "2026-01-21T00:00:00Z",
+      "end": "2026-01-28T00:00:00Z",
+      "count": 169
+    },
+    {
+      "kind": "commit",
+      "start": "2026-01-28T00:00:00Z",
+      "end": "2026-02-04T00:00:00Z",
+      "count": 207
+    },
+    {
+      "kind": "commit",
+      "start": "2026-02-04T00:00:00Z",
+      "end": "2026-02-11T00:00:00Z",
+      "count": 230
+    },
+    {
+      "kind": "commit",
+      "start": "2026-02-11T00:00:00Z",
+      "end": "2026-02-18T00:00:00Z",
+      "count": 222
+    },
+    {
+      "kind": "commit",
+      "start": "2026-02-18T00:00:00Z",
+      "end": "2026-02-25T00:00:00Z",
+      "count": 209
+    },
+    {
+      "kind": "commit",
+      "start": "2026-02-25T00:00:00Z",
+      "end": "2026-03-04T00:00:00Z",
+      "count": 205
+    },
+    {
+      "kind": "commit",
+      "start": "2026-03-04T00:00:00Z",
+      "end": "2026-03-11T00:00:00Z",
+      "count": 205
+    },
+    {
+      "kind": "commit",
+      "start": "2026-03-11T00:00:00Z",
+      "end": "2026-03-18T00:00:00Z",
+      "count": 215
+    },
+    {
+      "kind": "commit",
+      "start": "2026-03-18T00:00:00Z",
+      "end": "2026-03-25T00:00:00Z",
+      "count": 183
+    },
+    {
+      "kind": "commit",
+      "start": "2026-03-25T00:00:00Z",
+      "end": "2026-04-01T00:00:00Z",
+      "count": 181
+    },
+    {
+      "kind": "commit",
+      "start": "2026-04-01T00:00:00Z",
+      "end": "2026-04-08T00:00:00Z",
+      "count": 183
+    },
+    {
+      "kind": "commit",
+      "start": "2026-04-08T00:00:00Z",
+      "end": "2026-04-15T00:00:00Z",
+      "count": 196
+    },
+    {
+      "kind": "commit",
+      "start": "2026-04-15T00:00:00Z",
+      "end": "2026-04-22T00:00:00Z",
+      "count": 286
+    },
+    {
+      "kind": "commit",
+      "start": "2026-04-22T00:00:00Z",
+      "end": "2026-04-29T00:00:00Z",
+      "count": 300
+    },
+    {
+      "kind": "commit",
+      "start": "2026-04-29T00:00:00Z",
+      "end": "2026-05-06T00:00:00Z",
+      "count": 246
+    },
+    {
+      "kind": "commit",
+      "start": "2026-05-06T00:00:00Z",
+      "end": "2026-05-13T00:00:00Z",
+      "count": 223
+    },
+    {
+      "kind": "commit",
+      "start": "2026-05-13T00:00:00Z",
+      "end": "2026-05-20T00:00:00Z",
+      "count": 249
+    },
+    {
+      "kind": "commit",
+      "start": "2026-05-20T00:00:00Z",
+      "end": "2026-05-27T00:00:00Z",
+      "count": 191
+    },
+    {
+      "kind": "commit",
+      "start": "2026-05-27T00:00:00Z",
+      "end": "2026-06-03T00:00:00Z",
+      "count": 238
+    },
+    {
+      "kind": "commit",
+      "start": "2026-06-03T00:00:00Z",
+      "end": "2026-06-10T00:00:00Z",
+      "count": 184
+    },
+    {
+      "kind": "commit",
+      "start": "2026-06-10T00:00:00Z",
+      "end": "2026-06-17T00:00:00Z",
+      "count": 270
+    },
+    {
+      "kind": "commit",
+      "start": "2026-06-17T00:00:00Z",
+      "end": "2026-06-24T00:00:00Z",
+      "count": 225
+    },
+    {
+      "kind": "commit",
+      "start": "2026-06-24T00:00:00Z",
+      "end": "2026-07-01T00:00:00Z",
+      "count": 151
+    },
+    {
+      "kind": "commit",
+      "start": "2026-07-01T00:00:00Z",
+      "end": "2026-07-08T00:00:00Z",
+      "count": 77
+    },
+    {
+      "kind": "commit",
+      "start": "2026-07-08T00:00:00Z",
+      "end": "2026-07-15T00:00:00Z",
+      "count": 206
+    },
+    {
+      "kind": "commit",
+      "start": "2026-07-15T00:00:00Z",
+      "end": "2026-07-22T00:00:00Z",
+      "count": 251
+    },
+    {
+      "kind": "commit",
+      "start": "2026-07-22T00:00:00Z",
+      "end": "2026-07-29T00:00:00Z",
+      "count": 222
+    },
+    {
+      "kind": "commit",
+      "start": "2026-07-29T00:00:00Z",
+      "end": "2026-08-05T00:00:00Z",
+      "count": 237
+    },
+    {
+      "kind": "commit",
+      "start": "2026-08-05T00:00:00Z",
+      "end": "2026-08-12T00:00:00Z",
+      "count": 226
+    },
+    {
+      "kind": "commit",
+      "start": "2026-08-12T00:00:00Z",
+      "end": "2026-08-19T00:00:00Z",
+      "count": 360
+    },
+    {
+      "kind": "commit",
+      "start": "2026-08-19T00:00:00Z",
+      "end": "2026-08-26T00:00:00Z",
+      "count": 349
+    },
+    {
+      "kind": "commit",
+      "start": "2026-08-26T00:00:00Z",
+      "end": "2026-09-02T00:00:00Z",
+      "count": 271
+    },
+    {
+      "kind": "commit",
+      "start": "2026-09-02T00:00:00Z",
+      "end": "2026-09-09T00:00:00Z",
+      "count": 341
+    },
+    {
+      "kind": "commit",
+      "start": "2026-09-09T00:00:00Z",
+      "end": "2026-09-16T00:00:00Z",
+      "count": 345
+    },
+    {
+      "kind": "commit",
+      "start": "2026-09-16T00:00:00Z",
+      "end": "2026-09-23T00:00:00Z",
+      "count": 414
+    },
+    {
+      "kind": "commit",
+      "start": "2026-09-23T00:00:00Z",
+      "end": "2026-09-30T00:00:00Z",
+      "count": 387
+    },
+    {
+      "kind": "commit",
+      "start": "2026-09-30T00:00:00Z",
+      "end": "2026-10-07T00:00:00Z",
+      "count": 335
+    },
+    {
+      "kind": "commit",
+      "start": "2026-10-07T00:00:00Z",
+      "end": "2026-10-14T00:00:00Z",
+      "count": 250
+    },
+    {
+      "kind": "commit",
+      "start": "2026-10-14T00:00:00Z",
+      "end": "2026-10-21T00:00:00Z",
+      "count": 254
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2025-10-22T00:00:00Z",
+      "end": "2025-10-29T00:00:00Z",
+      "count": 230
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2025-10-29T00:00:00Z",
+      "end": "2025-11-05T00:00:00Z",
+      "count": 189
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2025-11-05T00:00:00Z",
+      "end": "2025-11-12T00:00:00Z",
+      "count": 152
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2025-11-12T00:00:00Z",
+      "end": "2025-11-19T00:00:00Z",
+      "count": 147
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2025-11-19T00:00:00Z",
+      "end": "2025-11-26T00:00:00Z",
+      "count": 254
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2025-11-26T00:00:00Z",
+      "end": "2025-12-03T00:00:00Z",
+      "count": 103
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2025-12-03T00:00:00Z",
+      "end": "2025-12-10T00:00:00Z",
+      "count": 98
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2025-12-10T00:00:00Z",
+      "end": "2025-12-17T00:00:00Z",
+      "count": 158
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2025-12-17T00:00:00Z",
+      "end": "2025-12-24T00:00:00Z",
+      "count": 150
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2025-12-24T00:00:00Z",
+      "end": "2025-12-31T00:00:00Z",
+      "count": 71
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2025-12-31T00:00:00Z",
+      "end": "2026-01-07T00:00:00Z",
+      "count": 75
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-01-07T00:00:00Z",
+      "end": "2026-01-14T00:00:00Z",
+      "count": 131
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-01-14T00:00:00Z",
+      "end": "2026-01-21T00:00:00Z",
+      "count": 158
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-01-21T00:00:00Z",
+      "end": "2026-01-28T00:00:00Z",
+      "count": 170
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-01-28T00:00:00Z",
+      "end": "2026-02-04T00:00:00Z",
+      "count": 234
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-02-04T00:00:00Z",
+      "end": "2026-02-11T00:00:00Z",
+      "count": 441
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-02-11T00:00:00Z",
+      "end": "2026-02-18T00:00:00Z",
+      "count": 321
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-02-18T00:00:00Z",
+      "end": "2026-02-25T00:00:00Z",
+      "count": 305
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-02-25T00:00:00Z",
+      "end": "2026-03-04T00:00:00Z",
+      "count": 363
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-03-04T00:00:00Z",
+      "end": "2026-03-11T00:00:00Z",
+      "count": 496
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-03-11T00:00:00Z",
+      "end": "2026-03-18T00:00:00Z",
+      "count": 408
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-03-18T00:00:00Z",
+      "end": "2026-03-25T00:00:00Z",
+      "count": 340
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-03-25T00:00:00Z",
+      "end": "2026-04-01T00:00:00Z",
+      "count": 405
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-04-01T00:00:00Z",
+      "end": "2026-04-08T00:00:00Z",
+      "count": 402
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-04-08T00:00:00Z",
+      "end": "2026-04-15T00:00:00Z",
+      "count": 446
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-04-15T00:00:00Z",
+      "end": "2026-04-22T00:00:00Z",
+      "count": 547
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-04-22T00:00:00Z",
+      "end": "2026-04-29T00:00:00Z",
+      "count": 758
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-04-29T00:00:00Z",
+      "end": "2026-05-06T00:00:00Z",
+      "count": 666
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-05-06T00:00:00Z",
+      "end": "2026-05-13T00:00:00Z",
+      "count": 727
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-05-13T00:00:00Z",
+      "end": "2026-05-20T00:00:00Z",
+      "count": 770
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-05-20T00:00:00Z",
+      "end": "2026-05-27T00:00:00Z",
+      "count": 746
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-05-27T00:00:00Z",
+      "end": "2026-06-03T00:00:00Z",
+      "count": 886
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-06-03T00:00:00Z",
+      "end": "2026-06-10T00:00:00Z",
+      "count": 822
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-06-10T00:00:00Z",
+      "end": "2026-06-17T00:00:00Z",
+      "count": 788
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-06-17T00:00:00Z",
+      "end": "2026-06-24T00:00:00Z",
+      "count": 718
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-06-24T00:00:00Z",
+      "end": "2026-07-01T00:00:00Z",
+      "count": 715
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-07-01T00:00:00Z",
+      "end": "2026-07-08T00:00:00Z",
+      "count": 499
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-07-08T00:00:00Z",
+      "end": "2026-07-11T12:00:00Z",
+      "count": 663
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-07-11T12:00:00Z",
+      "end": "2026-07-15T00:00:00Z",
+      "count": 694
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-07-15T00:00:00Z",
+      "end": "2026-07-18T12:00:00Z",
+      "count": 673
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-07-18T12:00:00Z",
+      "end": "2026-07-22T00:00:00Z",
+      "count": 488
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-07-22T00:00:00Z",
+      "end": "2026-07-29T00:00:00Z",
+      "count": 966
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-07-29T00:00:00Z",
+      "end": "2026-08-05T00:00:00Z",
+      "count": 889
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-08-05T00:00:00Z",
+      "end": "2026-08-12T00:00:00Z",
+      "count": 838
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-08-12T00:00:00Z",
+      "end": "2026-08-19T00:00:00Z",
+      "count": 842
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-08-19T00:00:00Z",
+      "end": "2026-08-26T00:00:00Z",
+      "count": 972
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-08-26T00:00:00Z",
+      "end": "2026-08-29T12:00:00Z",
+      "count": 613
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-08-29T12:00:00Z",
+      "end": "2026-09-02T00:00:00Z",
+      "count": 495
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-09-02T00:00:00Z",
+      "end": "2026-09-05T12:00:00Z",
+      "count": 637
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-09-05T12:00:00Z",
+      "end": "2026-09-09T00:00:00Z",
+      "count": 780
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-09-09T00:00:00Z",
+      "end": "2026-09-12T12:00:00Z",
+      "count": 847
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-09-12T12:00:00Z",
+      "end": "2026-09-16T00:00:00Z",
+      "count": 629
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-09-16T00:00:00Z",
+      "end": "2026-09-19T12:00:00Z",
+      "count": 594
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-09-19T12:00:00Z",
+      "end": "2026-09-23T00:00:00Z",
+      "count": 541
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-09-23T00:00:00Z",
+      "end": "2026-09-26T12:00:00Z",
+      "count": 786
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-09-26T12:00:00Z",
+      "end": "2026-09-30T00:00:00Z",
+      "count": 794
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-09-30T00:00:00Z",
+      "end": "2026-10-03T12:00:00Z",
+      "count": 977
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-10-03T12:00:00Z",
+      "end": "2026-10-07T00:00:00Z",
+      "count": 753
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-10-07T00:00:00Z",
+      "end": "2026-10-08T18:00:00Z",
+      "count": 589
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-10-08T18:00:00Z",
+      "end": "2026-10-10T12:00:00Z",
+      "count": 591
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-10-10T12:00:00Z",
+      "end": "2026-10-14T00:00:00Z",
+      "count": 828
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-10-14T00:00:00Z",
+      "end": "2026-10-17T12:00:00Z",
+      "count": 887
+    },
+    {
+      "kind": "issue_opened",
+      "start": "2026-10-17T12:00:00Z",
+      "end": "2026-10-21T00:00:00Z",
+      "count": 709
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2025-10-22T00:00:00Z",
+      "end": "2025-10-29T00:00:00Z",
+      "count": 151
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2025-10-29T00:00:00Z",
+      "end": "2025-11-05T00:00:00Z",
+      "count": 140
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2025-11-05T00:00:00Z",
+      "end": "2025-11-12T00:00:00Z",
+      "count": 129
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2025-11-12T00:00:00Z",
+      "end": "2025-11-19T00:00:00Z",
+      "count": 157
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2025-11-19T00:00:00Z",
+      "end": "2025-11-26T00:00:00Z",
+      "count": 195
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2025-11-26T00:00:00Z",
+      "end": "2025-12-03T00:00:00Z",
+      "count": 81
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2025-12-03T00:00:00Z",
+      "end": "2025-12-10T00:00:00Z",
+      "count": 163
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2025-12-10T00:00:00Z",
+      "end": "2025-12-17T00:00:00Z",
+      "count": 182
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2025-12-17T00:00:00Z",
+      "end": "2025-12-24T00:00:00Z",
+      "count": 173
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2025-12-24T00:00:00Z",
+      "end": "2025-12-31T00:00:00Z",
+      "count": 35
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2025-12-31T00:00:00Z",
+      "end": "2026-01-07T00:00:00Z",
+      "count": 89
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-01-07T00:00:00Z",
+      "end": "2026-01-14T00:00:00Z",
+      "count": 232
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-01-14T00:00:00Z",
+      "end": "2026-01-21T00:00:00Z",
+      "count": 214
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-01-21T00:00:00Z",
+      "end": "2026-01-28T00:00:00Z",
+      "count": 287
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-01-28T00:00:00Z",
+      "end": "2026-02-04T00:00:00Z",
+      "count": 286
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-02-04T00:00:00Z",
+      "end": "2026-02-11T00:00:00Z",
+      "count": 349
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-02-11T00:00:00Z",
+      "end": "2026-02-18T00:00:00Z",
+      "count": 344
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-02-18T00:00:00Z",
+      "end": "2026-02-25T00:00:00Z",
+      "count": 346
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-02-25T00:00:00Z",
+      "end": "2026-03-04T00:00:00Z",
+      "count": 294
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-03-04T00:00:00Z",
+      "end": "2026-03-11T00:00:00Z",
+      "count": 345
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-03-11T00:00:00Z",
+      "end": "2026-03-18T00:00:00Z",
+      "count": 303
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-03-18T00:00:00Z",
+      "end": "2026-03-25T00:00:00Z",
+      "count": 351
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-03-25T00:00:00Z",
+      "end": "2026-04-01T00:00:00Z",
+      "count": 261
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-04-01T00:00:00Z",
+      "end": "2026-04-08T00:00:00Z",
+      "count": 265
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-04-08T00:00:00Z",
+      "end": "2026-04-15T00:00:00Z",
+      "count": 344
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-04-15T00:00:00Z",
+      "end": "2026-04-22T00:00:00Z",
+      "count": 500
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-04-22T00:00:00Z",
+      "end": "2026-04-29T00:00:00Z",
+      "count": 412
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-04-29T00:00:00Z",
+      "end": "2026-05-06T00:00:00Z",
+      "count": 484
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-05-06T00:00:00Z",
+      "end": "2026-05-13T00:00:00Z",
+      "count": 380
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-05-13T00:00:00Z",
+      "end": "2026-05-20T00:00:00Z",
+      "count": 398
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-05-20T00:00:00Z",
+      "end": "2026-05-27T00:00:00Z",
+      "count": 309
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-05-27T00:00:00Z",
+      "end": "2026-06-03T00:00:00Z",
+      "count": 410
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-06-03T00:00:00Z",
+      "end": "2026-06-10T00:00:00Z",
+      "count": 432
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-06-10T00:00:00Z",
+      "end": "2026-06-17T00:00:00Z",
+      "count": 551
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-06-17T00:00:00Z",
+      "end": "2026-06-24T00:00:00Z",
+      "count": 389
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-06-24T00:00:00Z",
+      "end": "2026-07-01T00:00:00Z",
+      "count": 296
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-07-01T00:00:00Z",
+      "end": "2026-07-08T00:00:00Z",
+      "count": 218
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-07-08T00:00:00Z",
+      "end": "2026-07-15T00:00:00Z",
+      "count": 312
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-07-15T00:00:00Z",
+      "end": "2026-07-22T00:00:00Z",
+      "count": 258
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-07-22T00:00:00Z",
+      "end": "2026-07-29T00:00:00Z",
+      "count": 224
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-07-29T00:00:00Z",
+      "end": "2026-08-05T00:00:00Z",
+      "count": 239
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-08-05T00:00:00Z",
+      "end": "2026-08-12T00:00:00Z",
+      "count": 227
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-08-12T00:00:00Z",
+      "end": "2026-08-19T00:00:00Z",
+      "count": 368
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-08-19T00:00:00Z",
+      "end": "2026-08-26T00:00:00Z",
+      "count": 325
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-08-26T00:00:00Z",
+      "end": "2026-09-02T00:00:00Z",
+      "count": 194
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-09-02T00:00:00Z",
+      "end": "2026-09-09T00:00:00Z",
+      "count": 347
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-09-09T00:00:00Z",
+      "end": "2026-09-16T00:00:00Z",
+      "count": 345
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-09-16T00:00:00Z",
+      "end": "2026-09-23T00:00:00Z",
+      "count": 416
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-09-23T00:00:00Z",
+      "end": "2026-09-30T00:00:00Z",
+      "count": 394
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-09-30T00:00:00Z",
+      "end": "2026-10-07T00:00:00Z",
+      "count": 341
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-10-07T00:00:00Z",
+      "end": "2026-10-14T00:00:00Z",
+      "count": 249
+    },
+    {
+      "kind": "pr_opened",
+      "start": "2026-10-14T00:00:00Z",
+      "end": "2026-10-21T00:00:00Z",
+      "count": 255
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2025-10-22T00:00:00Z",
+      "end": "2025-10-29T00:00:00Z",
+      "count": 334
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2025-10-29T00:00:00Z",
+      "end": "2025-11-05T00:00:00Z",
+      "count": 355
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2025-11-05T00:00:00Z",
+      "end": "2025-11-12T00:00:00Z",
+      "count": 383
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2025-11-12T00:00:00Z",
+      "end": "2025-11-19T00:00:00Z",
+      "count": 442
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2025-11-19T00:00:00Z",
+      "end": "2025-11-26T00:00:00Z",
+      "count": 676
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2025-11-26T00:00:00Z",
+      "end": "2025-12-03T00:00:00Z",
+      "count": 257
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2025-12-03T00:00:00Z",
+      "end": "2025-12-10T00:00:00Z",
+      "count": 659
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2025-12-10T00:00:00Z",
+      "end": "2025-12-17T00:00:00Z",
+      "count": 754
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2025-12-17T00:00:00Z",
+      "end": "2025-12-24T00:00:00Z",
+      "count": 723
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2025-12-24T00:00:00Z",
+      "end": "2025-12-31T00:00:00Z",
+      "count": 52
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2025-12-31T00:00:00Z",
+      "end": "2026-01-07T00:00:00Z",
+      "count": 319
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-01-07T00:00:00Z",
+      "end": "2026-01-14T00:00:00Z",
+      "count": 824
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-01-14T00:00:00Z",
+      "end": "2026-01-21T00:00:00Z",
+      "count": 928
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-01-21T00:00:00Z",
+      "end": "2026-01-24T12:00:00Z",
+      "count": 519
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-01-24T12:00:00Z",
+      "end": "2026-01-28T00:00:00Z",
+      "count": 581
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-01-28T00:00:00Z",
+      "end": "2026-01-31T12:00:00Z",
+      "count": 799
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-01-31T12:00:00Z",
+      "end": "2026-02-04T00:00:00Z",
+      "count": 592
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-02-04T00:00:00Z",
+      "end": "2026-02-07T12:00:00Z",
+      "count": 750
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-02-07T12:00:00Z",
+      "end": "2026-02-11T00:00:00Z",
+      "count": 702
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-02-11T00:00:00Z",
+      "end": "2026-02-12T18:00:00Z",
+      "count": 622
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-02-12T18:00:00Z",
+      "end": "2026-02-14T12:00:00Z",
+      "count": 477
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-02-14T12:00:00Z",
+      "end": "2026-02-18T00:00:00Z",
+      "count": 338
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-02-18T00:00:00Z",
+      "end": "2026-02-21T12:00:00Z",
+      "count": 790
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-02-21T12:00:00Z",
+      "end": "2026-02-25T00:00:00Z",
+      "count": 572
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-02-25T00:00:00Z",
+      "end": "2026-02-28T12:00:00Z",
+      "count": 860
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-02-28T12:00:00Z",
+      "end": "2026-03-04T00:00:00Z",
+      "count": 457
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-03-04T00:00:00Z",
+      "end": "2026-03-07T12:00:00Z",
+      "count": 848
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-03-07T12:00:00Z",
+      "end": "2026-03-11T00:00:00Z",
+      "count": 631
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-03-11T00:00:00Z",
+      "end": "2026-03-14T12:00:00Z",
+      "count": 831
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-03-14T12:00:00Z",
+      "end": "2026-03-18T00:00:00Z",
+      "count": 382
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-03-18T00:00:00Z",
+      "end": "2026-03-21T12:00:00Z",
+      "count": 607
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-03-21T12:00:00Z",
+      "end": "2026-03-25T00:00:00Z",
+      "count": 574
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-03-25T00:00:00Z",
+      "end": "2026-03-28T12:00:00Z",
+      "count": 802
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-03-28T12:00:00Z",
+      "end": "2026-04-01T00:00:00Z",
+      "count": 327
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-04-01T00:00:00Z",
+      "end": "2026-04-04T12:00:00Z",
+      "count": 665
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-04-04T12:00:00Z",
+      "end": "2026-04-08T00:00:00Z",
+      "count": 464
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-04-08T00:00:00Z",
+      "end": "2026-04-11T12:00:00Z",
+      "count": 723
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-04-11T12:00:00Z",
+      "end": "2026-04-15T00:00:00Z",
+      "count": 592
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-04-15T00:00:00Z",
+      "end": "2026-04-16T18:00:00Z",
+      "count": 547
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-04-16T18:00:00Z",
+      "end": "2026-04-18T12:00:00Z",
+      "count": 511
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-04-18T12:00:00Z",
+      "end": "2026-04-22T00:00:00Z",
+      "count": 968
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-04-22T00:00:00Z",
+      "end": "2026-04-23T18:00:00Z",
+      "count": 650
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-04-23T18:00:00Z",
+      "end": "2026-04-25T12:00:00Z",
+      "count": 478
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-04-25T12:00:00Z",
+      "end": "2026-04-29T00:00:00Z",
+      "count": 834
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-04-29T00:00:00Z",
+      "end": "2026-05-02T12:00:00Z",
+      "count": 944
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-05-02T12:00:00Z",
+      "end": "2026-05-06T00:00:00Z",
+      "count": 554
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-05-06T00:00:00Z",
+      "end": "2026-05-07T18:00:00Z",
+      "count": 467
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-05-07T18:00:00Z",
+      "end": "2026-05-09T12:00:00Z",
+      "count": 551
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-05-09T12:00:00Z",
+      "end": "2026-05-13T00:00:00Z",
+      "count": 500
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-05-13T00:00:00Z",
+      "end": "2026-05-16T12:00:00Z",
+      "count": 948
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-05-16T12:00:00Z",
+      "end": "2026-05-20T00:00:00Z",
+      "count": 586
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-05-20T00:00:00Z",
+      "end": "2026-05-23T12:00:00Z",
+      "count": 859
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-05-23T12:00:00Z",
+      "end": "2026-05-27T00:00:00Z",
+      "count": 321
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-05-27T00:00:00Z",
+      "end": "2026-05-30T12:00:00Z",
+      "count": 803
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-05-30T12:00:00Z",
+      "end": "2026-06-03T00:00:00Z",
+      "count": 663
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-06-03T00:00:00Z",
+      "end": "2026-06-06T12:00:00Z",
+      "count": 739
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-06-06T12:00:00Z",
+      "end": "2026-06-10T00:00:00Z",
+      "count": 445
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-06-10T00:00:00Z",
+      "end": "2026-06-11T18:00:00Z",
+      "count": 489
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-06-11T18:00:00Z",
+      "end": "2026-06-13T12:00:00Z",
+      "count": 557
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-06-13T12:00:00Z",
+      "end": "2026-06-17T00:00:00Z",
+      "count": 714
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-06-17T00:00:00Z",
+      "end": "2026-06-20T12:00:00Z",
+      "count": 634
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-06-20T12:00:00Z",
+      "end": "2026-06-24T00:00:00Z",
+      "count": 795
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-06-24T00:00:00Z",
+      "end": "2026-07-01T00:00:00Z",
+      "count": 845
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-07-01T00:00:00Z",
+      "end": "2026-07-08T00:00:00Z",
+      "count": 164
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-07-08T00:00:00Z",
+      "end": "2026-07-15T00:00:00Z",
+      "count": 491
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-07-15T00:00:00Z",
+      "end": "2026-07-22T00:00:00Z",
+      "count": 528
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-07-22T00:00:00Z",
+      "end": "2026-07-29T00:00:00Z",
+      "count": 465
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-07-29T00:00:00Z",
+      "end": "2026-08-05T00:00:00Z",
+      "count": 494
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-08-05T00:00:00Z",
+      "end": "2026-08-12T00:00:00Z",
+      "count": 471
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-08-12T00:00:00Z",
+      "end": "2026-08-19T00:00:00Z",
+      "count": 738
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-08-19T00:00:00Z",
+      "end": "2026-08-26T00:00:00Z",
+      "count": 728
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-08-26T00:00:00Z",
+      "end": "2026-09-02T00:00:00Z",
+      "count": 578
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-09-02T00:00:00Z",
+      "end": "2026-09-09T00:00:00Z",
+      "count": 698
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-09-09T00:00:00Z",
+      "end": "2026-09-16T00:00:00Z",
+      "count": 724
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-09-16T00:00:00Z",
+      "end": "2026-09-23T00:00:00Z",
+      "count": 874
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-09-23T00:00:00Z",
+      "end": "2026-09-30T00:00:00Z",
+      "count": 826
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-09-30T00:00:00Z",
+      "end": "2026-10-07T00:00:00Z",
+      "count": 706
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-10-07T00:00:00Z",
+      "end": "2026-10-14T00:00:00Z",
+      "count": 516
+    },
+    {
+      "kind": "workflow:push",
+      "start": "2026-10-14T00:00:00Z",
+      "end": "2026-10-21T00:00:00Z",
+      "count": 525
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-10-22T00:00:00Z",
+      "end": "2025-10-23T18:00:00Z",
+      "count": 455
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-10-23T18:00:00Z",
+      "end": "2025-10-25T12:00:00Z",
+      "count": 641
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-10-25T12:00:00Z",
+      "end": "2025-10-27T06:00:00Z",
+      "count": 328
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-10-27T06:00:00Z",
+      "end": "2025-10-29T00:00:00Z",
+      "count": 775
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-10-29T00:00:00Z",
+      "end": "2025-10-30T18:00:00Z",
+      "count": 587
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-10-30T18:00:00Z",
+      "end": "2025-11-01T12:00:00Z",
+      "count": 484
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-11-01T12:00:00Z",
+      "end": "2025-11-05T00:00:00Z",
+      "count": 945
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-11-05T00:00:00Z",
+      "end": "2025-11-06T18:00:00Z",
+      "count": 761
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-11-06T18:00:00Z",
+      "end": "2025-11-08T12:00:00Z",
+      "count": 732
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-11-08T12:00:00Z",
+      "end": "2025-11-12T00:00:00Z",
+      "count": 919
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-11-12T00:00:00Z",
+      "end": "2025-11-13T18:00:00Z",
+      "count": 791
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-11-13T18:00:00Z",
+      "end": "2025-11-14T15:00:00Z",
+      "count": 654
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-11-14T15:00:00Z",
+      "end": "2025-11-15T12:00:00Z",
+      "count": 410
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-11-15T12:00:00Z",
+      "end": "2025-11-17T06:00:00Z",
+      "count": 218
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-11-17T06:00:00Z",
+      "end": "2025-11-18T03:00:00Z",
+      "count": 555
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-11-18T03:00:00Z",
+      "end": "2025-11-19T00:00:00Z",
+      "count": 680
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-11-19T00:00:00Z",
+      "end": "2025-11-19T21:00:00Z",
+      "count": 888
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-11-19T21:00:00Z",
+      "end": "2025-11-20T18:00:00Z",
+      "count": 361
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-11-20T18:00:00Z",
+      "end": "2025-11-21T15:00:00Z",
+      "count": 766
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-11-21T15:00:00Z",
+      "end": "2025-11-22T12:00:00Z",
+      "count": 508
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-11-22T12:00:00Z",
+      "end": "2025-11-26T00:00:00Z",
+      "count": 671
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-11-26T00:00:00Z",
+      "end": "2025-11-29T12:00:00Z",
+      "count": 205
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-11-29T12:00:00Z",
+      "end": "2025-12-03T00:00:00Z",
+      "count": 969
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-12-03T00:00:00Z",
+      "end": "2025-12-04T18:00:00Z",
+      "count": 989
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-12-04T18:00:00Z",
+      "end": "2025-12-05T15:00:00Z",
+      "count": 576
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-12-05T15:00:00Z",
+      "end": "2025-12-06T12:00:00Z",
+      "count": 512
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-12-06T12:00:00Z",
+      "end": "2025-12-08T06:00:00Z",
+      "count": 297
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-12-08T06:00:00Z",
+      "end": "2025-12-10T00:00:00Z",
+      "count": 999
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-12-10T00:00:00Z",
+      "end": "2025-12-10T21:00:00Z",
+      "count": 661
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-12-10T21:00:00Z",
+      "end": "2025-12-11T18:00:00Z",
+      "count": 595
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-12-11T18:00:00Z",
+      "end": "2025-12-13T12:00:00Z",
+      "count": 677
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-12-13T12:00:00Z",
+      "end": "2025-12-15T06:00:00Z",
+      "count": 225
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-12-15T06:00:00Z",
+      "end": "2025-12-17T00:00:00Z",
+      "count": 805
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-12-17T00:00:00Z",
+      "end": "2025-12-17T21:00:00Z",
+      "count": 547
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-12-17T21:00:00Z",
+      "end": "2025-12-18T18:00:00Z",
+      "count": 665
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-12-18T18:00:00Z",
+      "end": "2025-12-20T12:00:00Z",
+      "count": 937
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-12-20T12:00:00Z",
+      "end": "2025-12-24T00:00:00Z",
+      "count": 884
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-12-24T00:00:00Z",
+      "end": "2025-12-31T00:00:00Z",
+      "count": 408
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2025-12-31T00:00:00Z",
+      "end": "2026-01-03T12:00:00Z",
+      "count": 234
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-03T12:00:00Z",
+      "end": "2026-01-05T06:00:00Z",
+      "count": 115
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-05T06:00:00Z",
+      "end": "2026-01-07T00:00:00Z",
+      "count": 995
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-07T00:00:00Z",
+      "end": "2026-01-07T21:00:00Z",
+      "count": 555
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-07T21:00:00Z",
+      "end": "2026-01-08T18:00:00Z",
+      "count": 745
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-08T18:00:00Z",
+      "end": "2026-01-09T15:00:00Z",
+      "count": 770
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-09T15:00:00Z",
+      "end": "2026-01-10T12:00:00Z",
+      "count": 920
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-10T12:00:00Z",
+      "end": "2026-01-12T06:00:00Z",
+      "count": 318
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-12T06:00:00Z",
+      "end": "2026-01-13T03:00:00Z",
+      "count": 833
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-13T03:00:00Z",
+      "end": "2026-01-14T00:00:00Z",
+      "count": 968
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-14T00:00:00Z",
+      "end": "2026-01-14T10:30:00Z",
+      "count": 744
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-14T10:30:00Z",
+      "end": "2026-01-14T21:00:00Z",
+      "count": 346
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-14T21:00:00Z",
+      "end": "2026-01-15T18:00:00Z",
+      "count": 641
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-15T18:00:00Z",
+      "end": "2026-01-16T15:00:00Z",
+      "count": 730
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-16T15:00:00Z",
+      "end": "2026-01-17T12:00:00Z",
+      "count": 548
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-17T12:00:00Z",
+      "end": "2026-01-19T06:00:00Z",
+      "count": 529
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-19T06:00:00Z",
+      "end": "2026-01-20T03:00:00Z",
+      "count": 516
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-20T03:00:00Z",
+      "end": "2026-01-21T00:00:00Z",
+      "count": 945
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-21T00:00:00Z",
+      "end": "2026-01-21T21:00:00Z",
+      "count": 908
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-21T21:00:00Z",
+      "end": "2026-01-22T18:00:00Z",
+      "count": 624
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-22T18:00:00Z",
+      "end": "2026-01-23T15:00:00Z",
+      "count": 671
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-23T15:00:00Z",
+      "end": "2026-01-24T12:00:00Z",
+      "count": 539
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-24T12:00:00Z",
+      "end": "2026-01-26T06:00:00Z",
+      "count": 588
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-26T06:00:00Z",
+      "end": "2026-01-27T03:00:00Z",
+      "count": 932
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-27T03:00:00Z",
+      "end": "2026-01-27T13:30:00Z",
+      "count": 506
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-27T13:30:00Z",
+      "end": "2026-01-28T00:00:00Z",
+      "count": 699
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-28T00:00:00Z",
+      "end": "2026-01-28T21:00:00Z",
+      "count": 702
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-28T21:00:00Z",
+      "end": "2026-01-29T07:30:00Z",
+      "count": 554
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-29T07:30:00Z",
+      "end": "2026-01-29T18:00:00Z",
+      "count": 559
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-29T18:00:00Z",
+      "end": "2026-01-30T04:30:00Z",
+      "count": 794
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-30T04:30:00Z",
+      "end": "2026-01-30T15:00:00Z",
+      "count": 406
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-30T15:00:00Z",
+      "end": "2026-01-30T20:15:00Z",
+      "count": 594
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-30T20:15:00Z",
+      "end": "2026-01-31T01:30:00Z",
+      "count": 810
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-31T01:30:00Z",
+      "end": "2026-01-31T12:00:00Z",
+      "count": 150
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-01-31T12:00:00Z",
+      "end": "2026-02-01T09:00:00Z",
+      "count": 562
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-01T09:00:00Z",
+      "end": "2026-02-02T06:00:00Z",
+      "count": 438
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-02T06:00:00Z",
+      "end": "2026-02-02T16:30:00Z",
+      "count": 276
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-02T16:30:00Z",
+      "end": "2026-02-02T21:45:00Z",
+      "count": 435
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-02T21:45:00Z",
+      "end": "2026-02-03T03:00:00Z",
+      "count": 656
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-03T03:00:00Z",
+      "end": "2026-02-04T00:00:00Z",
+      "count": 907
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-04T00:00:00Z",
+      "end": "2026-02-04T21:00:00Z",
+      "count": 788
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-04T21:00:00Z",
+      "end": "2026-02-05T07:30:00Z",
+      "count": 869
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-05T07:30:00Z",
+      "end": "2026-02-05T18:00:00Z",
+      "count": 318
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-05T18:00:00Z",
+      "end": "2026-02-06T15:00:00Z",
+      "count": 795
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-06T15:00:00Z",
+      "end": "2026-02-07T01:30:00Z",
+      "count": 800
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-07T01:30:00Z",
+      "end": "2026-02-07T12:00:00Z",
+      "count": 658
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-07T12:00:00Z",
+      "end": "2026-02-08T09:00:00Z",
+      "count": 492
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-08T09:00:00Z",
+      "end": "2026-02-09T06:00:00Z",
+      "count": 553
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-09T06:00:00Z",
+      "end": "2026-02-09T16:30:00Z",
+      "count": 171
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-09T16:30:00Z",
+      "end": "2026-02-09T21:45:00Z",
+      "count": 433
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-09T21:45:00Z",
+      "end": "2026-02-10T03:00:00Z",
+      "count": 759
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-10T03:00:00Z",
+      "end": "2026-02-10T13:30:00Z",
+      "count": 583
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-10T13:30:00Z",
+      "end": "2026-02-10T18:45:00Z",
+      "count": 377
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-10T18:45:00Z",
+      "end": "2026-02-11T00:00:00Z",
+      "count": 778
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-11T00:00:00Z",
+      "end": "2026-02-11T05:15:00Z",
+      "count": 752
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-11T05:15:00Z",
+      "end": "2026-02-11T10:30:00Z",
+      "count": 318
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-11T10:30:00Z",
+      "end": "2026-02-11T15:45:00Z",
+      "count": 144
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-11T15:45:00Z",
+      "end": "2026-02-11T21:00:00Z",
+      "count": 964
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-11T21:00:00Z",
+      "end": "2026-02-12T02:15:00Z",
+      "count": 729
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-12T02:15:00Z",
+      "end": "2026-02-12T07:30:00Z",
+      "count": 498
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-12T07:30:00Z",
+      "end": "2026-02-12T18:00:00Z",
+      "count": 443
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-12T18:00:00Z",
+      "end": "2026-02-12T23:15:00Z",
+      "count": 725
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-12T23:15:00Z",
+      "end": "2026-02-13T04:30:00Z",
+      "count": 708
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-13T04:30:00Z",
+      "end": "2026-02-13T15:00:00Z",
+      "count": 486
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-13T15:00:00Z",
+      "end": "2026-02-13T20:15:00Z",
+      "count": 508
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-13T20:15:00Z",
+      "end": "2026-02-14T01:30:00Z",
+      "count": 788
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-14T01:30:00Z",
+      "end": "2026-02-14T12:00:00Z",
+      "count": 148
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-14T12:00:00Z",
+      "end": "2026-02-16T06:00:00Z",
+      "count": 506
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-16T06:00:00Z",
+      "end": "2026-02-17T03:00:00Z",
+      "count": 420
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-17T03:00:00Z",
+      "end": "2026-02-17T13:30:00Z",
+      "count": 198
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-17T13:30:00Z",
+      "end": "2026-02-18T00:00:00Z",
+      "count": 900
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-18T00:00:00Z",
+      "end": "2026-02-18T05:15:00Z",
+      "count": 791
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-18T05:15:00Z",
+      "end": "2026-02-18T10:30:00Z",
+      "count": 318
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-18T10:30:00Z",
+      "end": "2026-02-18T21:00:00Z",
+      "count": 416
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-18T21:00:00Z",
+      "end": "2026-02-19T18:00:00Z",
+      "count": 745
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-19T18:00:00Z",
+      "end": "2026-02-19T23:15:00Z",
+      "count": 652
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-19T23:15:00Z",
+      "end": "2026-02-20T04:30:00Z",
+      "count": 419
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-20T04:30:00Z",
+      "end": "2026-02-20T15:00:00Z",
+      "count": 542
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-20T15:00:00Z",
+      "end": "2026-02-20T20:15:00Z",
+      "count": 507
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-20T20:15:00Z",
+      "end": "2026-02-21T01:30:00Z",
+      "count": 745
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-21T01:30:00Z",
+      "end": "2026-02-21T12:00:00Z",
+      "count": 888
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-21T12:00:00Z",
+      "end": "2026-02-22T09:00:00Z",
+      "count": 487
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-22T09:00:00Z",
+      "end": "2026-02-23T06:00:00Z",
+      "count": 652
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-23T06:00:00Z",
+      "end": "2026-02-23T16:30:00Z",
+      "count": 384
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-23T16:30:00Z",
+      "end": "2026-02-24T03:00:00Z",
+      "count": 926
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-24T03:00:00Z",
+      "end": "2026-02-24T13:30:00Z",
+      "count": 602
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-24T13:30:00Z",
+      "end": "2026-02-25T00:00:00Z",
+      "count": 708
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-25T00:00:00Z",
+      "end": "2026-02-25T05:15:00Z",
+      "count": 719
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-25T05:15:00Z",
+      "end": "2026-02-25T10:30:00Z",
+      "count": 438
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-25T10:30:00Z",
+      "end": "2026-02-25T21:00:00Z",
+      "count": 654
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-25T21:00:00Z",
+      "end": "2026-02-26T07:30:00Z",
+      "count": 977
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-26T07:30:00Z",
+      "end": "2026-02-26T18:00:00Z",
+      "count": 300
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-26T18:00:00Z",
+      "end": "2026-02-27T04:30:00Z",
+      "count": 696
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-27T04:30:00Z",
+      "end": "2026-02-27T15:00:00Z",
+      "count": 335
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-27T15:00:00Z",
+      "end": "2026-02-28T01:30:00Z",
+      "count": 988
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-28T01:30:00Z",
+      "end": "2026-02-28T12:00:00Z",
+      "count": 162
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-02-28T12:00:00Z",
+      "end": "2026-03-02T06:00:00Z",
+      "count": 511
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-02T06:00:00Z",
+      "end": "2026-03-03T03:00:00Z",
+      "count": 923
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-03T03:00:00Z",
+      "end": "2026-03-03T13:30:00Z",
+      "count": 508
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-03T13:30:00Z",
+      "end": "2026-03-03T18:45:00Z",
+      "count": 311
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-03T18:45:00Z",
+      "end": "2026-03-04T00:00:00Z",
+      "count": 972
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-04T00:00:00Z",
+      "end": "2026-03-04T10:30:00Z",
+      "count": 898
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-04T10:30:00Z",
+      "end": "2026-03-04T21:00:00Z",
+      "count": 590
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-04T21:00:00Z",
+      "end": "2026-03-05T02:15:00Z",
+      "count": 672
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-05T02:15:00Z",
+      "end": "2026-03-05T07:30:00Z",
+      "count": 433
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-05T07:30:00Z",
+      "end": "2026-03-05T18:00:00Z",
+      "count": 426
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-05T18:00:00Z",
+      "end": "2026-03-05T23:15:00Z",
+      "count": 564
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-05T23:15:00Z",
+      "end": "2026-03-06T04:30:00Z",
+      "count": 617
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-06T04:30:00Z",
+      "end": "2026-03-06T15:00:00Z",
+      "count": 598
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-06T15:00:00Z",
+      "end": "2026-03-06T20:15:00Z",
+      "count": 997
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-06T20:15:00Z",
+      "end": "2026-03-06T22:52:30Z",
+      "count": 986
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-06T22:52:30Z",
+      "end": "2026-03-07T00:11:15Z",
+      "count": 855
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-07T00:11:15Z",
+      "end": "2026-03-07T01:30:00Z",
+      "count": 349
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-07T01:30:00Z",
+      "end": "2026-03-07T12:00:00Z",
+      "count": 815
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-07T12:00:00Z",
+      "end": "2026-03-07T17:15:00Z",
+      "count": 360
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-07T17:15:00Z",
+      "end": "2026-03-07T18:33:45Z",
+      "count": 762
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-07T18:33:45Z",
+      "end": "2026-03-07T19:52:30Z",
+      "count": 851
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-07T19:52:30Z",
+      "end": "2026-03-07T22:30:00Z",
+      "count": 816
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-07T22:30:00Z",
+      "end": "2026-03-08T09:00:00Z",
+      "count": 838
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-08T09:00:00Z",
+      "end": "2026-03-08T19:30:00Z",
+      "count": 252
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-08T19:30:00Z",
+      "end": "2026-03-09T06:00:00Z",
+      "count": 806
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-09T06:00:00Z",
+      "end": "2026-03-09T16:30:00Z",
+      "count": 189
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-09T16:30:00Z",
+      "end": "2026-03-10T03:00:00Z",
+      "count": 879
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-10T03:00:00Z",
+      "end": "2026-03-10T13:30:00Z",
+      "count": 701
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-10T13:30:00Z",
+      "end": "2026-03-10T18:45:00Z",
+      "count": 312
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-10T18:45:00Z",
+      "end": "2026-03-11T00:00:00Z",
+      "count": 703
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-11T00:00:00Z",
+      "end": "2026-03-11T10:30:00Z",
+      "count": 690
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-11T10:30:00Z",
+      "end": "2026-03-11T21:00:00Z",
+      "count": 569
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-11T21:00:00Z",
+      "end": "2026-03-12T02:15:00Z",
+      "count": 708
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-12T02:15:00Z",
+      "end": "2026-03-12T07:30:00Z",
+      "count": 566
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-12T07:30:00Z",
+      "end": "2026-03-12T18:00:00Z",
+      "count": 496
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-12T18:00:00Z",
+      "end": "2026-03-12T23:15:00Z",
+      "count": 841
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-12T23:15:00Z",
+      "end": "2026-03-13T04:30:00Z",
+      "count": 648
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-13T04:30:00Z",
+      "end": "2026-03-13T15:00:00Z",
+      "count": 709
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-13T15:00:00Z",
+      "end": "2026-03-13T20:15:00Z",
+      "count": 974
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-13T20:15:00Z",
+      "end": "2026-03-13T22:52:30Z",
+      "count": 676
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-13T22:52:30Z",
+      "end": "2026-03-14T01:30:00Z",
+      "count": 478
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-14T01:30:00Z",
+      "end": "2026-03-14T12:00:00Z",
+      "count": 893
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-14T12:00:00Z",
+      "end": "2026-03-15T09:00:00Z",
+      "count": 716
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-15T09:00:00Z",
+      "end": "2026-03-16T06:00:00Z",
+      "count": 461
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-16T06:00:00Z",
+      "end": "2026-03-16T16:30:00Z",
+      "count": 256
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-16T16:30:00Z",
+      "end": "2026-03-16T21:45:00Z",
+      "count": 771
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-16T21:45:00Z",
+      "end": "2026-03-17T03:00:00Z",
+      "count": 918
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-17T03:00:00Z",
+      "end": "2026-03-17T13:30:00Z",
+      "count": 497
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-17T13:30:00Z",
+      "end": "2026-03-17T18:45:00Z",
+      "count": 740
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-17T18:45:00Z",
+      "end": "2026-03-17T21:22:30Z",
+      "count": 540
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-17T21:22:30Z",
+      "end": "2026-03-18T00:00:00Z",
+      "count": 545
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-18T00:00:00Z",
+      "end": "2026-03-18T10:30:00Z",
+      "count": 842
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-18T10:30:00Z",
+      "end": "2026-03-18T21:00:00Z",
+      "count": 827
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-18T21:00:00Z",
+      "end": "2026-03-19T02:15:00Z",
+      "count": 894
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-19T02:15:00Z",
+      "end": "2026-03-19T07:30:00Z",
+      "count": 440
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-19T07:30:00Z",
+      "end": "2026-03-19T18:00:00Z",
+      "count": 547
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-19T18:00:00Z",
+      "end": "2026-03-19T20:37:30Z",
+      "count": 631
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-19T20:37:30Z",
+      "end": "2026-03-19T23:15:00Z",
+      "count": 797
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-19T23:15:00Z",
+      "end": "2026-03-20T01:52:30Z",
+      "count": 745
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-20T01:52:30Z",
+      "end": "2026-03-20T04:30:00Z",
+      "count": 621
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-20T04:30:00Z",
+      "end": "2026-03-20T15:00:00Z",
+      "count": 636
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-20T15:00:00Z",
+      "end": "2026-03-20T20:15:00Z",
+      "count": 846
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-20T20:15:00Z",
+      "end": "2026-03-21T01:30:00Z",
+      "count": 668
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-21T01:30:00Z",
+      "end": "2026-03-21T12:00:00Z",
+      "count": 314
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-21T12:00:00Z",
+      "end": "2026-03-23T06:00:00Z",
+      "count": 721
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-23T06:00:00Z",
+      "end": "2026-03-23T16:30:00Z",
+      "count": 168
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-23T16:30:00Z",
+      "end": "2026-03-23T21:45:00Z",
+      "count": 951
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-23T21:45:00Z",
+      "end": "2026-03-24T00:22:30Z",
+      "count": 543
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-24T00:22:30Z",
+      "end": "2026-03-24T03:00:00Z",
+      "count": 458
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-24T03:00:00Z",
+      "end": "2026-03-24T08:15:00Z",
+      "count": 825
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-24T08:15:00Z",
+      "end": "2026-03-24T13:30:00Z",
+      "count": 345
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-24T13:30:00Z",
+      "end": "2026-03-24T18:45:00Z",
+      "count": 776
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-24T18:45:00Z",
+      "end": "2026-03-24T21:22:30Z",
+      "count": 585
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-24T21:22:30Z",
+      "end": "2026-03-25T00:00:00Z",
+      "count": 505
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-25T00:00:00Z",
+      "end": "2026-03-25T10:30:00Z",
+      "count": 919
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-25T10:30:00Z",
+      "end": "2026-03-25T15:45:00Z",
+      "count": 312
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-25T15:45:00Z",
+      "end": "2026-03-25T21:00:00Z",
+      "count": 853
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-25T21:00:00Z",
+      "end": "2026-03-26T07:30:00Z",
+      "count": 838
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-26T07:30:00Z",
+      "end": "2026-03-26T18:00:00Z",
+      "count": 438
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-26T18:00:00Z",
+      "end": "2026-03-26T23:15:00Z",
+      "count": 665
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-26T23:15:00Z",
+      "end": "2026-03-27T04:30:00Z",
+      "count": 395
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-27T04:30:00Z",
+      "end": "2026-03-27T15:00:00Z",
+      "count": 785
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-27T15:00:00Z",
+      "end": "2026-03-27T20:15:00Z",
+      "count": 593
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-27T20:15:00Z",
+      "end": "2026-03-28T01:30:00Z",
+      "count": 680
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-28T01:30:00Z",
+      "end": "2026-03-28T12:00:00Z",
+      "count": 520
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-28T12:00:00Z",
+      "end": "2026-03-28T17:15:00Z",
+      "count": 128
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-28T17:15:00Z",
+      "end": "2026-03-28T22:30:00Z",
+      "count": 899
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-28T22:30:00Z",
+      "end": "2026-03-29T09:00:00Z",
+      "count": 606
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-29T09:00:00Z",
+      "end": "2026-03-30T06:00:00Z",
+      "count": 379
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-30T06:00:00Z",
+      "end": "2026-03-30T16:30:00Z",
+      "count": 365
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-30T16:30:00Z",
+      "end": "2026-03-30T21:45:00Z",
+      "count": 635
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-30T21:45:00Z",
+      "end": "2026-03-31T03:00:00Z",
+      "count": 403
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-31T03:00:00Z",
+      "end": "2026-03-31T13:30:00Z",
+      "count": 433
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-03-31T13:30:00Z",
+      "end": "2026-04-01T00:00:00Z",
+      "count": 669
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-01T00:00:00Z",
+      "end": "2026-04-01T10:30:00Z",
+      "count": 343
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-01T10:30:00Z",
+      "end": "2026-04-01T21:00:00Z",
+      "count": 680
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-01T21:00:00Z",
+      "end": "2026-04-02T07:30:00Z",
+      "count": 597
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-02T07:30:00Z",
+      "end": "2026-04-02T18:00:00Z",
+      "count": 452
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-02T18:00:00Z",
+      "end": "2026-04-03T04:30:00Z",
+      "count": 750
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-03T04:30:00Z",
+      "end": "2026-04-03T15:00:00Z",
+      "count": 262
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-03T15:00:00Z",
+      "end": "2026-04-03T20:15:00Z",
+      "count": 333
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-03T20:15:00Z",
+      "end": "2026-04-04T01:30:00Z",
+      "count": 740
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-04T01:30:00Z",
+      "end": "2026-04-04T12:00:00Z",
+      "count": 478
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-04T12:00:00Z",
+      "end": "2026-04-04T22:30:00Z",
+      "count": 668
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-04T22:30:00Z",
+      "end": "2026-04-05T01:07:30Z",
+      "count": 794
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-05T01:07:30Z",
+      "end": "2026-04-05T03:45:00Z",
+      "count": 488
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-05T03:45:00Z",
+      "end": "2026-04-05T09:00:00Z",
+      "count": 593
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-05T09:00:00Z",
+      "end": "2026-04-06T06:00:00Z",
+      "count": 277
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-06T06:00:00Z",
+      "end": "2026-04-06T16:30:00Z",
+      "count": 70
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-06T16:30:00Z",
+      "end": "2026-04-06T19:07:30Z",
+      "count": 549
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-06T19:07:30Z",
+      "end": "2026-04-06T21:45:00Z",
+      "count": 516
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-06T21:45:00Z",
+      "end": "2026-04-07T00:22:30Z",
+      "count": 749
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-07T00:22:30Z",
+      "end": "2026-04-07T03:00:00Z",
+      "count": 485
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-07T03:00:00Z",
+      "end": "2026-04-07T13:30:00Z",
+      "count": 807
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-07T13:30:00Z",
+      "end": "2026-04-07T18:45:00Z",
+      "count": 421
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-07T18:45:00Z",
+      "end": "2026-04-07T21:22:30Z",
+      "count": 590
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-07T21:22:30Z",
+      "end": "2026-04-08T00:00:00Z",
+      "count": 693
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-08T00:00:00Z",
+      "end": "2026-04-08T10:30:00Z",
+      "count": 858
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-08T10:30:00Z",
+      "end": "2026-04-08T15:45:00Z",
+      "count": 210
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-08T15:45:00Z",
+      "end": "2026-04-08T21:00:00Z",
+      "count": 811
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-08T21:00:00Z",
+      "end": "2026-04-09T02:15:00Z",
+      "count": 741
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-09T02:15:00Z",
+      "end": "2026-04-09T07:30:00Z",
+      "count": 344
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-09T07:30:00Z",
+      "end": "2026-04-09T18:00:00Z",
+      "count": 510
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-09T18:00:00Z",
+      "end": "2026-04-09T23:15:00Z",
+      "count": 626
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-09T23:15:00Z",
+      "end": "2026-04-10T04:30:00Z",
+      "count": 727
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-10T04:30:00Z",
+      "end": "2026-04-10T15:00:00Z",
+      "count": 242
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-10T15:00:00Z",
+      "end": "2026-04-10T20:15:00Z",
+      "count": 639
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-10T20:15:00Z",
+      "end": "2026-04-10T22:52:30Z",
+      "count": 664
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-10T22:52:30Z",
+      "end": "2026-04-11T01:30:00Z",
+      "count": 755
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-11T01:30:00Z",
+      "end": "2026-04-11T12:00:00Z",
+      "count": 863
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-11T12:00:00Z",
+      "end": "2026-04-12T09:00:00Z",
+      "count": 540
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-12T09:00:00Z",
+      "end": "2026-04-13T06:00:00Z",
+      "count": 794
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-13T06:00:00Z",
+      "end": "2026-04-13T16:30:00Z",
+      "count": 441
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-13T16:30:00Z",
+      "end": "2026-04-13T21:45:00Z",
+      "count": 851
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-13T21:45:00Z",
+      "end": "2026-04-14T03:00:00Z",
+      "count": 980
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-14T03:00:00Z",
+      "end": "2026-04-14T13:30:00Z",
+      "count": 616
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-14T13:30:00Z",
+      "end": "2026-04-14T18:45:00Z",
+      "count": 373
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-14T18:45:00Z",
+      "end": "2026-04-14T21:22:30Z",
+      "count": 519
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-14T21:22:30Z",
+      "end": "2026-04-15T00:00:00Z",
+      "count": 566
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-15T00:00:00Z",
+      "end": "2026-04-15T02:37:30Z",
+      "count": 533
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-15T02:37:30Z",
+      "end": "2026-04-15T05:15:00Z",
+      "count": 563
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-15T05:15:00Z",
+      "end": "2026-04-15T10:30:00Z",
+      "count": 368
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-15T10:30:00Z",
+      "end": "2026-04-15T15:45:00Z",
+      "count": 233
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-15T15:45:00Z",
+      "end": "2026-04-15T18:22:30Z",
+      "count": 535
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-15T18:22:30Z",
+      "end": "2026-04-15T21:00:00Z",
+      "count": 710
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-15T21:00:00Z",
+      "end": "2026-04-15T22:18:45Z",
+      "count": 507
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-15T22:18:45Z",
+      "end": "2026-04-15T23:37:30Z",
+      "count": 496
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-15T23:37:30Z",
+      "end": "2026-04-16T02:15:00Z",
+      "count": 581
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-16T02:15:00Z",
+      "end": "2026-04-16T07:30:00Z",
+      "count": 976
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-16T07:30:00Z",
+      "end": "2026-04-16T12:45:00Z",
+      "count": 203
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-16T12:45:00Z",
+      "end": "2026-04-16T15:22:30Z",
+      "count": 362
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-16T15:22:30Z",
+      "end": "2026-04-16T16:41:15Z",
+      "count": 491
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-16T16:41:15Z",
+      "end": "2026-04-16T18:00:00Z",
+      "count": 602
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-16T18:00:00Z",
+      "end": "2026-04-16T20:37:30Z",
+      "count": 976
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-16T20:37:30Z",
+      "end": "2026-04-16T23:15:00Z",
+      "count": 714
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-16T23:15:00Z",
+      "end": "2026-04-17T04:30:00Z",
+      "count": 957
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-17T04:30:00Z",
+      "end": "2026-04-17T07:07:30Z",
+      "count": 721
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-17T07:07:30Z",
+      "end": "2026-04-17T09:45:00Z",
+      "count": 492
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-17T09:45:00Z",
+      "end": "2026-04-17T15:00:00Z",
+      "count": 98
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-17T15:00:00Z",
+      "end": "2026-04-17T17:37:30Z",
+      "count": 536
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-17T17:37:30Z",
+      "end": "2026-04-17T18:56:15Z",
+      "count": 832
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-17T18:56:15Z",
+      "end": "2026-04-17T20:15:00Z",
+      "count": 637
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-17T20:15:00Z",
+      "end": "2026-04-17T22:52:30Z",
+      "count": 545
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-17T22:52:30Z",
+      "end": "2026-04-18T00:11:15Z",
+      "count": 612
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-18T00:11:15Z",
+      "end": "2026-04-18T01:30:00Z",
+      "count": 633
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-18T01:30:00Z",
+      "end": "2026-04-18T12:00:00Z",
+      "count": 409
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-18T12:00:00Z",
+      "end": "2026-04-18T22:30:00Z",
+      "count": 456
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-18T22:30:00Z",
+      "end": "2026-04-19T09:00:00Z",
+      "count": 641
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-19T09:00:00Z",
+      "end": "2026-04-19T19:30:00Z",
+      "count": 553
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-19T19:30:00Z",
+      "end": "2026-04-20T06:00:00Z",
+      "count": 905
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-20T06:00:00Z",
+      "end": "2026-04-20T16:30:00Z",
+      "count": 715
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-20T16:30:00Z",
+      "end": "2026-04-20T17:48:45Z",
+      "count": 743
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-20T17:48:45Z",
+      "end": "2026-04-20T18:28:07Z",
+      "count": 412
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-20T18:28:07Z",
+      "end": "2026-04-20T19:07:30Z",
+      "count": 623
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-20T19:07:30Z",
+      "end": "2026-04-20T20:26:15Z",
+      "count": 827
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-20T20:26:15Z",
+      "end": "2026-04-20T21:45:00Z",
+      "count": 622
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-20T21:45:00Z",
+      "end": "2026-04-20T22:24:22Z",
+      "count": 689
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-20T22:24:22Z",
+      "end": "2026-04-20T23:03:45Z",
+      "count": 428
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-20T23:03:45Z",
+      "end": "2026-04-21T00:22:30Z",
+      "count": 812
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-21T00:22:30Z",
+      "end": "2026-04-21T01:01:52Z",
+      "count": 680
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-21T01:01:52Z",
+      "end": "2026-04-21T01:41:15Z",
+      "count": 444
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-21T01:41:15Z",
+      "end": "2026-04-21T03:00:00Z",
+      "count": 874
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-21T03:00:00Z",
+      "end": "2026-04-21T05:37:30Z",
+      "count": 942
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-21T05:37:30Z",
+      "end": "2026-04-21T06:16:52Z",
+      "count": 887
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-21T06:16:52Z",
+      "end": "2026-04-21T06:56:15Z",
+      "count": 290
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-21T06:56:15Z",
+      "end": "2026-04-21T08:15:00Z",
+      "count": 223
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-21T08:15:00Z",
+      "end": "2026-04-21T13:30:00Z",
+      "count": 310
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-21T13:30:00Z",
+      "end": "2026-04-21T16:07:30Z",
+      "count": 181
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-21T16:07:30Z",
+      "end": "2026-04-21T17:26:15Z",
+      "count": 457
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-21T17:26:15Z",
+      "end": "2026-04-21T18:45:00Z",
+      "count": 624
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-21T18:45:00Z",
+      "end": "2026-04-21T21:22:30Z",
+      "count": 900
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-21T21:22:30Z",
+      "end": "2026-04-22T00:00:00Z",
+      "count": 740
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-22T00:00:00Z",
+      "end": "2026-04-22T01:18:45Z",
+      "count": 789
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-22T01:18:45Z",
+      "end": "2026-04-22T02:37:30Z",
+      "count": 494
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-22T02:37:30Z",
+      "end": "2026-04-22T05:15:00Z",
+      "count": 817
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-22T05:15:00Z",
+      "end": "2026-04-22T07:52:30Z",
+      "count": 906
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-22T07:52:30Z",
+      "end": "2026-04-22T10:30:00Z",
+      "count": 112
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-22T10:30:00Z",
+      "end": "2026-04-22T15:45:00Z",
+      "count": 264
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-22T15:45:00Z",
+      "end": "2026-04-22T18:22:30Z",
+      "count": 886
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-22T18:22:30Z",
+      "end": "2026-04-22T21:00:00Z",
+      "count": 872
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-22T21:00:00Z",
+      "end": "2026-04-22T22:18:45Z",
+      "count": 798
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-22T22:18:45Z",
+      "end": "2026-04-22T23:37:30Z",
+      "count": 903
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-22T23:37:30Z",
+      "end": "2026-04-23T02:15:00Z",
+      "count": 787
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-23T02:15:00Z",
+      "end": "2026-04-23T04:52:30Z",
+      "count": 570
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-23T04:52:30Z",
+      "end": "2026-04-23T07:30:00Z",
+      "count": 828
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-23T07:30:00Z",
+      "end": "2026-04-23T18:00:00Z",
+      "count": 547
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-23T18:00:00Z",
+      "end": "2026-04-23T23:15:00Z",
+      "count": 971
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-23T23:15:00Z",
+      "end": "2026-04-24T04:30:00Z",
+      "count": 602
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-24T04:30:00Z",
+      "end": "2026-04-24T15:00:00Z",
+      "count": 441
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-24T15:00:00Z",
+      "end": "2026-04-24T17:37:30Z",
+      "count": 831
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-24T17:37:30Z",
+      "end": "2026-04-24T20:15:00Z",
+      "count": 473
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-24T20:15:00Z",
+      "end": "2026-04-24T22:52:30Z",
+      "count": 693
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-24T22:52:30Z",
+      "end": "2026-04-25T01:30:00Z",
+      "count": 661
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-25T01:30:00Z",
+      "end": "2026-04-25T04:07:30Z",
+      "count": 930
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-25T04:07:30Z",
+      "end": "2026-04-25T06:45:00Z",
+      "count": 350
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-25T06:45:00Z",
+      "end": "2026-04-25T12:00:00Z",
+      "count": 34
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-25T12:00:00Z",
+      "end": "2026-04-25T22:30:00Z",
+      "count": 845
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-25T22:30:00Z",
+      "end": "2026-04-26T01:07:30Z",
+      "count": 984
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-26T01:07:30Z",
+      "end": "2026-04-26T03:45:00Z",
+      "count": 666
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-26T03:45:00Z",
+      "end": "2026-04-26T06:22:30Z",
+      "count": 406
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-26T06:22:30Z",
+      "end": "2026-04-26T09:00:00Z",
+      "count": 618
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-26T09:00:00Z",
+      "end": "2026-04-26T14:15:00Z",
+      "count": 866
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-26T14:15:00Z",
+      "end": "2026-04-26T19:30:00Z",
+      "count": 318
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-26T19:30:00Z",
+      "end": "2026-04-27T00:45:00Z",
+      "count": 906
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-27T00:45:00Z",
+      "end": "2026-04-27T06:00:00Z",
+      "count": 991
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-27T06:00:00Z",
+      "end": "2026-04-27T16:30:00Z",
+      "count": 840
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-27T16:30:00Z",
+      "end": "2026-04-27T19:07:30Z",
+      "count": 953
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-27T19:07:30Z",
+      "end": "2026-04-27T20:26:15Z",
+      "count": 263
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-27T20:26:15Z",
+      "end": "2026-04-27T21:45:00Z",
+      "count": 745
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-27T21:45:00Z",
+      "end": "2026-04-27T23:03:45Z",
+      "count": 747
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-27T23:03:45Z",
+      "end": "2026-04-28T00:22:30Z",
+      "count": 556
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-28T00:22:30Z",
+      "end": "2026-04-28T03:00:00Z",
+      "count": 269
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-28T03:00:00Z",
+      "end": "2026-04-28T05:37:30Z",
+      "count": 996
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-28T05:37:30Z",
+      "end": "2026-04-28T08:15:00Z",
+      "count": 205
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-28T08:15:00Z",
+      "end": "2026-04-28T13:30:00Z",
+      "count": 140
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-28T13:30:00Z",
+      "end": "2026-04-28T16:07:30Z",
+      "count": 272
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-28T16:07:30Z",
+      "end": "2026-04-28T16:46:52Z",
+      "count": 489
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-28T16:46:52Z",
+      "end": "2026-04-28T17:26:15Z",
+      "count": 670
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-28T17:26:15Z",
+      "end": "2026-04-28T18:45:00Z",
+      "count": 638
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-28T18:45:00Z",
+      "end": "2026-04-28T20:03:45Z",
+      "count": 612
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-28T20:03:45Z",
+      "end": "2026-04-28T20:23:26Z",
+      "count": 876
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-28T20:23:26Z",
+      "end": "2026-04-28T20:43:07Z",
+      "count": 347
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-28T20:43:07Z",
+      "end": "2026-04-28T21:22:30Z",
+      "count": 90
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-28T21:22:30Z",
+      "end": "2026-04-29T00:00:00Z",
+      "count": 759
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-29T00:00:00Z",
+      "end": "2026-04-29T01:18:45Z",
+      "count": 852
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-29T01:18:45Z",
+      "end": "2026-04-29T02:37:30Z",
+      "count": 278
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-29T02:37:30Z",
+      "end": "2026-04-29T05:15:00Z",
+      "count": 438
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-29T05:15:00Z",
+      "end": "2026-04-29T07:52:30Z",
+      "count": 504
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-29T07:52:30Z",
+      "end": "2026-04-29T10:30:00Z",
+      "count": 659
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-29T10:30:00Z",
+      "end": "2026-04-29T15:45:00Z",
+      "count": 84
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-29T15:45:00Z",
+      "end": "2026-04-29T18:22:30Z",
+      "count": 633
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-29T18:22:30Z",
+      "end": "2026-04-29T21:00:00Z",
+      "count": 621
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-29T21:00:00Z",
+      "end": "2026-04-29T23:37:30Z",
+      "count": 597
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-29T23:37:30Z",
+      "end": "2026-04-30T02:15:00Z",
+      "count": 411
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-30T02:15:00Z",
+      "end": "2026-04-30T07:30:00Z",
+      "count": 847
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-30T07:30:00Z",
+      "end": "2026-04-30T10:07:30Z",
+      "count": 794
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-30T10:07:30Z",
+      "end": "2026-04-30T12:45:00Z",
+      "count": 411
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-30T12:45:00Z",
+      "end": "2026-04-30T18:00:00Z",
+      "count": 771
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-30T18:00:00Z",
+      "end": "2026-04-30T20:37:30Z",
+      "count": 657
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-30T20:37:30Z",
+      "end": "2026-04-30T23:15:00Z",
+      "count": 628
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-04-30T23:15:00Z",
+      "end": "2026-05-01T01:52:30Z",
+      "count": 600
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-01T01:52:30Z",
+      "end": "2026-05-01T04:30:00Z",
+      "count": 489
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-01T04:30:00Z",
+      "end": "2026-05-01T15:00:00Z",
+      "count": 647
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-01T15:00:00Z",
+      "end": "2026-05-01T17:37:30Z",
+      "count": 376
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-01T17:37:30Z",
+      "end": "2026-05-01T18:56:15Z",
+      "count": 417
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-01T18:56:15Z",
+      "end": "2026-05-01T20:15:00Z",
+      "count": 642
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-01T20:15:00Z",
+      "end": "2026-05-01T21:33:45Z",
+      "count": 541
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-01T21:33:45Z",
+      "end": "2026-05-01T22:52:30Z",
+      "count": 459
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-01T22:52:30Z",
+      "end": "2026-05-02T01:30:00Z",
+      "count": 528
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-02T01:30:00Z",
+      "end": "2026-05-02T12:00:00Z",
+      "count": 428
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-02T12:00:00Z",
+      "end": "2026-05-03T09:00:00Z",
+      "count": 596
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-03T09:00:00Z",
+      "end": "2026-05-03T19:30:00Z",
+      "count": 206
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-03T19:30:00Z",
+      "end": "2026-05-04T00:45:00Z",
+      "count": 560
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-04T00:45:00Z",
+      "end": "2026-05-04T06:00:00Z",
+      "count": 496
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-04T06:00:00Z",
+      "end": "2026-05-04T16:30:00Z",
+      "count": 571
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-04T16:30:00Z",
+      "end": "2026-05-04T19:07:30Z",
+      "count": 940
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-04T19:07:30Z",
+      "end": "2026-05-04T21:45:00Z",
+      "count": 621
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-04T21:45:00Z",
+      "end": "2026-05-05T00:22:30Z",
+      "count": 937
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-05T00:22:30Z",
+      "end": "2026-05-05T03:00:00Z",
+      "count": 229
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-05T03:00:00Z",
+      "end": "2026-05-05T13:30:00Z",
+      "count": 746
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-05T13:30:00Z",
+      "end": "2026-05-05T16:07:30Z",
+      "count": 129
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-05T16:07:30Z",
+      "end": "2026-05-05T18:45:00Z",
+      "count": 925
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-05T18:45:00Z",
+      "end": "2026-05-05T21:22:30Z",
+      "count": 785
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-05T21:22:30Z",
+      "end": "2026-05-05T22:41:15Z",
+      "count": 848
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-05T22:41:15Z",
+      "end": "2026-05-06T00:00:00Z",
+      "count": 857
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-06T00:00:00Z",
+      "end": "2026-05-06T10:30:00Z",
+      "count": 741
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-06T10:30:00Z",
+      "end": "2026-05-06T15:45:00Z",
+      "count": 280
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-06T15:45:00Z",
+      "end": "2026-05-06T21:00:00Z",
+      "count": 923
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-06T21:00:00Z",
+      "end": "2026-05-06T22:18:45Z",
+      "count": 645
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-06T22:18:45Z",
+      "end": "2026-05-06T23:37:30Z",
+      "count": 496
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-06T23:37:30Z",
+      "end": "2026-05-07T02:15:00Z",
+      "count": 409
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-07T02:15:00Z",
+      "end": "2026-05-07T07:30:00Z",
+      "count": 683
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-07T07:30:00Z",
+      "end": "2026-05-07T18:00:00Z",
+      "count": 480
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-07T18:00:00Z",
+      "end": "2026-05-07T23:15:00Z",
+      "count": 981
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-07T23:15:00Z",
+      "end": "2026-05-08T04:30:00Z",
+      "count": 751
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-08T04:30:00Z",
+      "end": "2026-05-08T15:00:00Z",
+      "count": 637
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-08T15:00:00Z",
+      "end": "2026-05-08T20:15:00Z",
+      "count": 980
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-08T20:15:00Z",
+      "end": "2026-05-09T01:30:00Z",
+      "count": 863
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-09T01:30:00Z",
+      "end": "2026-05-09T12:00:00Z",
+      "count": 475
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-09T12:00:00Z",
+      "end": "2026-05-11T06:00:00Z",
+      "count": 998
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-11T06:00:00Z",
+      "end": "2026-05-11T16:30:00Z",
+      "count": 429
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-11T16:30:00Z",
+      "end": "2026-05-11T19:07:30Z",
+      "count": 514
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-11T19:07:30Z",
+      "end": "2026-05-11T21:45:00Z",
+      "count": 896
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-11T21:45:00Z",
+      "end": "2026-05-11T23:03:45Z",
+      "count": 729
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-11T23:03:45Z",
+      "end": "2026-05-12T00:22:30Z",
+      "count": 346
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-12T00:22:30Z",
+      "end": "2026-05-12T03:00:00Z",
+      "count": 454
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-12T03:00:00Z",
+      "end": "2026-05-12T13:30:00Z",
+      "count": 794
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-12T13:30:00Z",
+      "end": "2026-05-13T00:00:00Z",
+      "count": 774
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-13T00:00:00Z",
+      "end": "2026-05-13T02:37:30Z",
+      "count": 824
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-13T02:37:30Z",
+      "end": "2026-05-13T05:15:00Z",
+      "count": 341
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-13T05:15:00Z",
+      "end": "2026-05-13T10:30:00Z",
+      "count": 427
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-13T10:30:00Z",
+      "end": "2026-05-13T15:45:00Z",
+      "count": 362
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-13T15:45:00Z",
+      "end": "2026-05-13T21:00:00Z",
+      "count": 899
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-13T21:00:00Z",
+      "end": "2026-05-14T07:30:00Z",
+      "count": 607
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-14T07:30:00Z",
+      "end": "2026-05-14T18:00:00Z",
+      "count": 545
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-14T18:00:00Z",
+      "end": "2026-05-14T23:15:00Z",
+      "count": 677
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-14T23:15:00Z",
+      "end": "2026-05-15T01:52:30Z",
+      "count": 809
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-15T01:52:30Z",
+      "end": "2026-05-15T04:30:00Z",
+      "count": 892
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-15T04:30:00Z",
+      "end": "2026-05-15T15:00:00Z",
+      "count": 915
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-15T15:00:00Z",
+      "end": "2026-05-15T20:15:00Z",
+      "count": 792
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-15T20:15:00Z",
+      "end": "2026-05-16T01:30:00Z",
+      "count": 839
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-16T01:30:00Z",
+      "end": "2026-05-16T12:00:00Z",
+      "count": 295
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-16T12:00:00Z",
+      "end": "2026-05-16T22:30:00Z",
+      "count": 464
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-16T22:30:00Z",
+      "end": "2026-05-17T09:00:00Z",
+      "count": 551
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-17T09:00:00Z",
+      "end": "2026-05-18T06:00:00Z",
+      "count": 519
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-18T06:00:00Z",
+      "end": "2026-05-18T16:30:00Z",
+      "count": 366
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-18T16:30:00Z",
+      "end": "2026-05-18T21:45:00Z",
+      "count": 741
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-18T21:45:00Z",
+      "end": "2026-05-19T00:22:30Z",
+      "count": 549
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-19T00:22:30Z",
+      "end": "2026-05-19T03:00:00Z",
+      "count": 555
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-19T03:00:00Z",
+      "end": "2026-05-19T13:30:00Z",
+      "count": 663
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-19T13:30:00Z",
+      "end": "2026-05-19T18:45:00Z",
+      "count": 458
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-19T18:45:00Z",
+      "end": "2026-05-19T20:03:45Z",
+      "count": 452
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-19T20:03:45Z",
+      "end": "2026-05-19T21:22:30Z",
+      "count": 574
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-19T21:22:30Z",
+      "end": "2026-05-20T00:00:00Z",
+      "count": 512
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-20T00:00:00Z",
+      "end": "2026-05-20T02:37:30Z",
+      "count": 688
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-20T02:37:30Z",
+      "end": "2026-05-20T05:15:00Z",
+      "count": 604
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-20T05:15:00Z",
+      "end": "2026-05-20T10:30:00Z",
+      "count": 562
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-20T10:30:00Z",
+      "end": "2026-05-20T15:45:00Z",
+      "count": 194
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-20T15:45:00Z",
+      "end": "2026-05-20T18:22:30Z",
+      "count": 850
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-20T18:22:30Z",
+      "end": "2026-05-20T21:00:00Z",
+      "count": 674
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-20T21:00:00Z",
+      "end": "2026-05-20T23:37:30Z",
+      "count": 919
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-20T23:37:30Z",
+      "end": "2026-05-21T02:15:00Z",
+      "count": 306
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-21T02:15:00Z",
+      "end": "2026-05-21T07:30:00Z",
+      "count": 106
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-21T07:30:00Z",
+      "end": "2026-05-21T18:00:00Z",
+      "count": 521
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-21T18:00:00Z",
+      "end": "2026-05-22T04:30:00Z",
+      "count": 996
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-22T04:30:00Z",
+      "end": "2026-05-22T15:00:00Z",
+      "count": 226
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-22T15:00:00Z",
+      "end": "2026-05-22T20:15:00Z",
+      "count": 689
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-22T20:15:00Z",
+      "end": "2026-05-22T22:52:30Z",
+      "count": 689
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-22T22:52:30Z",
+      "end": "2026-05-23T01:30:00Z",
+      "count": 991
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-23T01:30:00Z",
+      "end": "2026-05-23T12:00:00Z",
+      "count": 109
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-23T12:00:00Z",
+      "end": "2026-05-25T06:00:00Z",
+      "count": 727
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-25T06:00:00Z",
+      "end": "2026-05-26T03:00:00Z",
+      "count": 271
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-26T03:00:00Z",
+      "end": "2026-05-26T13:30:00Z",
+      "count": 384
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-26T13:30:00Z",
+      "end": "2026-05-26T18:45:00Z",
+      "count": 553
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-26T18:45:00Z",
+      "end": "2026-05-26T21:22:30Z",
+      "count": 690
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-26T21:22:30Z",
+      "end": "2026-05-27T00:00:00Z",
+      "count": 488
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-27T00:00:00Z",
+      "end": "2026-05-27T10:30:00Z",
+      "count": 609
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-27T10:30:00Z",
+      "end": "2026-05-27T21:00:00Z",
+      "count": 769
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-27T21:00:00Z",
+      "end": "2026-05-28T07:30:00Z",
+      "count": 740
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-28T07:30:00Z",
+      "end": "2026-05-28T18:00:00Z",
+      "count": 545
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-28T18:00:00Z",
+      "end": "2026-05-28T23:15:00Z",
+      "count": 951
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-28T23:15:00Z",
+      "end": "2026-05-29T04:30:00Z",
+      "count": 672
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-29T04:30:00Z",
+      "end": "2026-05-29T09:45:00Z",
+      "count": 961
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-29T09:45:00Z",
+      "end": "2026-05-29T15:00:00Z",
+      "count": 959
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-29T15:00:00Z",
+      "end": "2026-05-29T17:37:30Z",
+      "count": 355
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-29T17:37:30Z",
+      "end": "2026-05-29T20:15:00Z",
+      "count": 668
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-29T20:15:00Z",
+      "end": "2026-05-29T22:52:30Z",
+      "count": 817
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-29T22:52:30Z",
+      "end": "2026-05-30T01:30:00Z",
+      "count": 549
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-30T01:30:00Z",
+      "end": "2026-05-30T12:00:00Z",
+      "count": 248
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-30T12:00:00Z",
+      "end": "2026-05-30T22:30:00Z",
+      "count": 584
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-30T22:30:00Z",
+      "end": "2026-05-31T09:00:00Z",
+      "count": 624
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-31T09:00:00Z",
+      "end": "2026-05-31T19:30:00Z",
+      "count": 447
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-05-31T19:30:00Z",
+      "end": "2026-06-01T06:00:00Z",
+      "count": 709
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-01T06:00:00Z",
+      "end": "2026-06-01T16:30:00Z",
+      "count": 464
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-01T16:30:00Z",
+      "end": "2026-06-01T19:07:30Z",
+      "count": 534
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-01T19:07:30Z",
+      "end": "2026-06-01T21:45:00Z",
+      "count": 596
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-01T21:45:00Z",
+      "end": "2026-06-02T03:00:00Z",
+      "count": 764
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-02T03:00:00Z",
+      "end": "2026-06-02T13:30:00Z",
+      "count": 576
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-02T13:30:00Z",
+      "end": "2026-06-02T18:45:00Z",
+      "count": 696
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-02T18:45:00Z",
+      "end": "2026-06-03T00:00:00Z",
+      "count": 986
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-03T00:00:00Z",
+      "end": "2026-06-03T05:15:00Z",
+      "count": 336
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-03T05:15:00Z",
+      "end": "2026-06-03T10:30:00Z",
+      "count": 874
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-03T10:30:00Z",
+      "end": "2026-06-03T15:45:00Z",
+      "count": 710
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-03T15:45:00Z",
+      "end": "2026-06-03T18:22:30Z",
+      "count": 410
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-03T18:22:30Z",
+      "end": "2026-06-03T21:00:00Z",
+      "count": 896
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-03T21:00:00Z",
+      "end": "2026-06-03T23:37:30Z",
+      "count": 879
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-03T23:37:30Z",
+      "end": "2026-06-04T02:15:00Z",
+      "count": 777
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-04T02:15:00Z",
+      "end": "2026-06-04T07:30:00Z",
+      "count": 284
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-04T07:30:00Z",
+      "end": "2026-06-04T18:00:00Z",
+      "count": 525
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-04T18:00:00Z",
+      "end": "2026-06-04T23:15:00Z",
+      "count": 677
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-04T23:15:00Z",
+      "end": "2026-06-05T04:30:00Z",
+      "count": 542
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-05T04:30:00Z",
+      "end": "2026-06-05T09:45:00Z",
+      "count": 838
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-05T09:45:00Z",
+      "end": "2026-06-05T15:00:00Z",
+      "count": 276
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-05T15:00:00Z",
+      "end": "2026-06-05T20:15:00Z",
+      "count": 966
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-05T20:15:00Z",
+      "end": "2026-06-06T01:30:00Z",
+      "count": 641
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-06T01:30:00Z",
+      "end": "2026-06-06T12:00:00Z",
+      "count": 170
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-06T12:00:00Z",
+      "end": "2026-06-08T06:00:00Z",
+      "count": 978
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-08T06:00:00Z",
+      "end": "2026-06-08T16:30:00Z",
+      "count": 456
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-08T16:30:00Z",
+      "end": "2026-06-08T19:07:30Z",
+      "count": 628
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-08T19:07:30Z",
+      "end": "2026-06-08T21:45:00Z",
+      "count": 600
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-08T21:45:00Z",
+      "end": "2026-06-09T03:00:00Z",
+      "count": 927
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-09T03:00:00Z",
+      "end": "2026-06-09T13:30:00Z",
+      "count": 447
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-09T13:30:00Z",
+      "end": "2026-06-09T18:45:00Z",
+      "count": 602
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-09T18:45:00Z",
+      "end": "2026-06-09T21:22:30Z",
+      "count": 738
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-09T21:22:30Z",
+      "end": "2026-06-09T22:41:15Z",
+      "count": 423
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-09T22:41:15Z",
+      "end": "2026-06-10T00:00:00Z",
+      "count": 696
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-10T00:00:00Z",
+      "end": "2026-06-10T02:37:30Z",
+      "count": 422
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-10T02:37:30Z",
+      "end": "2026-06-10T05:15:00Z",
+      "count": 682
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-10T05:15:00Z",
+      "end": "2026-06-10T10:30:00Z",
+      "count": 504
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-10T10:30:00Z",
+      "end": "2026-06-10T15:45:00Z",
+      "count": 220
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-10T15:45:00Z",
+      "end": "2026-06-10T18:22:30Z",
+      "count": 835
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-10T18:22:30Z",
+      "end": "2026-06-10T21:00:00Z",
+      "count": 808
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-10T21:00:00Z",
+      "end": "2026-06-10T23:37:30Z",
+      "count": 651
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-10T23:37:30Z",
+      "end": "2026-06-11T02:15:00Z",
+      "count": 630
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-11T02:15:00Z",
+      "end": "2026-06-11T07:30:00Z",
+      "count": 682
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-11T07:30:00Z",
+      "end": "2026-06-11T18:00:00Z",
+      "count": 884
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-11T18:00:00Z",
+      "end": "2026-06-11T20:37:30Z",
+      "count": 634
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-11T20:37:30Z",
+      "end": "2026-06-11T23:15:00Z",
+      "count": 535
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-11T23:15:00Z",
+      "end": "2026-06-12T04:30:00Z",
+      "count": 695
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-12T04:30:00Z",
+      "end": "2026-06-12T09:45:00Z",
+      "count": 723
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-12T09:45:00Z",
+      "end": "2026-06-12T15:00:00Z",
+      "count": 290
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-12T15:00:00Z",
+      "end": "2026-06-12T17:37:30Z",
+      "count": 310
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-12T17:37:30Z",
+      "end": "2026-06-12T20:15:00Z",
+      "count": 694
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-12T20:15:00Z",
+      "end": "2026-06-12T22:52:30Z",
+      "count": 663
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-12T22:52:30Z",
+      "end": "2026-06-13T01:30:00Z",
+      "count": 619
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-13T01:30:00Z",
+      "end": "2026-06-13T04:07:30Z",
+      "count": 400
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-13T04:07:30Z",
+      "end": "2026-06-13T06:45:00Z",
+      "count": 889
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-13T06:45:00Z",
+      "end": "2026-06-13T12:00:00Z",
+      "count": 129
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-13T12:00:00Z",
+      "end": "2026-06-14T09:00:00Z",
+      "count": 907
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-14T09:00:00Z",
+      "end": "2026-06-15T06:00:00Z",
+      "count": 566
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-15T06:00:00Z",
+      "end": "2026-06-15T11:15:00Z",
+      "count": 381
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-15T11:15:00Z",
+      "end": "2026-06-15T16:30:00Z",
+      "count": 887
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-15T16:30:00Z",
+      "end": "2026-06-15T19:07:30Z",
+      "count": 744
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-15T19:07:30Z",
+      "end": "2026-06-15T21:45:00Z",
+      "count": 881
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-15T21:45:00Z",
+      "end": "2026-06-15T23:03:45Z",
+      "count": 511
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-15T23:03:45Z",
+      "end": "2026-06-16T00:22:30Z",
+      "count": 695
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-16T00:22:30Z",
+      "end": "2026-06-16T03:00:00Z",
+      "count": 352
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-16T03:00:00Z",
+      "end": "2026-06-16T05:37:30Z",
+      "count": 390
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-16T05:37:30Z",
+      "end": "2026-06-16T08:15:00Z",
+      "count": 624
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-16T08:15:00Z",
+      "end": "2026-06-16T13:30:00Z",
+      "count": 140
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-16T13:30:00Z",
+      "end": "2026-06-16T18:45:00Z",
+      "count": 652
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-16T18:45:00Z",
+      "end": "2026-06-16T21:22:30Z",
+      "count": 566
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-16T21:22:30Z",
+      "end": "2026-06-17T00:00:00Z",
+      "count": 691
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-17T00:00:00Z",
+      "end": "2026-06-17T05:15:00Z",
+      "count": 879
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-17T05:15:00Z",
+      "end": "2026-06-17T10:30:00Z",
+      "count": 199
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-17T10:30:00Z",
+      "end": "2026-06-17T15:45:00Z",
+      "count": 362
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-17T15:45:00Z",
+      "end": "2026-06-17T18:22:30Z",
+      "count": 446
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-17T18:22:30Z",
+      "end": "2026-06-17T21:00:00Z",
+      "count": 710
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-17T21:00:00Z",
+      "end": "2026-06-17T23:37:30Z",
+      "count": 846
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-17T23:37:30Z",
+      "end": "2026-06-18T02:15:00Z",
+      "count": 440
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-18T02:15:00Z",
+      "end": "2026-06-18T07:30:00Z",
+      "count": 594
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-18T07:30:00Z",
+      "end": "2026-06-18T18:00:00Z",
+      "count": 812
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-18T18:00:00Z",
+      "end": "2026-06-18T20:37:30Z",
+      "count": 661
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-18T20:37:30Z",
+      "end": "2026-06-18T23:15:00Z",
+      "count": 481
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-18T23:15:00Z",
+      "end": "2026-06-19T04:30:00Z",
+      "count": 596
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-19T04:30:00Z",
+      "end": "2026-06-19T15:00:00Z",
+      "count": 420
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-19T15:00:00Z",
+      "end": "2026-06-20T12:00:00Z",
+      "count": 632
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-20T12:00:00Z",
+      "end": "2026-06-21T09:00:00Z",
+      "count": 492
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-21T09:00:00Z",
+      "end": "2026-06-22T06:00:00Z",
+      "count": 593
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-22T06:00:00Z",
+      "end": "2026-06-22T16:30:00Z",
+      "count": 842
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-22T16:30:00Z",
+      "end": "2026-06-22T19:07:30Z",
+      "count": 479
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-22T19:07:30Z",
+      "end": "2026-06-22T21:45:00Z",
+      "count": 574
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-22T21:45:00Z",
+      "end": "2026-06-23T00:22:30Z",
+      "count": 726
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-23T00:22:30Z",
+      "end": "2026-06-23T03:00:00Z",
+      "count": 466
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-23T03:00:00Z",
+      "end": "2026-06-23T13:30:00Z",
+      "count": 828
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-23T13:30:00Z",
+      "end": "2026-06-23T18:45:00Z",
+      "count": 741
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-23T18:45:00Z",
+      "end": "2026-06-23T21:22:30Z",
+      "count": 782
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-23T21:22:30Z",
+      "end": "2026-06-24T00:00:00Z",
+      "count": 958
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-24T00:00:00Z",
+      "end": "2026-06-24T10:30:00Z",
+      "count": 986
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-24T10:30:00Z",
+      "end": "2026-06-24T15:45:00Z",
+      "count": 220
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-24T15:45:00Z",
+      "end": "2026-06-24T21:00:00Z",
+      "count": 891
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-24T21:00:00Z",
+      "end": "2026-06-25T02:15:00Z",
+      "count": 994
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-25T02:15:00Z",
+      "end": "2026-06-25T07:30:00Z",
+      "count": 839
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-25T07:30:00Z",
+      "end": "2026-06-25T18:00:00Z",
+      "count": 703
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-25T18:00:00Z",
+      "end": "2026-06-25T20:37:30Z",
+      "count": 745
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-25T20:37:30Z",
+      "end": "2026-06-25T23:15:00Z",
+      "count": 519
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-25T23:15:00Z",
+      "end": "2026-06-26T04:30:00Z",
+      "count": 585
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-26T04:30:00Z",
+      "end": "2026-06-26T15:00:00Z",
+      "count": 477
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-26T15:00:00Z",
+      "end": "2026-06-27T12:00:00Z",
+      "count": 985
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-06-27T12:00:00Z",
+      "end": "2026-07-01T00:00:00Z",
+      "count": 474
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-07-01T00:00:00Z",
+      "end": "2026-07-04T12:00:00Z",
+      "count": 658
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-07-04T12:00:00Z",
+      "end": "2026-07-06T06:00:00Z",
+      "count": 68
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-07-06T06:00:00Z",
+      "end": "2026-07-07T03:00:00Z",
+      "count": 742
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-07-07T03:00:00Z",
+      "end": "2026-07-07T13:30:00Z",
+      "count": 372
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-07-07T13:30:00Z",
+      "end": "2026-07-08T00:00:00Z",
+      "count": 658
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-07-08T00:00:00Z",
+      "end": "2026-07-08T21:00:00Z",
+      "count": 532
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-07-08T21:00:00Z",
+      "end": "2026-07-09T18:00:00Z",
+      "count": 678
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-07-09T18:00:00Z",
+      "end": "2026-07-10T04:30:00Z",
+      "count": 986
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-07-10T04:30:00Z",
+      "end": "2026-07-10T15:00:00Z",
+      "count": 102
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-07-10T15:00:00Z",
+      "end": "2026-07-11T12:00:00Z",
+      "count": 124
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-07-11T12:00:00Z",
+      "end": "2026-07-15T00:00:00Z",
+      "count": 334
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-07-15T00:00:00Z",
+      "end": "2026-07-18T12:00:00Z",
+      "count": 486
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-07-18T12:00:00Z",
+      "end": "2026-07-22T00:00:00Z",
+      "count": 542
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-07-22T00:00:00Z",
+      "end": "2026-07-29T00:00:00Z",
+      "count": 900
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-07-29T00:00:00Z",
+      "end": "2026-08-01T12:00:00Z",
+      "count": 564
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-08-01T12:00:00Z",
+      "end": "2026-08-05T00:00:00Z",
+      "count": 466
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-08-05T00:00:00Z",
+      "end": "2026-08-12T00:00:00Z",
+      "count": 978
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-08-12T00:00:00Z",
+      "end": "2026-08-15T12:00:00Z",
+      "count": 800
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-08-15T12:00:00Z",
+      "end": "2026-08-19T00:00:00Z",
+      "count": 748
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-08-19T00:00:00Z",
+      "end": "2026-08-22T12:00:00Z",
+      "count": 888
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-08-22T12:00:00Z",
+      "end": "2026-08-26T00:00:00Z",
+      "count": 668
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-08-26T00:00:00Z",
+      "end": "2026-08-29T12:00:00Z",
+      "count": 662
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-08-29T12:00:00Z",
+      "end": "2026-09-02T00:00:00Z",
+      "count": 460
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-09-02T00:00:00Z",
+      "end": "2026-09-05T12:00:00Z",
+      "count": 710
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-09-05T12:00:00Z",
+      "end": "2026-09-09T00:00:00Z",
+      "count": 676
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-09-09T00:00:00Z",
+      "end": "2026-09-12T12:00:00Z",
+      "count": 832
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-09-12T12:00:00Z",
+      "end": "2026-09-16T00:00:00Z",
+      "count": 552
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-09-16T00:00:00Z",
+      "end": "2026-09-19T12:00:00Z",
+      "count": 834
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-09-19T12:00:00Z",
+      "end": "2026-09-23T00:00:00Z",
+      "count": 824
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-09-23T00:00:00Z",
+      "end": "2026-09-26T12:00:00Z",
+      "count": 954
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-09-26T12:00:00Z",
+      "end": "2026-09-30T00:00:00Z",
+      "count": 608
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-09-30T00:00:00Z",
+      "end": "2026-10-03T12:00:00Z",
+      "count": 842
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-10-03T12:00:00Z",
+      "end": "2026-10-07T00:00:00Z",
+      "count": 510
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-10-07T00:00:00Z",
+      "end": "2026-10-14T00:00:00Z",
+      "count": 998
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-10-14T00:00:00Z",
+      "end": "2026-10-17T12:00:00Z",
+      "count": 540
+    },
+    {
+      "kind": "workflow:pull_request",
+      "start": "2026-10-17T12:00:00Z",
+      "end": "2026-10-21T00:00:00Z",
+      "count": 478
+    },
+    {
+      "kind": "comments",
+      "start": "2025-10-22T00:00:00Z",
+      "end": "2026-10-21T00:00:00Z",
+      "count": 29956
+    }
+  ],
+  "counts": {
+    "commit": 10787,
+    "issue_opened": 33964,
+    "pr_opened": 14989,
+    "workflow:push": 48139,
+    "workflow:pull_request": 398476,
+    "comments": 29956
+  },
+  "unattributed_contributions": 25,
+  "bot_overrides": {},
+  "definitions": {
+    "contributions": [
+      "commit",
+      "issue_opened",
+      "pr_opened"
+    ],
+    "threshold": "total_contributions > 1",
+    "response": "first non-author comment per responder class before end; cohort by issue opening date",
+    "week": "Monday 00:00 UTC; partial first/last bins",
+    "month": "calendar month UTC; partial first/last bins",
+    "workflows": "one latest representation per run ID; current state at page retrieval, not at cutoff",
+    "other_user": "not identified as bot; not proof of human identity"
+  },
+  "limitations": [
+    "No pull_request action=opened field in workflow-runs REST response",
+    "No reconstruction of deleted or inaccessible events",
+    "No authoritative total for commit/comment list endpoints",
+    "Search indexing and concurrent changes can affect results",
+    "Unlinked/placeholder identities excluded from account contributor tables",
+    "Response times are censored at end; observed-only means can bias downward",
+    "Any gap makes associated metric data_complete false; zero is not reliable then"
+  ],
+  "query_metadata": "Exact URLs, parameters, timestamps and rate-limit headers are in cache.sqlite3 pages",
+  "reproduce_command": "Use same arguments and cache; --refresh-all fetches newer mutable states"
+}

@@ -1,0 +1,2094 @@
+{
+  "api_version": "2022-11-28",
+  "complete_for_query_scope": true,
+  "completed_intervals": [
+    {
+      "api_total": 83,
+      "count": 83,
+      "end_exclusive": "2025-10-29T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:15:47Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2025-10-22T00:00:00Z..2025-10-28T23:59:59Z",
+      "start": "2025-10-22T00:00:00Z"
+    },
+    {
+      "api_total": 87,
+      "count": 87,
+      "end_exclusive": "2025-11-05T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:15:48Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2025-10-29T00:00:00Z..2025-11-04T23:59:59Z",
+      "start": "2025-10-29T00:00:00Z"
+    },
+    {
+      "api_total": 94,
+      "count": 94,
+      "end_exclusive": "2025-11-12T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:15:51Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2025-11-05T00:00:00Z..2025-11-11T23:59:59Z",
+      "start": "2025-11-05T00:00:00Z"
+    },
+    {
+      "api_total": 107,
+      "count": 107,
+      "end_exclusive": "2025-11-19T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:15:53Z",
+        "2026-10-23T00:15:54Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2025-11-12T00:00:00Z..2025-11-18T23:59:59Z",
+      "start": "2025-11-12T00:00:00Z"
+    },
+    {
+      "api_total": 145,
+      "count": 145,
+      "end_exclusive": "2025-11-26T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:15:58Z",
+        "2026-10-23T00:15:59Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2025-11-19T00:00:00Z..2025-11-25T23:59:59Z",
+      "start": "2025-11-19T00:00:00Z"
+    },
+    {
+      "api_total": 48,
+      "count": 48,
+      "end_exclusive": "2025-12-03T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:16:01Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2025-11-26T00:00:00Z..2025-12-02T23:59:59Z",
+      "start": "2025-11-26T00:00:00Z"
+    },
+    {
+      "api_total": 117,
+      "count": 117,
+      "end_exclusive": "2025-12-10T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:16:24Z",
+        "2026-10-23T00:16:24Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2025-12-03T00:00:00Z..2025-12-09T23:59:59Z",
+      "start": "2025-12-03T00:00:00Z"
+    },
+    {
+      "api_total": 134,
+      "count": 134,
+      "end_exclusive": "2025-12-17T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:16:27Z",
+        "2026-10-23T00:16:29Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2025-12-10T00:00:00Z..2025-12-16T23:59:59Z",
+      "start": "2025-12-10T00:00:00Z"
+    },
+    {
+      "api_total": 126,
+      "count": 126,
+      "end_exclusive": "2025-12-24T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:16:32Z",
+        "2026-10-23T00:16:33Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2025-12-17T00:00:00Z..2025-12-23T23:59:59Z",
+      "start": "2025-12-17T00:00:00Z"
+    },
+    {
+      "api_total": 10,
+      "count": 10,
+      "end_exclusive": "2025-12-31T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:16:35Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2025-12-24T00:00:00Z..2025-12-30T23:59:59Z",
+      "start": "2025-12-24T00:00:00Z"
+    },
+    {
+      "api_total": 61,
+      "count": 61,
+      "end_exclusive": "2026-01-07T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:16:38Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2025-12-31T00:00:00Z..2026-01-06T23:59:59Z",
+      "start": "2025-12-31T00:00:00Z"
+    },
+    {
+      "api_total": 148,
+      "count": 148,
+      "end_exclusive": "2026-01-14T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:16:40Z",
+        "2026-10-23T00:16:42Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-01-07T00:00:00Z..2026-01-13T23:59:59Z",
+      "start": "2026-01-07T00:00:00Z"
+    },
+    {
+      "api_total": 144,
+      "count": 144,
+      "end_exclusive": "2026-01-21T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:16:44Z",
+        "2026-10-23T00:16:46Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-01-14T00:00:00Z..2026-01-20T23:59:59Z",
+      "start": "2026-01-14T00:00:00Z"
+    },
+    {
+      "api_total": 170,
+      "count": 170,
+      "end_exclusive": "2026-01-28T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:16:49Z",
+        "2026-10-23T00:16:50Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-01-21T00:00:00Z..2026-01-27T23:59:59Z",
+      "start": "2026-01-21T00:00:00Z"
+    },
+    {
+      "api_total": 208,
+      "count": 208,
+      "end_exclusive": "2026-02-04T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:16:53Z",
+        "2026-10-23T00:16:55Z",
+        "2026-10-23T00:16:56Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-01-28T00:00:00Z..2026-02-03T23:59:59Z",
+      "start": "2026-01-28T00:00:00Z"
+    },
+    {
+      "api_total": 232,
+      "count": 232,
+      "end_exclusive": "2026-02-11T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:16:59Z",
+        "2026-10-23T00:17:01Z",
+        "2026-10-23T00:17:03Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-02-04T00:00:00Z..2026-02-10T23:59:59Z",
+      "start": "2026-02-04T00:00:00Z"
+    },
+    {
+      "api_total": 223,
+      "count": 223,
+      "end_exclusive": "2026-02-18T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:17:06Z",
+        "2026-10-23T00:17:08Z",
+        "2026-10-23T00:17:09Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-02-11T00:00:00Z..2026-02-17T23:59:59Z",
+      "start": "2026-02-11T00:00:00Z"
+    },
+    {
+      "api_total": 209,
+      "count": 209,
+      "end_exclusive": "2026-02-25T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:17:12Z",
+        "2026-10-23T00:18:17Z",
+        "2026-10-23T00:18:17Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-02-18T00:00:00Z..2026-02-24T23:59:59Z",
+      "start": "2026-02-18T00:00:00Z"
+    },
+    {
+      "api_total": 205,
+      "count": 205,
+      "end_exclusive": "2026-03-04T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:18:27Z",
+        "2026-10-23T00:18:30Z",
+        "2026-10-23T00:18:31Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-02-25T00:00:00Z..2026-03-03T23:59:59Z",
+      "start": "2026-02-25T00:00:00Z"
+    },
+    {
+      "api_total": 237,
+      "count": 237,
+      "end_exclusive": "2026-03-11T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:18:34Z",
+        "2026-10-23T00:18:37Z",
+        "2026-10-23T00:18:38Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-03-04T00:00:00Z..2026-03-10T23:59:59Z",
+      "start": "2026-03-04T00:00:00Z"
+    },
+    {
+      "api_total": 191,
+      "count": 191,
+      "end_exclusive": "2026-03-18T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:18:41Z",
+        "2026-10-23T00:18:43Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-03-11T00:00:00Z..2026-03-17T23:59:59Z",
+      "start": "2026-03-11T00:00:00Z"
+    },
+    {
+      "api_total": 186,
+      "count": 186,
+      "end_exclusive": "2026-03-25T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:18:45Z",
+        "2026-10-23T00:18:47Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-03-18T00:00:00Z..2026-03-24T23:59:59Z",
+      "start": "2026-03-18T00:00:00Z"
+    },
+    {
+      "api_total": 183,
+      "count": 183,
+      "end_exclusive": "2026-04-01T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:18:49Z",
+        "2026-10-23T00:18:51Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-03-25T00:00:00Z..2026-03-31T23:59:59Z",
+      "start": "2026-03-25T00:00:00Z"
+    },
+    {
+      "api_total": 183,
+      "count": 183,
+      "end_exclusive": "2026-04-08T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:18:54Z",
+        "2026-10-23T00:18:55Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-04-01T00:00:00Z..2026-04-07T23:59:59Z",
+      "start": "2026-04-01T00:00:00Z"
+    },
+    {
+      "api_total": 202,
+      "count": 202,
+      "end_exclusive": "2026-04-15T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:18:58Z",
+        "2026-10-23T00:19:00Z",
+        "2026-10-23T00:19:00Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-04-08T00:00:00Z..2026-04-14T23:59:59Z",
+      "start": "2026-04-08T00:00:00Z"
+    },
+    {
+      "api_total": 292,
+      "count": 292,
+      "end_exclusive": "2026-04-22T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:19:04Z",
+        "2026-10-23T00:19:06Z",
+        "2026-10-23T00:19:09Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-04-15T00:00:00Z..2026-04-21T23:59:59Z",
+      "start": "2026-04-15T00:00:00Z"
+    },
+    {
+      "api_total": 305,
+      "count": 305,
+      "end_exclusive": "2026-04-29T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 4,
+      "page_retrieval_times": [
+        "2026-10-23T00:19:11Z",
+        "2026-10-23T00:19:13Z",
+        "2026-10-23T00:19:15Z",
+        "2026-10-23T00:19:16Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-04-22T00:00:00Z..2026-04-28T23:59:59Z",
+      "start": "2026-04-22T00:00:00Z"
+    },
+    {
+      "api_total": 254,
+      "count": 254,
+      "end_exclusive": "2026-05-06T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:19:20Z",
+        "2026-10-23T00:19:21Z",
+        "2026-10-23T00:19:23Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-04-29T00:00:00Z..2026-05-05T23:59:59Z",
+      "start": "2026-04-29T00:00:00Z"
+    },
+    {
+      "api_total": 225,
+      "count": 225,
+      "end_exclusive": "2026-05-13T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:19:30Z",
+        "2026-10-23T00:19:32Z",
+        "2026-10-23T00:19:33Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-05-06T00:00:00Z..2026-05-12T23:59:59Z",
+      "start": "2026-05-06T00:00:00Z"
+    },
+    {
+      "api_total": 256,
+      "count": 256,
+      "end_exclusive": "2026-05-20T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:19:36Z",
+        "2026-10-23T00:19:38Z",
+        "2026-10-23T00:19:40Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-05-13T00:00:00Z..2026-05-19T23:59:59Z",
+      "start": "2026-05-13T00:00:00Z"
+    },
+    {
+      "api_total": 194,
+      "count": 194,
+      "end_exclusive": "2026-05-27T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:19:43Z",
+        "2026-10-23T00:19:45Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-05-20T00:00:00Z..2026-05-26T23:59:59Z",
+      "start": "2026-05-20T00:00:00Z"
+    },
+    {
+      "api_total": 249,
+      "count": 249,
+      "end_exclusive": "2026-06-03T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:19:48Z",
+        "2026-10-23T00:19:50Z",
+        "2026-10-23T00:19:51Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-05-27T00:00:00Z..2026-06-02T23:59:59Z",
+      "start": "2026-05-27T00:00:00Z"
+    },
+    {
+      "api_total": 186,
+      "count": 186,
+      "end_exclusive": "2026-06-10T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:19:54Z",
+        "2026-10-23T00:19:56Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-06-03T00:00:00Z..2026-06-09T23:59:59Z",
+      "start": "2026-06-03T00:00:00Z"
+    },
+    {
+      "api_total": 278,
+      "count": 278,
+      "end_exclusive": "2026-06-17T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:19:58Z",
+        "2026-10-23T00:20:01Z",
+        "2026-10-23T00:20:02Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-06-10T00:00:00Z..2026-06-16T23:59:59Z",
+      "start": "2026-06-10T00:00:00Z"
+    },
+    {
+      "api_total": 229,
+      "count": 229,
+      "end_exclusive": "2026-06-24T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:20:05Z",
+        "2026-10-23T00:20:08Z",
+        "2026-10-23T00:20:09Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-06-17T00:00:00Z..2026-06-23T23:59:59Z",
+      "start": "2026-06-17T00:00:00Z"
+    },
+    {
+      "api_total": 154,
+      "count": 154,
+      "end_exclusive": "2026-07-01T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:20:12Z",
+        "2026-10-23T00:20:14Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-06-24T00:00:00Z..2026-06-30T23:59:59Z",
+      "start": "2026-06-24T00:00:00Z"
+    },
+    {
+      "api_total": 79,
+      "count": 79,
+      "end_exclusive": "2026-07-08T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:20:16Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-07-01T00:00:00Z..2026-07-07T23:59:59Z",
+      "start": "2026-07-01T00:00:00Z"
+    },
+    {
+      "api_total": 207,
+      "count": 207,
+      "end_exclusive": "2026-07-15T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:20:19Z",
+        "2026-10-23T00:20:20Z",
+        "2026-10-23T00:20:21Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-07-08T00:00:00Z..2026-07-14T23:59:59Z",
+      "start": "2026-07-08T00:00:00Z"
+    },
+    {
+      "api_total": 254,
+      "count": 254,
+      "end_exclusive": "2026-07-22T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:20:25Z",
+        "2026-10-23T00:20:27Z",
+        "2026-10-23T00:20:28Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-07-15T00:00:00Z..2026-07-21T23:59:59Z",
+      "start": "2026-07-15T00:00:00Z"
+    },
+    {
+      "api_total": 222,
+      "count": 222,
+      "end_exclusive": "2026-07-29T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:20:31Z",
+        "2026-10-23T00:20:33Z",
+        "2026-10-23T00:20:34Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-07-22T00:00:00Z..2026-07-28T23:59:59Z",
+      "start": "2026-07-22T00:00:00Z"
+    },
+    {
+      "api_total": 237,
+      "count": 237,
+      "end_exclusive": "2026-08-05T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:20:37Z",
+        "2026-10-23T00:20:40Z",
+        "2026-10-23T00:20:41Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-07-29T00:00:00Z..2026-08-04T23:59:59Z",
+      "start": "2026-07-29T00:00:00Z"
+    },
+    {
+      "api_total": 227,
+      "count": 227,
+      "end_exclusive": "2026-08-12T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:20:43Z",
+        "2026-10-23T00:20:46Z",
+        "2026-10-23T00:20:47Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-08-05T00:00:00Z..2026-08-11T23:59:59Z",
+      "start": "2026-08-05T00:00:00Z"
+    },
+    {
+      "api_total": 359,
+      "count": 359,
+      "end_exclusive": "2026-08-19T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 4,
+      "page_retrieval_times": [
+        "2026-10-23T00:20:50Z",
+        "2026-10-23T00:20:52Z",
+        "2026-10-23T00:20:54Z",
+        "2026-10-23T00:20:56Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-08-12T00:00:00Z..2026-08-18T23:59:59Z",
+      "start": "2026-08-12T00:00:00Z"
+    },
+    {
+      "api_total": 323,
+      "count": 323,
+      "end_exclusive": "2026-08-26T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 4,
+      "page_retrieval_times": [
+        "2026-10-23T00:20:59Z",
+        "2026-10-23T00:21:01Z",
+        "2026-10-23T00:21:03Z",
+        "2026-10-23T00:21:04Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-08-19T00:00:00Z..2026-08-25T23:59:59Z",
+      "start": "2026-08-19T00:00:00Z"
+    },
+    {
+      "api_total": 194,
+      "count": 194,
+      "end_exclusive": "2026-09-02T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:21:07Z",
+        "2026-10-23T00:21:09Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-08-26T00:00:00Z..2026-09-01T23:59:59Z",
+      "start": "2026-08-26T00:00:00Z"
+    },
+    {
+      "api_total": 347,
+      "count": 347,
+      "end_exclusive": "2026-09-09T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 4,
+      "page_retrieval_times": [
+        "2026-10-23T00:21:11Z",
+        "2026-10-23T00:21:13Z",
+        "2026-10-23T00:21:15Z",
+        "2026-10-23T00:21:17Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-09-02T00:00:00Z..2026-09-08T23:59:59Z",
+      "start": "2026-09-02T00:00:00Z"
+    },
+    {
+      "api_total": 345,
+      "count": 345,
+      "end_exclusive": "2026-09-16T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 4,
+      "page_retrieval_times": [
+        "2026-10-23T00:21:19Z",
+        "2026-10-23T00:21:22Z",
+        "2026-10-23T00:21:24Z",
+        "2026-10-23T00:21:25Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-09-09T00:00:00Z..2026-09-15T23:59:59Z",
+      "start": "2026-09-09T00:00:00Z"
+    },
+    {
+      "api_total": 415,
+      "count": 415,
+      "end_exclusive": "2026-09-23T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 5,
+      "page_retrieval_times": [
+        "2026-10-23T00:21:28Z",
+        "2026-10-23T00:21:30Z",
+        "2026-10-23T00:21:33Z",
+        "2026-10-23T00:21:35Z",
+        "2026-10-23T00:21:36Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-09-16T00:00:00Z..2026-09-22T23:59:59Z",
+      "start": "2026-09-16T00:00:00Z"
+    },
+    {
+      "api_total": 391,
+      "count": 391,
+      "end_exclusive": "2026-09-30T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 4,
+      "page_retrieval_times": [
+        "2026-10-23T00:21:39Z",
+        "2026-10-23T00:21:41Z",
+        "2026-10-23T00:21:43Z",
+        "2026-10-23T00:21:46Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-09-23T00:00:00Z..2026-09-29T23:59:59Z",
+      "start": "2026-09-23T00:00:00Z"
+    },
+    {
+      "api_total": 339,
+      "count": 339,
+      "end_exclusive": "2026-10-07T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 4,
+      "page_retrieval_times": [
+        "2026-10-23T00:21:48Z",
+        "2026-10-23T00:21:50Z",
+        "2026-10-23T00:21:52Z",
+        "2026-10-23T00:21:53Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-09-30T00:00:00Z..2026-10-06T23:59:59Z",
+      "start": "2026-09-30T00:00:00Z"
+    },
+    {
+      "api_total": 249,
+      "count": 249,
+      "end_exclusive": "2026-10-14T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:21:56Z",
+        "2026-10-23T00:21:58Z",
+        "2026-10-23T00:22:00Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-10-07T00:00:00Z..2026-10-13T23:59:59Z",
+      "start": "2026-10-07T00:00:00Z"
+    },
+    {
+      "api_total": 255,
+      "count": 255,
+      "end_exclusive": "2026-10-21T00:00:00Z",
+      "kind": "merged_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:22:03Z",
+        "2026-10-23T00:22:04Z",
+        "2026-10-23T00:22:06Z"
+      ],
+      "query": "repo:openai/codex is:pr is:merged merged:2026-10-14T00:00:00Z..2026-10-20T23:59:59Z",
+      "start": "2026-10-14T00:00:00Z"
+    },
+    {
+      "api_total": 40,
+      "count": 40,
+      "end_exclusive": "2025-10-29T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:22:09Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2025-10-22T00:00:00Z..2025-10-28T23:59:59Z",
+      "start": "2025-10-22T00:00:00Z"
+    },
+    {
+      "api_total": 293,
+      "count": 293,
+      "end_exclusive": "2025-11-05T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:22:12Z",
+        "2026-10-23T00:22:14Z",
+        "2026-10-23T00:22:16Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2025-10-29T00:00:00Z..2025-11-04T23:59:59Z",
+      "start": "2025-10-29T00:00:00Z"
+    },
+    {
+      "api_total": 68,
+      "count": 68,
+      "end_exclusive": "2025-11-12T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:22:18Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2025-11-05T00:00:00Z..2025-11-11T23:59:59Z",
+      "start": "2025-11-05T00:00:00Z"
+    },
+    {
+      "api_total": 119,
+      "count": 119,
+      "end_exclusive": "2025-11-19T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:22:20Z",
+        "2026-10-23T00:22:21Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2025-11-12T00:00:00Z..2025-11-18T23:59:59Z",
+      "start": "2025-11-12T00:00:00Z"
+    },
+    {
+      "api_total": 59,
+      "count": 59,
+      "end_exclusive": "2025-11-26T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:22:24Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2025-11-19T00:00:00Z..2025-11-25T23:59:59Z",
+      "start": "2025-11-19T00:00:00Z"
+    },
+    {
+      "api_total": 24,
+      "count": 24,
+      "end_exclusive": "2025-12-03T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:22:26Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2025-11-26T00:00:00Z..2025-12-02T23:59:59Z",
+      "start": "2025-11-26T00:00:00Z"
+    },
+    {
+      "api_total": 66,
+      "count": 66,
+      "end_exclusive": "2025-12-10T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:22:28Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2025-12-03T00:00:00Z..2025-12-09T23:59:59Z",
+      "start": "2025-12-03T00:00:00Z"
+    },
+    {
+      "api_total": 51,
+      "count": 51,
+      "end_exclusive": "2025-12-17T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:22:30Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2025-12-10T00:00:00Z..2025-12-16T23:59:59Z",
+      "start": "2025-12-10T00:00:00Z"
+    },
+    {
+      "api_total": 36,
+      "count": 36,
+      "end_exclusive": "2025-12-24T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:22:32Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2025-12-17T00:00:00Z..2025-12-23T23:59:59Z",
+      "start": "2025-12-17T00:00:00Z"
+    },
+    {
+      "api_total": 26,
+      "count": 26,
+      "end_exclusive": "2025-12-31T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:22:34Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2025-12-24T00:00:00Z..2025-12-30T23:59:59Z",
+      "start": "2025-12-24T00:00:00Z"
+    },
+    {
+      "api_total": 27,
+      "count": 27,
+      "end_exclusive": "2026-01-07T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:22:36Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2025-12-31T00:00:00Z..2026-01-06T23:59:59Z",
+      "start": "2025-12-31T00:00:00Z"
+    },
+    {
+      "api_total": 62,
+      "count": 62,
+      "end_exclusive": "2026-01-14T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:22:39Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-01-07T00:00:00Z..2026-01-13T23:59:59Z",
+      "start": "2026-01-07T00:00:00Z"
+    },
+    {
+      "api_total": 56,
+      "count": 56,
+      "end_exclusive": "2026-01-21T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:22:41Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-01-14T00:00:00Z..2026-01-20T23:59:59Z",
+      "start": "2026-01-14T00:00:00Z"
+    },
+    {
+      "api_total": 90,
+      "count": 90,
+      "end_exclusive": "2026-01-28T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:22:43Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-01-21T00:00:00Z..2026-01-27T23:59:59Z",
+      "start": "2026-01-21T00:00:00Z"
+    },
+    {
+      "api_total": 83,
+      "count": 83,
+      "end_exclusive": "2026-02-04T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:22:45Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-01-28T00:00:00Z..2026-02-03T23:59:59Z",
+      "start": "2026-01-28T00:00:00Z"
+    },
+    {
+      "api_total": 110,
+      "count": 110,
+      "end_exclusive": "2026-02-11T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:22:48Z",
+        "2026-10-23T00:22:49Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-02-04T00:00:00Z..2026-02-10T23:59:59Z",
+      "start": "2026-02-04T00:00:00Z"
+    },
+    {
+      "api_total": 122,
+      "count": 122,
+      "end_exclusive": "2026-02-18T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:22:52Z",
+        "2026-10-23T00:22:53Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-02-11T00:00:00Z..2026-02-17T23:59:59Z",
+      "start": "2026-02-11T00:00:00Z"
+    },
+    {
+      "api_total": 121,
+      "count": 121,
+      "end_exclusive": "2026-02-25T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:22:56Z",
+        "2026-10-23T00:22:57Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-02-18T00:00:00Z..2026-02-24T23:59:59Z",
+      "start": "2026-02-18T00:00:00Z"
+    },
+    {
+      "api_total": 88,
+      "count": 88,
+      "end_exclusive": "2026-03-04T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:23:00Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-02-25T00:00:00Z..2026-03-03T23:59:59Z",
+      "start": "2026-02-25T00:00:00Z"
+    },
+    {
+      "api_total": 85,
+      "count": 85,
+      "end_exclusive": "2026-03-11T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:23:02Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-03-04T00:00:00Z..2026-03-10T23:59:59Z",
+      "start": "2026-03-04T00:00:00Z"
+    },
+    {
+      "api_total": 87,
+      "count": 87,
+      "end_exclusive": "2026-03-18T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:23:04Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-03-11T00:00:00Z..2026-03-17T23:59:59Z",
+      "start": "2026-03-11T00:00:00Z"
+    },
+    {
+      "api_total": 109,
+      "count": 109,
+      "end_exclusive": "2026-03-25T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:23:06Z",
+        "2026-10-23T00:23:07Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-03-18T00:00:00Z..2026-03-24T23:59:59Z",
+      "start": "2026-03-18T00:00:00Z"
+    },
+    {
+      "api_total": 106,
+      "count": 106,
+      "end_exclusive": "2026-04-01T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:23:11Z",
+        "2026-10-23T00:23:12Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-03-25T00:00:00Z..2026-03-31T23:59:59Z",
+      "start": "2026-03-25T00:00:00Z"
+    },
+    {
+      "api_total": 94,
+      "count": 94,
+      "end_exclusive": "2026-04-08T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:23:15Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-04-01T00:00:00Z..2026-04-07T23:59:59Z",
+      "start": "2026-04-01T00:00:00Z"
+    },
+    {
+      "api_total": 96,
+      "count": 96,
+      "end_exclusive": "2026-04-15T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:23:17Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-04-08T00:00:00Z..2026-04-14T23:59:59Z",
+      "start": "2026-04-08T00:00:00Z"
+    },
+    {
+      "api_total": 157,
+      "count": 157,
+      "end_exclusive": "2026-04-22T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:23:22Z",
+        "2026-10-23T00:23:23Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-04-15T00:00:00Z..2026-04-21T23:59:59Z",
+      "start": "2026-04-15T00:00:00Z"
+    },
+    {
+      "api_total": 144,
+      "count": 144,
+      "end_exclusive": "2026-04-29T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:23:26Z",
+        "2026-10-23T00:23:28Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-04-22T00:00:00Z..2026-04-28T23:59:59Z",
+      "start": "2026-04-22T00:00:00Z"
+    },
+    {
+      "api_total": 135,
+      "count": 135,
+      "end_exclusive": "2026-05-06T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:23:30Z",
+        "2026-10-23T00:23:32Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-04-29T00:00:00Z..2026-05-05T23:59:59Z",
+      "start": "2026-04-29T00:00:00Z"
+    },
+    {
+      "api_total": 130,
+      "count": 130,
+      "end_exclusive": "2026-05-13T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:23:35Z",
+        "2026-10-23T00:23:36Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-05-06T00:00:00Z..2026-05-12T23:59:59Z",
+      "start": "2026-05-06T00:00:00Z"
+    },
+    {
+      "api_total": 182,
+      "count": 182,
+      "end_exclusive": "2026-05-20T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:23:39Z",
+        "2026-10-23T00:23:41Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-05-13T00:00:00Z..2026-05-19T23:59:59Z",
+      "start": "2026-05-13T00:00:00Z"
+    },
+    {
+      "api_total": 142,
+      "count": 142,
+      "end_exclusive": "2026-05-27T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:23:43Z",
+        "2026-10-23T00:23:45Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-05-20T00:00:00Z..2026-05-26T23:59:59Z",
+      "start": "2026-05-20T00:00:00Z"
+    },
+    {
+      "api_total": 165,
+      "count": 165,
+      "end_exclusive": "2026-06-03T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:23:47Z",
+        "2026-10-23T00:23:49Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-05-27T00:00:00Z..2026-06-02T23:59:59Z",
+      "start": "2026-05-27T00:00:00Z"
+    },
+    {
+      "api_total": 159,
+      "count": 159,
+      "end_exclusive": "2026-06-10T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:23:52Z",
+        "2026-10-23T00:23:53Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-06-03T00:00:00Z..2026-06-09T23:59:59Z",
+      "start": "2026-06-03T00:00:00Z"
+    },
+    {
+      "api_total": 251,
+      "count": 251,
+      "end_exclusive": "2026-06-17T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:23:56Z",
+        "2026-10-23T00:23:58Z",
+        "2026-10-23T00:23:59Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-06-10T00:00:00Z..2026-06-16T23:59:59Z",
+      "start": "2026-06-10T00:00:00Z"
+    },
+    {
+      "api_total": 174,
+      "count": 174,
+      "end_exclusive": "2026-06-24T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:24:02Z",
+        "2026-10-23T00:24:04Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-06-17T00:00:00Z..2026-06-23T23:59:59Z",
+      "start": "2026-06-17T00:00:00Z"
+    },
+    {
+      "api_total": 158,
+      "count": 158,
+      "end_exclusive": "2026-07-01T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:24:07Z",
+        "2026-10-23T00:24:09Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-06-24T00:00:00Z..2026-06-30T23:59:59Z",
+      "start": "2026-06-24T00:00:00Z"
+    },
+    {
+      "api_total": 142,
+      "count": 142,
+      "end_exclusive": "2026-07-08T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:24:39Z",
+        "2026-10-23T00:24:40Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-07-01T00:00:00Z..2026-07-07T23:59:59Z",
+      "start": "2026-07-01T00:00:00Z"
+    },
+    {
+      "api_total": 237,
+      "count": 237,
+      "end_exclusive": "2026-07-15T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:24:43Z",
+        "2026-10-23T00:24:45Z",
+        "2026-10-23T00:24:46Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-07-08T00:00:00Z..2026-07-14T23:59:59Z",
+      "start": "2026-07-08T00:00:00Z"
+    },
+    {
+      "api_total": 27,
+      "count": 27,
+      "end_exclusive": "2026-07-22T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:24:48Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-07-15T00:00:00Z..2026-07-21T23:59:59Z",
+      "start": "2026-07-15T00:00:00Z"
+    },
+    {
+      "api_total": 42,
+      "count": 42,
+      "end_exclusive": "2026-07-29T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:24:51Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-07-22T00:00:00Z..2026-07-28T23:59:59Z",
+      "start": "2026-07-22T00:00:00Z"
+    },
+    {
+      "api_total": 6,
+      "count": 6,
+      "end_exclusive": "2026-08-05T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:24:52Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-07-29T00:00:00Z..2026-08-04T23:59:59Z",
+      "start": "2026-07-29T00:00:00Z"
+    },
+    {
+      "api_total": 5,
+      "count": 5,
+      "end_exclusive": "2026-08-12T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:24:55Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-08-05T00:00:00Z..2026-08-11T23:59:59Z",
+      "start": "2026-08-05T00:00:00Z"
+    },
+    {
+      "api_total": 16,
+      "count": 16,
+      "end_exclusive": "2026-08-19T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:24:56Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-08-12T00:00:00Z..2026-08-18T23:59:59Z",
+      "start": "2026-08-12T00:00:00Z"
+    },
+    {
+      "api_total": 9,
+      "count": 9,
+      "end_exclusive": "2026-08-26T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:24:58Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-08-19T00:00:00Z..2026-08-25T23:59:59Z",
+      "start": "2026-08-19T00:00:00Z"
+    },
+    {
+      "api_total": 0,
+      "count": 0,
+      "end_exclusive": "2026-09-02T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:25:00Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-08-26T00:00:00Z..2026-09-01T23:59:59Z",
+      "start": "2026-08-26T00:00:00Z"
+    },
+    {
+      "api_total": 0,
+      "count": 0,
+      "end_exclusive": "2026-09-09T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:25:02Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-09-02T00:00:00Z..2026-09-08T23:59:59Z",
+      "start": "2026-09-02T00:00:00Z"
+    },
+    {
+      "api_total": 1,
+      "count": 1,
+      "end_exclusive": "2026-09-16T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:25:05Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-09-09T00:00:00Z..2026-09-15T23:59:59Z",
+      "start": "2026-09-09T00:00:00Z"
+    },
+    {
+      "api_total": 0,
+      "count": 0,
+      "end_exclusive": "2026-09-23T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:25:07Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-09-16T00:00:00Z..2026-09-22T23:59:59Z",
+      "start": "2026-09-16T00:00:00Z"
+    },
+    {
+      "api_total": 6,
+      "count": 6,
+      "end_exclusive": "2026-09-30T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:25:09Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-09-23T00:00:00Z..2026-09-29T23:59:59Z",
+      "start": "2026-09-23T00:00:00Z"
+    },
+    {
+      "api_total": 1,
+      "count": 1,
+      "end_exclusive": "2026-10-07T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:25:11Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-09-30T00:00:00Z..2026-10-06T23:59:59Z",
+      "start": "2026-09-30T00:00:00Z"
+    },
+    {
+      "api_total": 0,
+      "count": 0,
+      "end_exclusive": "2026-10-14T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:25:13Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-10-07T00:00:00Z..2026-10-13T23:59:59Z",
+      "start": "2026-10-07T00:00:00Z"
+    },
+    {
+      "api_total": 2,
+      "count": 2,
+      "end_exclusive": "2026-10-21T00:00:00Z",
+      "kind": "closed_without_merge_prs",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:25:15Z"
+      ],
+      "query": "repo:openai/codex is:pr is:closed is:unmerged closed:2026-10-14T00:00:00Z..2026-10-20T23:59:59Z",
+      "start": "2026-10-14T00:00:00Z"
+    },
+    {
+      "api_total": 198,
+      "count": 198,
+      "end_exclusive": "2025-10-29T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:25:19Z",
+        "2026-10-23T00:25:20Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2025-10-22T00:00:00Z..2025-10-28T23:59:59Z",
+      "start": "2025-10-22T00:00:00Z"
+    },
+    {
+      "api_total": 113,
+      "count": 113,
+      "end_exclusive": "2025-11-05T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:25:23Z",
+        "2026-10-23T00:25:24Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2025-10-29T00:00:00Z..2025-11-04T23:59:59Z",
+      "start": "2025-10-29T00:00:00Z"
+    },
+    {
+      "api_total": 252,
+      "count": 252,
+      "end_exclusive": "2025-11-12T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:25:40Z",
+        "2026-10-23T00:25:43Z",
+        "2026-10-23T00:25:45Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2025-11-05T00:00:00Z..2025-11-11T23:59:59Z",
+      "start": "2025-11-05T00:00:00Z"
+    },
+    {
+      "api_total": 226,
+      "count": 226,
+      "end_exclusive": "2025-11-19T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:25:48Z",
+        "2026-10-23T00:25:50Z",
+        "2026-10-23T00:25:51Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2025-11-12T00:00:00Z..2025-11-18T23:59:59Z",
+      "start": "2025-11-12T00:00:00Z"
+    },
+    {
+      "api_total": 228,
+      "count": 228,
+      "end_exclusive": "2025-11-26T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:25:54Z",
+        "2026-10-23T00:25:56Z",
+        "2026-10-23T00:25:57Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2025-11-19T00:00:00Z..2025-11-25T23:59:59Z",
+      "start": "2025-11-19T00:00:00Z"
+    },
+    {
+      "api_total": 236,
+      "count": 236,
+      "end_exclusive": "2025-12-03T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:26:01Z",
+        "2026-10-23T00:26:02Z",
+        "2026-10-23T00:26:04Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2025-11-26T00:00:00Z..2025-12-02T23:59:59Z",
+      "start": "2025-11-26T00:00:00Z"
+    },
+    {
+      "api_total": 94,
+      "count": 94,
+      "end_exclusive": "2025-12-10T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:26:07Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2025-12-03T00:00:00Z..2025-12-09T23:59:59Z",
+      "start": "2025-12-03T00:00:00Z"
+    },
+    {
+      "api_total": 155,
+      "count": 155,
+      "end_exclusive": "2025-12-17T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:26:09Z",
+        "2026-10-23T00:26:10Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2025-12-10T00:00:00Z..2025-12-16T23:59:59Z",
+      "start": "2025-12-10T00:00:00Z"
+    },
+    {
+      "api_total": 155,
+      "count": 155,
+      "end_exclusive": "2025-12-24T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:26:14Z",
+        "2026-10-23T00:26:15Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2025-12-17T00:00:00Z..2025-12-23T23:59:59Z",
+      "start": "2025-12-17T00:00:00Z"
+    },
+    {
+      "api_total": 43,
+      "count": 43,
+      "end_exclusive": "2025-12-31T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:26:17Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2025-12-24T00:00:00Z..2025-12-30T23:59:59Z",
+      "start": "2025-12-24T00:00:00Z"
+    },
+    {
+      "api_total": 70,
+      "count": 70,
+      "end_exclusive": "2026-01-07T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 1,
+      "page_retrieval_times": [
+        "2026-10-23T00:26:19Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2025-12-31T00:00:00Z..2026-01-06T23:59:59Z",
+      "start": "2025-12-31T00:00:00Z"
+    },
+    {
+      "api_total": 211,
+      "count": 211,
+      "end_exclusive": "2026-01-14T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:26:22Z",
+        "2026-10-23T00:26:24Z",
+        "2026-10-23T00:26:25Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-01-07T00:00:00Z..2026-01-13T23:59:59Z",
+      "start": "2026-01-07T00:00:00Z"
+    },
+    {
+      "api_total": 217,
+      "count": 217,
+      "end_exclusive": "2026-01-21T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:26:28Z",
+        "2026-10-23T00:26:30Z",
+        "2026-10-23T00:26:31Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-01-14T00:00:00Z..2026-01-20T23:59:59Z",
+      "start": "2026-01-14T00:00:00Z"
+    },
+    {
+      "api_total": 148,
+      "count": 148,
+      "end_exclusive": "2026-01-28T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:26:35Z",
+        "2026-10-23T00:41:41Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-01-21T00:00:00Z..2026-01-27T23:59:59Z",
+      "start": "2026-01-21T00:00:00Z"
+    },
+    {
+      "api_total": 192,
+      "count": 192,
+      "end_exclusive": "2026-02-04T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:41:43Z",
+        "2026-10-23T00:41:45Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-01-28T00:00:00Z..2026-02-03T23:59:59Z",
+      "start": "2026-01-28T00:00:00Z"
+    },
+    {
+      "api_total": 210,
+      "count": 210,
+      "end_exclusive": "2026-02-11T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:41:48Z",
+        "2026-10-23T00:41:50Z",
+        "2026-10-23T00:41:51Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-02-04T00:00:00Z..2026-02-10T23:59:59Z",
+      "start": "2026-02-04T00:00:00Z"
+    },
+    {
+      "api_total": 202,
+      "count": 202,
+      "end_exclusive": "2026-02-18T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:41:54Z",
+        "2026-10-23T00:41:57Z",
+        "2026-10-23T00:41:57Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-02-11T00:00:00Z..2026-02-17T23:59:59Z",
+      "start": "2026-02-11T00:00:00Z"
+    },
+    {
+      "api_total": 278,
+      "count": 278,
+      "end_exclusive": "2026-02-25T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:42:00Z",
+        "2026-10-23T00:42:03Z",
+        "2026-10-23T00:42:05Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-02-18T00:00:00Z..2026-02-24T23:59:59Z",
+      "start": "2026-02-18T00:00:00Z"
+    },
+    {
+      "api_total": 222,
+      "count": 222,
+      "end_exclusive": "2026-03-04T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:42:07Z",
+        "2026-10-23T00:42:09Z",
+        "2026-10-23T00:42:10Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-02-25T00:00:00Z..2026-03-03T23:59:59Z",
+      "start": "2026-02-25T00:00:00Z"
+    },
+    {
+      "api_total": 198,
+      "count": 198,
+      "end_exclusive": "2026-03-11T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:42:13Z",
+        "2026-10-23T00:42:15Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-03-04T00:00:00Z..2026-03-10T23:59:59Z",
+      "start": "2026-03-04T00:00:00Z"
+    },
+    {
+      "api_total": 176,
+      "count": 176,
+      "end_exclusive": "2026-03-18T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:42:17Z",
+        "2026-10-23T00:42:19Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-03-11T00:00:00Z..2026-03-17T23:59:59Z",
+      "start": "2026-03-11T00:00:00Z"
+    },
+    {
+      "api_total": 214,
+      "count": 214,
+      "end_exclusive": "2026-03-25T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:42:22Z",
+        "2026-10-23T00:42:23Z",
+        "2026-10-23T00:42:25Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-03-18T00:00:00Z..2026-03-24T23:59:59Z",
+      "start": "2026-03-18T00:00:00Z"
+    },
+    {
+      "api_total": 374,
+      "count": 374,
+      "end_exclusive": "2026-04-01T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 4,
+      "page_retrieval_times": [
+        "2026-10-23T00:42:28Z",
+        "2026-10-23T00:42:30Z",
+        "2026-10-23T00:42:32Z",
+        "2026-10-23T00:42:34Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-03-25T00:00:00Z..2026-03-31T23:59:59Z",
+      "start": "2026-03-25T00:00:00Z"
+    },
+    {
+      "api_total": 283,
+      "count": 283,
+      "end_exclusive": "2026-04-08T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:42:36Z",
+        "2026-10-23T00:42:38Z",
+        "2026-10-23T00:42:43Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-04-01T00:00:00Z..2026-04-07T23:59:59Z",
+      "start": "2026-04-01T00:00:00Z"
+    },
+    {
+      "api_total": 245,
+      "count": 245,
+      "end_exclusive": "2026-04-15T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:42:46Z",
+        "2026-10-23T00:42:48Z",
+        "2026-10-23T00:42:49Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-04-08T00:00:00Z..2026-04-14T23:59:59Z",
+      "start": "2026-04-08T00:00:00Z"
+    },
+    {
+      "api_total": 288,
+      "count": 288,
+      "end_exclusive": "2026-04-22T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:42:52Z",
+        "2026-10-23T00:42:54Z",
+        "2026-10-23T00:42:56Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-04-15T00:00:00Z..2026-04-21T23:59:59Z",
+      "start": "2026-04-15T00:00:00Z"
+    },
+    {
+      "api_total": 312,
+      "count": 312,
+      "end_exclusive": "2026-04-29T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 4,
+      "page_retrieval_times": [
+        "2026-10-23T00:42:58Z",
+        "2026-10-23T00:43:00Z",
+        "2026-10-23T00:43:02Z",
+        "2026-10-23T00:43:03Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-04-22T00:00:00Z..2026-04-28T23:59:59Z",
+      "start": "2026-04-22T00:00:00Z"
+    },
+    {
+      "api_total": 293,
+      "count": 293,
+      "end_exclusive": "2026-05-06T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:43:06Z",
+        "2026-10-23T00:43:09Z",
+        "2026-10-23T00:43:11Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-04-29T00:00:00Z..2026-05-05T23:59:59Z",
+      "start": "2026-04-29T00:00:00Z"
+    },
+    {
+      "api_total": 308,
+      "count": 308,
+      "end_exclusive": "2026-05-13T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 4,
+      "page_retrieval_times": [
+        "2026-10-23T00:43:13Z",
+        "2026-10-23T00:43:15Z",
+        "2026-10-23T00:43:17Z",
+        "2026-10-23T00:43:18Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-05-06T00:00:00Z..2026-05-12T23:59:59Z",
+      "start": "2026-05-06T00:00:00Z"
+    },
+    {
+      "api_total": 301,
+      "count": 301,
+      "end_exclusive": "2026-05-20T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 4,
+      "page_retrieval_times": [
+        "2026-10-23T00:43:21Z",
+        "2026-10-23T00:43:23Z",
+        "2026-10-23T00:43:26Z",
+        "2026-10-23T00:43:26Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-05-13T00:00:00Z..2026-05-19T23:59:59Z",
+      "start": "2026-05-13T00:00:00Z"
+    },
+    {
+      "api_total": 173,
+      "count": 173,
+      "end_exclusive": "2026-05-27T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:43:30Z",
+        "2026-10-23T00:43:31Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-05-20T00:00:00Z..2026-05-26T23:59:59Z",
+      "start": "2026-05-20T00:00:00Z"
+    },
+    {
+      "api_total": 284,
+      "count": 284,
+      "end_exclusive": "2026-06-03T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:43:34Z",
+        "2026-10-23T00:43:36Z",
+        "2026-10-23T00:43:38Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-05-27T00:00:00Z..2026-06-02T23:59:59Z",
+      "start": "2026-05-27T00:00:00Z"
+    },
+    {
+      "api_total": 196,
+      "count": 196,
+      "end_exclusive": "2026-06-10T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:43:40Z",
+        "2026-10-23T00:43:42Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-06-03T00:00:00Z..2026-06-09T23:59:59Z",
+      "start": "2026-06-03T00:00:00Z"
+    },
+    {
+      "api_total": 224,
+      "count": 224,
+      "end_exclusive": "2026-06-17T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:43:45Z",
+        "2026-10-23T00:43:48Z",
+        "2026-10-23T00:43:49Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-06-10T00:00:00Z..2026-06-16T23:59:59Z",
+      "start": "2026-06-10T00:00:00Z"
+    },
+    {
+      "api_total": 137,
+      "count": 137,
+      "end_exclusive": "2026-06-24T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:43:52Z",
+        "2026-10-23T00:43:53Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-06-17T00:00:00Z..2026-06-23T23:59:59Z",
+      "start": "2026-06-17T00:00:00Z"
+    },
+    {
+      "api_total": 221,
+      "count": 221,
+      "end_exclusive": "2026-07-01T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:43:56Z",
+        "2026-10-23T00:43:58Z",
+        "2026-10-23T00:43:59Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-06-24T00:00:00Z..2026-06-30T23:59:59Z",
+      "start": "2026-06-24T00:00:00Z"
+    },
+    {
+      "api_total": 199,
+      "count": 199,
+      "end_exclusive": "2026-07-08T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:44:02Z",
+        "2026-10-23T00:44:04Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-07-01T00:00:00Z..2026-07-07T23:59:59Z",
+      "start": "2026-07-01T00:00:00Z"
+    },
+    {
+      "api_total": 201,
+      "count": 201,
+      "end_exclusive": "2026-07-15T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:44:07Z",
+        "2026-10-23T00:44:09Z",
+        "2026-10-23T00:44:09Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-07-08T00:00:00Z..2026-07-14T23:59:59Z",
+      "start": "2026-07-08T00:00:00Z"
+    },
+    {
+      "api_total": 195,
+      "count": 195,
+      "end_exclusive": "2026-07-22T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:44:13Z",
+        "2026-10-23T00:44:15Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-07-15T00:00:00Z..2026-07-21T23:59:59Z",
+      "start": "2026-07-15T00:00:00Z"
+    },
+    {
+      "api_total": 144,
+      "count": 144,
+      "end_exclusive": "2026-07-29T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:44:17Z",
+        "2026-10-23T00:44:19Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-07-22T00:00:00Z..2026-07-28T23:59:59Z",
+      "start": "2026-07-22T00:00:00Z"
+    },
+    {
+      "api_total": 226,
+      "count": 226,
+      "end_exclusive": "2026-08-05T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:44:21Z",
+        "2026-10-23T00:44:23Z",
+        "2026-10-23T00:44:24Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-07-29T00:00:00Z..2026-08-04T23:59:59Z",
+      "start": "2026-07-29T00:00:00Z"
+    },
+    {
+      "api_total": 403,
+      "count": 403,
+      "end_exclusive": "2026-08-12T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 5,
+      "page_retrieval_times": [
+        "2026-10-23T00:44:28Z",
+        "2026-10-23T00:44:30Z",
+        "2026-10-23T00:44:32Z",
+        "2026-10-23T00:44:34Z",
+        "2026-10-23T00:44:35Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-08-05T00:00:00Z..2026-08-11T23:59:59Z",
+      "start": "2026-08-05T00:00:00Z"
+    },
+    {
+      "api_total": 112,
+      "count": 112,
+      "end_exclusive": "2026-08-19T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:44:38Z",
+        "2026-10-23T00:44:39Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-08-12T00:00:00Z..2026-08-18T23:59:59Z",
+      "start": "2026-08-12T00:00:00Z"
+    },
+    {
+      "api_total": 145,
+      "count": 145,
+      "end_exclusive": "2026-08-26T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:44:43Z",
+        "2026-10-23T00:44:44Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-08-19T00:00:00Z..2026-08-25T23:59:59Z",
+      "start": "2026-08-19T00:00:00Z"
+    },
+    {
+      "api_total": 132,
+      "count": 132,
+      "end_exclusive": "2026-09-02T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:44:47Z",
+        "2026-10-23T00:44:48Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-08-26T00:00:00Z..2026-09-01T23:59:59Z",
+      "start": "2026-08-26T00:00:00Z"
+    },
+    {
+      "api_total": 142,
+      "count": 142,
+      "end_exclusive": "2026-09-09T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:44:51Z",
+        "2026-10-23T00:44:52Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-09-02T00:00:00Z..2026-09-08T23:59:59Z",
+      "start": "2026-09-02T00:00:00Z"
+    },
+    {
+      "api_total": 233,
+      "count": 233,
+      "end_exclusive": "2026-09-16T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 3,
+      "page_retrieval_times": [
+        "2026-10-23T00:44:55Z",
+        "2026-10-23T00:44:57Z",
+        "2026-10-23T00:44:58Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-09-09T00:00:00Z..2026-09-15T23:59:59Z",
+      "start": "2026-09-09T00:00:00Z"
+    },
+    {
+      "api_total": 134,
+      "count": 134,
+      "end_exclusive": "2026-09-23T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:45:02Z",
+        "2026-10-23T00:45:03Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-09-16T00:00:00Z..2026-09-22T23:59:59Z",
+      "start": "2026-09-16T00:00:00Z"
+    },
+    {
+      "api_total": 314,
+      "count": 314,
+      "end_exclusive": "2026-09-30T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 4,
+      "page_retrieval_times": [
+        "2026-10-23T00:45:06Z",
+        "2026-10-23T00:45:08Z",
+        "2026-10-23T00:45:10Z",
+        "2026-10-23T00:45:11Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-09-23T00:00:00Z..2026-09-29T23:59:59Z",
+      "start": "2026-09-23T00:00:00Z"
+    },
+    {
+      "api_total": 330,
+      "count": 330,
+      "end_exclusive": "2026-10-07T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 4,
+      "page_retrieval_times": [
+        "2026-10-23T00:45:14Z",
+        "2026-10-23T00:45:16Z",
+        "2026-10-23T00:45:18Z",
+        "2026-10-23T00:45:47Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-09-30T00:00:00Z..2026-10-06T23:59:59Z",
+      "start": "2026-09-30T00:00:00Z"
+    },
+    {
+      "api_total": 640,
+      "count": 640,
+      "end_exclusive": "2026-10-14T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 7,
+      "page_retrieval_times": [
+        "2026-10-23T00:45:51Z",
+        "2026-10-23T00:45:53Z",
+        "2026-10-23T00:45:55Z",
+        "2026-10-23T00:45:57Z",
+        "2026-10-23T00:45:59Z",
+        "2026-10-23T00:46:01Z",
+        "2026-10-23T00:46:03Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-10-07T00:00:00Z..2026-10-13T23:59:59Z",
+      "start": "2026-10-07T00:00:00Z"
+    },
+    {
+      "api_total": 164,
+      "count": 164,
+      "end_exclusive": "2026-10-21T00:00:00Z",
+      "kind": "closed_issues",
+      "page": 2,
+      "page_retrieval_times": [
+        "2026-10-23T00:46:06Z",
+        "2026-10-23T00:46:07Z"
+      ],
+      "query": "repo:openai/codex is:issue is:closed closed:2026-10-14T00:00:00Z..2026-10-20T23:59:59Z",
+      "start": "2026-10-14T00:00:00Z"
+    }
+  ],
+  "end_exclusive": "2026-10-21T00:00:00Z",
+  "finished_at": "2026-10-23T00:46:08Z",
+  "incomplete_bins": [],
+  "record_count": 26598,
+  "refresh_ranges": [],
+  "repo": "openai/codex",
+  "retries": 8,
+  "run_id": "20261023T004608-d40af02c",
+  "scope_notes": "Resumable GitHub REST closure/merge collector. Python 3.10+, pip install requests.\n\nRun: python3 collect_codex_closures.py\nToken: GITHUB_TOKEN environment variable, or hidden prompt.\nResume: repeat the command with the same --out directory.\nRecovery: --refresh 2026-09-01T00:00:00Z 2026-10-01T00:00:00Z\n\nScope: unique currently merged PRs, currently closed/unmerged PRs, and\ncurrently closed issues, grouped by their recorded merged_at/closed_at.\nThis is NOT a historical timeline of every close/reopen event. Reopened items\nand earlier closures overwritten by later closures cannot be reconstructed.\nAll authors/actors (including bots) are included. No creation-date restriction.\nWeeks start Monday UTC. Boundary weeks/months are clipped to observation dates.\nSearch completeness is checked against API totals, not guaranteed historical\ncompleteness: GitHub search is indexed, mutable, and is not an atomic snapshot.\n\nOutputs: runs/<run-id>/{weekly.csv,monthly.csv,records.csv,manifest.json}.\nlatest_run.json points to latest attempt; latest_complete.json to latest complete\nattempt. Old runs are never overwritten. Failed intervals produce blank counts\nin affected bins, with *_observed columns holding partial observed counts.\nCache/checkpoint/log files live under --out. Do not run two copies on one folder.\n",
+  "script_sha256": "69e08e549e2b2e193f81b3cd9ca78237ebb49e3e37296423295aca9dd39d0463",
+  "start": "2025-10-22T00:00:00Z",
+  "started_at": "2026-10-23T00:15:45Z",
+  "stopped_reason": null,
+  "totals": {
+    "closed_issues": 11391,
+    "closed_without_merge_prs": 4409,
+    "merged_prs": 10798
+  },
+  "unresolved_gaps": [],
+  "version": "1.0"
+}

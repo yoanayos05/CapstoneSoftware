@@ -1,0 +1,91 @@
+{
+  "body": {
+    "incomplete_results": false,
+    "items": [
+      {
+        "active_lock_reason": null,
+        "assignee": null,
+        "assignees": [],
+        "author_association": "NONE",
+        "body": "Ensure patches that declare the same file more than once are rejected consistently during verification and execution. \r\n\r\nThis avoids ambiguous patch representation and keeps behavior deterministic. \r\n\r\nAdds regression coverage for both paths.",
+        "closed_at": "2026-10-01T06:16:50Z",
+        "comments": 3,
+        "comments_url": "https://api.github.com/repos/openai/codex/issues/31456/comments",
+        "created_at": "2026-07-07T18:48:51Z",
+        "draft": false,
+        "events_url": "https://api.github.com/repos/openai/codex/issues/31456/events",
+        "html_url": "https://github.com/openai/codex/pull/31456",
+        "id": 4831326203,
+        "issue_field_values": [],
+        "labels": [],
+        "labels_url": "https://api.github.com/repos/openai/codex/issues/31456/labels{/name}",
+        "locked": false,
+        "milestone": null,
+        "node_id": "PR_kwDOOYsS4c7u9uZ5",
+        "number": 31456,
+        "performed_via_github_app": null,
+        "pull_request": {
+          "diff_url": "https://github.com/openai/codex/pull/31456.diff",
+          "html_url": "https://github.com/openai/codex/pull/31456",
+          "merged_at": null,
+          "patch_url": "https://github.com/openai/codex/pull/31456.patch",
+          "url": "https://api.github.com/repos/openai/codex/pulls/31456"
+        },
+        "reactions": {
+          "+1": 1,
+          "-1": 0,
+          "confused": 0,
+          "eyes": 0,
+          "heart": 0,
+          "hooray": 0,
+          "laugh": 0,
+          "rocket": 0,
+          "total_count": 1,
+          "url": "https://api.github.com/repos/openai/codex/issues/31456/reactions"
+        },
+        "repository_url": "https://api.github.com/repos/openai/codex",
+        "score": 1.0,
+        "state": "closed",
+        "state_reason": null,
+        "timeline_url": "https://api.github.com/repos/openai/codex/issues/31456/timeline",
+        "title": "Reject duplicate file entries in apply_patch",
+        "type": null,
+        "updated_at": "2026-10-01T06:16:50Z",
+        "url": "https://api.github.com/repos/openai/codex/issues/31456",
+        "user": {
+          "avatar_url": "https://avatars.githubusercontent.com/u/254772974?v=4",
+          "events_url": "https://api.github.com/users/bryane-oai/events{/privacy}",
+          "followers_url": "https://api.github.com/users/bryane-oai/followers",
+          "following_url": "https://api.github.com/users/bryane-oai/following{/other_user}",
+          "gists_url": "https://api.github.com/users/bryane-oai/gists{/gist_id}",
+          "gravatar_id": "",
+          "html_url": "https://github.com/bryane-oai",
+          "id": 254772974,
+          "login": "bryane-oai",
+          "node_id": "U_kgDODy-G7g",
+          "organizations_url": "https://api.github.com/users/bryane-oai/orgs",
+          "received_events_url": "https://api.github.com/users/bryane-oai/received_events",
+          "repos_url": "https://api.github.com/users/bryane-oai/repos",
+          "site_admin": false,
+          "starred_url": "https://api.github.com/users/bryane-oai/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/bryane-oai/subscriptions",
+          "type": "User",
+          "url": "https://api.github.com/users/bryane-oai",
+          "user_view_type": "public"
+        }
+      }
+    ],
+    "search_type": "lexical",
+    "total_count": 1
+  },
+  "headers": {
+    "ETag": null,
+    "X-GitHub-Request-Id": "FD35:2A7E74:68268F:9AA9A5:6ADAA965",
+    "X-RateLimit-Remaining": "12",
+    "X-RateLimit-Reset": "1792715137"
+  },
+  "next": null,
+  "retrieved_at": "2026-10-23T00:25:11Z",
+  "sha256": "991ecfc74c28f3d0a943f67e9953f37b405706e67e8cf317cf8a0059743250bb",
+  "url": "https://api.github.com/search/issues?q=repo%3Aopenai%2Fcodex+is%3Apr+is%3Aclosed+is%3Aunmerged+closed%3A2026-09-30T00%3A00%3A00Z..2026-10-06T23%3A59%3A59Z&per_page=100&sort=created&order=asc"
+}

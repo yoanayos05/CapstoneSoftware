@@ -1,0 +1,813 @@
+2026-10-23T00:15:47Z merged_prs [2025-10-22T00:00:00Z, 2025-10-29T00:00:00Z) page 1; downloaded unique records=83/83
+2026-10-23T00:15:47Z COMPLETED merged_prs [2025-10-22T00:00:00Z, 2025-10-29T00:00:00Z): 83
+2026-10-23T00:15:48Z merged_prs [2025-10-29T00:00:00Z, 2025-11-05T00:00:00Z) page 1; downloaded unique records=87/87
+2026-10-23T00:15:48Z COMPLETED merged_prs [2025-10-29T00:00:00Z, 2025-11-05T00:00:00Z): 87
+2026-10-23T00:15:48Z merged_prs waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:15:51Z merged_prs [2025-11-05T00:00:00Z, 2025-11-12T00:00:00Z) page 1; downloaded unique records=94/94
+2026-10-23T00:15:51Z COMPLETED merged_prs [2025-11-05T00:00:00Z, 2025-11-12T00:00:00Z): 94
+2026-10-23T00:15:51Z merged_prs waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:15:53Z merged_prs [2025-11-12T00:00:00Z, 2025-11-19T00:00:00Z) page 1; downloaded unique records=100/107
+2026-10-23T00:15:53Z merged_prs waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:15:54Z merged_prs [2025-11-12T00:00:00Z, 2025-11-19T00:00:00Z) page 2; downloaded unique records=107/107
+2026-10-23T00:15:54Z COMPLETED merged_prs [2025-11-12T00:00:00Z, 2025-11-19T00:00:00Z): 107
+2026-10-23T00:15:54Z merged_prs waiting 1.6s: request pacing / rate-limit headers
+2026-10-23T00:15:58Z merged_prs [2025-11-19T00:00:00Z, 2025-11-26T00:00:00Z) page 1; downloaded unique records=100/145
+2026-10-23T00:15:59Z merged_prs [2025-11-19T00:00:00Z, 2025-11-26T00:00:00Z) page 2; downloaded unique records=145/145
+2026-10-23T00:15:59Z COMPLETED merged_prs [2025-11-19T00:00:00Z, 2025-11-26T00:00:00Z): 145
+2026-10-23T00:15:59Z merged_prs waiting 0.7s: request pacing / rate-limit headers
+2026-10-23T00:16:01Z merged_prs [2025-11-26T00:00:00Z, 2025-12-03T00:00:00Z) page 1; downloaded unique records=48/48
+2026-10-23T00:16:01Z COMPLETED merged_prs [2025-11-26T00:00:00Z, 2025-12-03T00:00:00Z): 48
+2026-10-23T00:16:01Z merged_prs waiting 20.1s: request pacing / rate-limit headers
+2026-10-23T00:16:24Z merged_prs [2025-12-03T00:00:00Z, 2025-12-10T00:00:00Z) page 1; downloaded unique records=100/117
+2026-10-23T00:16:24Z merged_prs waiting 0.0s: request pacing / rate-limit headers
+2026-10-23T00:16:24Z merged_prs [2025-12-03T00:00:00Z, 2025-12-10T00:00:00Z) page 2; downloaded unique records=117/117
+2026-10-23T00:16:24Z COMPLETED merged_prs [2025-12-03T00:00:00Z, 2025-12-10T00:00:00Z): 117
+2026-10-23T00:16:24Z merged_prs waiting 1.3s: request pacing / rate-limit headers
+2026-10-23T00:16:28Z merged_prs [2025-12-10T00:00:00Z, 2025-12-17T00:00:00Z) page 1; downloaded unique records=100/134
+2026-10-23T00:16:28Z merged_prs waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:16:29Z merged_prs [2025-12-10T00:00:00Z, 2025-12-17T00:00:00Z) page 2; downloaded unique records=134/134
+2026-10-23T00:16:29Z COMPLETED merged_prs [2025-12-10T00:00:00Z, 2025-12-17T00:00:00Z): 134
+2026-10-23T00:16:29Z merged_prs waiting 0.9s: request pacing / rate-limit headers
+2026-10-23T00:16:32Z merged_prs [2025-12-17T00:00:00Z, 2025-12-24T00:00:00Z) page 1; downloaded unique records=100/126
+2026-10-23T00:16:33Z merged_prs [2025-12-17T00:00:00Z, 2025-12-24T00:00:00Z) page 2; downloaded unique records=126/126
+2026-10-23T00:16:33Z COMPLETED merged_prs [2025-12-17T00:00:00Z, 2025-12-24T00:00:00Z): 126
+2026-10-23T00:16:33Z merged_prs waiting 1.2s: request pacing / rate-limit headers
+2026-10-23T00:16:35Z merged_prs [2025-12-24T00:00:00Z, 2025-12-31T00:00:00Z) page 1; downloaded unique records=10/10
+2026-10-23T00:16:35Z COMPLETED merged_prs [2025-12-24T00:00:00Z, 2025-12-31T00:00:00Z): 10
+2026-10-23T00:16:35Z merged_prs waiting 1.4s: request pacing / rate-limit headers
+2026-10-23T00:16:38Z merged_prs [2025-12-31T00:00:00Z, 2026-01-07T00:00:00Z) page 1; downloaded unique records=61/61
+2026-10-23T00:16:38Z COMPLETED merged_prs [2025-12-31T00:00:00Z, 2026-01-07T00:00:00Z): 61
+2026-10-23T00:16:38Z merged_prs waiting 0.5s: request pacing / rate-limit headers
+2026-10-23T00:16:40Z merged_prs [2026-01-07T00:00:00Z, 2026-01-14T00:00:00Z) page 1; downloaded unique records=100/148
+2026-10-23T00:16:40Z merged_prs waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:16:42Z merged_prs [2026-01-07T00:00:00Z, 2026-01-14T00:00:00Z) page 2; downloaded unique records=148/148
+2026-10-23T00:16:42Z COMPLETED merged_prs [2026-01-07T00:00:00Z, 2026-01-14T00:00:00Z): 148
+2026-10-23T00:16:42Z merged_prs waiting 0.9s: request pacing / rate-limit headers
+2026-10-23T00:16:44Z merged_prs [2026-01-14T00:00:00Z, 2026-01-21T00:00:00Z) page 1; downloaded unique records=100/144
+2026-10-23T00:16:44Z merged_prs waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:16:46Z merged_prs [2026-01-14T00:00:00Z, 2026-01-21T00:00:00Z) page 2; downloaded unique records=144/144
+2026-10-23T00:16:46Z COMPLETED merged_prs [2026-01-14T00:00:00Z, 2026-01-21T00:00:00Z): 144
+2026-10-23T00:16:46Z merged_prs waiting 0.8s: request pacing / rate-limit headers
+2026-10-23T00:16:49Z merged_prs [2026-01-21T00:00:00Z, 2026-01-28T00:00:00Z) page 1; downloaded unique records=100/170
+2026-10-23T00:16:49Z merged_prs waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:16:50Z merged_prs [2026-01-21T00:00:00Z, 2026-01-28T00:00:00Z) page 2; downloaded unique records=170/170
+2026-10-23T00:16:50Z COMPLETED merged_prs [2026-01-21T00:00:00Z, 2026-01-28T00:00:00Z): 170
+2026-10-23T00:16:50Z merged_prs waiting 0.6s: request pacing / rate-limit headers
+2026-10-23T00:16:53Z merged_prs [2026-01-28T00:00:00Z, 2026-02-04T00:00:00Z) page 1; downloaded unique records=100/208
+2026-10-23T00:16:55Z merged_prs [2026-01-28T00:00:00Z, 2026-02-04T00:00:00Z) page 2; downloaded unique records=200/208
+2026-10-23T00:16:55Z merged_prs waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:16:56Z merged_prs [2026-01-28T00:00:00Z, 2026-02-04T00:00:00Z) page 3; downloaded unique records=208/208
+2026-10-23T00:16:56Z COMPLETED merged_prs [2026-01-28T00:00:00Z, 2026-02-04T00:00:00Z): 208
+2026-10-23T00:16:56Z merged_prs waiting 1.5s: request pacing / rate-limit headers
+2026-10-23T00:16:59Z merged_prs [2026-02-04T00:00:00Z, 2026-02-11T00:00:00Z) page 1; downloaded unique records=100/232
+2026-10-23T00:16:59Z merged_prs waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:17:01Z merged_prs [2026-02-04T00:00:00Z, 2026-02-11T00:00:00Z) page 2; downloaded unique records=200/232
+2026-10-23T00:17:01Z merged_prs waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:17:03Z merged_prs [2026-02-04T00:00:00Z, 2026-02-11T00:00:00Z) page 3; downloaded unique records=232/232
+2026-10-23T00:17:03Z COMPLETED merged_prs [2026-02-04T00:00:00Z, 2026-02-11T00:00:00Z): 232
+2026-10-23T00:17:03Z merged_prs waiting 1.0s: request pacing / rate-limit headers
+2026-10-23T00:17:06Z merged_prs [2026-02-11T00:00:00Z, 2026-02-18T00:00:00Z) page 1; downloaded unique records=100/223
+2026-10-23T00:17:08Z merged_prs [2026-02-11T00:00:00Z, 2026-02-18T00:00:00Z) page 2; downloaded unique records=200/223
+2026-10-23T00:17:08Z merged_prs waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:17:09Z merged_prs [2026-02-11T00:00:00Z, 2026-02-18T00:00:00Z) page 3; downloaded unique records=223/223
+2026-10-23T00:17:09Z COMPLETED merged_prs [2026-02-11T00:00:00Z, 2026-02-18T00:00:00Z): 223
+2026-10-23T00:17:09Z merged_prs waiting 1.2s: request pacing / rate-limit headers
+2026-10-23T00:17:12Z merged_prs [2026-02-18T00:00:00Z, 2026-02-25T00:00:00Z) page 1; downloaded unique records=100/209
+2026-10-23T00:17:12Z merged_prs waiting 0.0s: request pacing / rate-limit headers
+2026-10-23T00:17:12Z merged_prs waiting 61.1s: HTTP 403 rate limit; retry 1/8
+2026-10-23T00:18:17Z merged_prs [2026-02-18T00:00:00Z, 2026-02-25T00:00:00Z) page 2; downloaded unique records=200/209
+2026-10-23T00:18:17Z merged_prs [2026-02-18T00:00:00Z, 2026-02-25T00:00:00Z) page 3; downloaded unique records=209/209
+2026-10-23T00:18:18Z COMPLETED merged_prs [2026-02-18T00:00:00Z, 2026-02-25T00:00:00Z): 209
+2026-10-23T00:18:18Z merged_prs waiting 8.0s: request pacing / rate-limit headers
+2026-10-23T00:18:27Z merged_prs [2026-02-25T00:00:00Z, 2026-03-04T00:00:00Z) page 1; downloaded unique records=100/205
+2026-10-23T00:18:27Z merged_prs waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:18:30Z merged_prs [2026-02-25T00:00:00Z, 2026-03-04T00:00:00Z) page 2; downloaded unique records=200/205
+2026-10-23T00:18:31Z merged_prs [2026-02-25T00:00:00Z, 2026-03-04T00:00:00Z) page 3; downloaded unique records=205/205
+2026-10-23T00:18:31Z COMPLETED merged_prs [2026-02-25T00:00:00Z, 2026-03-04T00:00:00Z): 205
+2026-10-23T00:18:31Z merged_prs waiting 1.5s: request pacing / rate-limit headers
+2026-10-23T00:18:34Z merged_prs [2026-03-04T00:00:00Z, 2026-03-11T00:00:00Z) page 1; downloaded unique records=100/237
+2026-10-23T00:18:34Z merged_prs waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:18:37Z merged_prs [2026-03-04T00:00:00Z, 2026-03-11T00:00:00Z) page 2; downloaded unique records=200/237
+2026-10-23T00:18:38Z merged_prs [2026-03-04T00:00:00Z, 2026-03-11T00:00:00Z) page 3; downloaded unique records=237/237
+2026-10-23T00:18:38Z COMPLETED merged_prs [2026-03-04T00:00:00Z, 2026-03-11T00:00:00Z): 237
+2026-10-23T00:18:38Z merged_prs waiting 0.8s: request pacing / rate-limit headers
+2026-10-23T00:18:41Z merged_prs [2026-03-11T00:00:00Z, 2026-03-18T00:00:00Z) page 1; downloaded unique records=100/191
+2026-10-23T00:18:43Z merged_prs [2026-03-11T00:00:00Z, 2026-03-18T00:00:00Z) page 2; downloaded unique records=191/191
+2026-10-23T00:18:43Z COMPLETED merged_prs [2026-03-11T00:00:00Z, 2026-03-18T00:00:00Z): 191
+2026-10-23T00:18:43Z merged_prs waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:18:45Z merged_prs [2026-03-18T00:00:00Z, 2026-03-25T00:00:00Z) page 1; downloaded unique records=100/186
+2026-10-23T00:18:45Z merged_prs waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:18:47Z merged_prs [2026-03-18T00:00:00Z, 2026-03-25T00:00:00Z) page 2; downloaded unique records=186/186
+2026-10-23T00:18:47Z COMPLETED merged_prs [2026-03-18T00:00:00Z, 2026-03-25T00:00:00Z): 186
+2026-10-23T00:18:47Z merged_prs waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:18:49Z merged_prs [2026-03-25T00:00:00Z, 2026-04-01T00:00:00Z) page 1; downloaded unique records=100/183
+2026-10-23T00:18:49Z merged_prs waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:18:51Z merged_prs [2026-03-25T00:00:00Z, 2026-04-01T00:00:00Z) page 2; downloaded unique records=183/183
+2026-10-23T00:18:51Z COMPLETED merged_prs [2026-03-25T00:00:00Z, 2026-04-01T00:00:00Z): 183
+2026-10-23T00:18:51Z merged_prs waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:18:54Z merged_prs [2026-04-01T00:00:00Z, 2026-04-08T00:00:00Z) page 1; downloaded unique records=100/183
+2026-10-23T00:18:54Z merged_prs waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:18:55Z merged_prs [2026-04-01T00:00:00Z, 2026-04-08T00:00:00Z) page 2; downloaded unique records=183/183
+2026-10-23T00:18:55Z COMPLETED merged_prs [2026-04-01T00:00:00Z, 2026-04-08T00:00:00Z): 183
+2026-10-23T00:18:55Z merged_prs waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:18:58Z merged_prs [2026-04-08T00:00:00Z, 2026-04-15T00:00:00Z) page 1; downloaded unique records=100/202
+2026-10-23T00:18:58Z merged_prs waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:19:00Z merged_prs [2026-04-08T00:00:00Z, 2026-04-15T00:00:00Z) page 2; downloaded unique records=200/202
+2026-10-23T00:19:00Z merged_prs waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:19:00Z merged_prs [2026-04-08T00:00:00Z, 2026-04-15T00:00:00Z) page 3; downloaded unique records=202/202
+2026-10-23T00:19:00Z COMPLETED merged_prs [2026-04-08T00:00:00Z, 2026-04-15T00:00:00Z): 202
+2026-10-23T00:19:00Z merged_prs waiting 1.6s: request pacing / rate-limit headers
+2026-10-23T00:19:04Z merged_prs [2026-04-15T00:00:00Z, 2026-04-22T00:00:00Z) page 1; downloaded unique records=100/292
+2026-10-23T00:19:04Z merged_prs waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:19:06Z merged_prs [2026-04-15T00:00:00Z, 2026-04-22T00:00:00Z) page 2; downloaded unique records=200/292
+2026-10-23T00:19:09Z merged_prs [2026-04-15T00:00:00Z, 2026-04-22T00:00:00Z) page 3; downloaded unique records=292/292
+2026-10-23T00:19:09Z COMPLETED merged_prs [2026-04-15T00:00:00Z, 2026-04-22T00:00:00Z): 292
+2026-10-23T00:19:11Z merged_prs [2026-04-22T00:00:00Z, 2026-04-29T00:00:00Z) page 1; downloaded unique records=100/305
+2026-10-23T00:19:11Z merged_prs waiting 0.0s: request pacing / rate-limit headers
+2026-10-23T00:19:13Z merged_prs [2026-04-22T00:00:00Z, 2026-04-29T00:00:00Z) page 2; downloaded unique records=200/305
+2026-10-23T00:19:15Z merged_prs [2026-04-22T00:00:00Z, 2026-04-29T00:00:00Z) page 3; downloaded unique records=300/305
+2026-10-23T00:19:16Z merged_prs [2026-04-22T00:00:00Z, 2026-04-29T00:00:00Z) page 4; downloaded unique records=305/305
+2026-10-23T00:19:16Z COMPLETED merged_prs [2026-04-22T00:00:00Z, 2026-04-29T00:00:00Z): 305
+2026-10-23T00:19:16Z merged_prs waiting 1.5s: request pacing / rate-limit headers
+2026-10-23T00:19:20Z merged_prs [2026-04-29T00:00:00Z, 2026-05-06T00:00:00Z) page 1; downloaded unique records=100/254
+2026-10-23T00:19:21Z merged_prs [2026-04-29T00:00:00Z, 2026-05-06T00:00:00Z) page 2; downloaded unique records=200/254
+2026-10-23T00:19:21Z merged_prs waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:19:23Z merged_prs [2026-04-29T00:00:00Z, 2026-05-06T00:00:00Z) page 3; downloaded unique records=254/254
+2026-10-23T00:19:23Z COMPLETED merged_prs [2026-04-29T00:00:00Z, 2026-05-06T00:00:00Z): 254
+2026-10-23T00:19:23Z merged_prs waiting 4.6s: request pacing / rate-limit headers
+2026-10-23T00:19:30Z merged_prs [2026-05-06T00:00:00Z, 2026-05-13T00:00:00Z) page 1; downloaded unique records=100/225
+2026-10-23T00:19:32Z merged_prs [2026-05-06T00:00:00Z, 2026-05-13T00:00:00Z) page 2; downloaded unique records=200/225
+2026-10-23T00:19:33Z merged_prs [2026-05-06T00:00:00Z, 2026-05-13T00:00:00Z) page 3; downloaded unique records=225/225
+2026-10-23T00:19:33Z COMPLETED merged_prs [2026-05-06T00:00:00Z, 2026-05-13T00:00:00Z): 225
+2026-10-23T00:19:33Z merged_prs waiting 1.2s: request pacing / rate-limit headers
+2026-10-23T00:19:36Z merged_prs [2026-05-13T00:00:00Z, 2026-05-20T00:00:00Z) page 1; downloaded unique records=100/256
+2026-10-23T00:19:38Z merged_prs [2026-05-13T00:00:00Z, 2026-05-20T00:00:00Z) page 2; downloaded unique records=200/256
+2026-10-23T00:19:38Z merged_prs waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:19:40Z merged_prs [2026-05-13T00:00:00Z, 2026-05-20T00:00:00Z) page 3; downloaded unique records=256/256
+2026-10-23T00:19:40Z COMPLETED merged_prs [2026-05-13T00:00:00Z, 2026-05-20T00:00:00Z): 256
+2026-10-23T00:19:40Z merged_prs waiting 0.7s: request pacing / rate-limit headers
+2026-10-23T00:19:43Z merged_prs [2026-05-20T00:00:00Z, 2026-05-27T00:00:00Z) page 1; downloaded unique records=100/194
+2026-10-23T00:19:45Z merged_prs [2026-05-20T00:00:00Z, 2026-05-27T00:00:00Z) page 2; downloaded unique records=194/194
+2026-10-23T00:19:45Z COMPLETED merged_prs [2026-05-20T00:00:00Z, 2026-05-27T00:00:00Z): 194
+2026-10-23T00:19:45Z merged_prs waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:19:48Z merged_prs [2026-05-27T00:00:00Z, 2026-06-03T00:00:00Z) page 1; downloaded unique records=100/249
+2026-10-23T00:19:50Z merged_prs [2026-05-27T00:00:00Z, 2026-06-03T00:00:00Z) page 2; downloaded unique records=200/249
+2026-10-23T00:19:51Z merged_prs [2026-05-27T00:00:00Z, 2026-06-03T00:00:00Z) page 3; downloaded unique records=249/249
+2026-10-23T00:19:51Z COMPLETED merged_prs [2026-05-27T00:00:00Z, 2026-06-03T00:00:00Z): 249
+2026-10-23T00:19:51Z merged_prs waiting 0.7s: request pacing / rate-limit headers
+2026-10-23T00:19:54Z merged_prs [2026-06-03T00:00:00Z, 2026-06-10T00:00:00Z) page 1; downloaded unique records=100/186
+2026-10-23T00:19:54Z merged_prs waiting 0.0s: request pacing / rate-limit headers
+2026-10-23T00:19:56Z merged_prs [2026-06-03T00:00:00Z, 2026-06-10T00:00:00Z) page 2; downloaded unique records=186/186
+2026-10-23T00:19:56Z COMPLETED merged_prs [2026-06-03T00:00:00Z, 2026-06-10T00:00:00Z): 186
+2026-10-23T00:19:56Z merged_prs waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:19:58Z merged_prs [2026-06-10T00:00:00Z, 2026-06-17T00:00:00Z) page 1; downloaded unique records=100/278
+2026-10-23T00:19:58Z merged_prs waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:20:01Z merged_prs [2026-06-10T00:00:00Z, 2026-06-17T00:00:00Z) page 2; downloaded unique records=200/278
+2026-10-23T00:20:02Z merged_prs [2026-06-10T00:00:00Z, 2026-06-17T00:00:00Z) page 3; downloaded unique records=278/278
+2026-10-23T00:20:02Z COMPLETED merged_prs [2026-06-10T00:00:00Z, 2026-06-17T00:00:00Z): 278
+2026-10-23T00:20:02Z merged_prs waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:20:06Z merged_prs [2026-06-17T00:00:00Z, 2026-06-24T00:00:00Z) page 1; downloaded unique records=100/229
+2026-10-23T00:20:08Z merged_prs [2026-06-17T00:00:00Z, 2026-06-24T00:00:00Z) page 2; downloaded unique records=200/229
+2026-10-23T00:20:09Z merged_prs [2026-06-17T00:00:00Z, 2026-06-24T00:00:00Z) page 3; downloaded unique records=229/229
+2026-10-23T00:20:09Z COMPLETED merged_prs [2026-06-17T00:00:00Z, 2026-06-24T00:00:00Z): 229
+2026-10-23T00:20:09Z merged_prs waiting 0.8s: request pacing / rate-limit headers
+2026-10-23T00:20:12Z merged_prs [2026-06-24T00:00:00Z, 2026-07-01T00:00:00Z) page 1; downloaded unique records=100/154
+2026-10-23T00:20:12Z merged_prs waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:20:14Z merged_prs [2026-06-24T00:00:00Z, 2026-07-01T00:00:00Z) page 2; downloaded unique records=154/154
+2026-10-23T00:20:14Z COMPLETED merged_prs [2026-06-24T00:00:00Z, 2026-07-01T00:00:00Z): 154
+2026-10-23T00:20:14Z merged_prs waiting 0.5s: request pacing / rate-limit headers
+2026-10-23T00:20:16Z merged_prs [2026-07-01T00:00:00Z, 2026-07-08T00:00:00Z) page 1; downloaded unique records=79/79
+2026-10-23T00:20:16Z COMPLETED merged_prs [2026-07-01T00:00:00Z, 2026-07-08T00:00:00Z): 79
+2026-10-23T00:20:16Z merged_prs waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:20:19Z merged_prs [2026-07-08T00:00:00Z, 2026-07-15T00:00:00Z) page 1; downloaded unique records=100/207
+2026-10-23T00:20:20Z merged_prs [2026-07-08T00:00:00Z, 2026-07-15T00:00:00Z) page 2; downloaded unique records=200/207
+2026-10-23T00:20:20Z merged_prs waiting 0.6s: request pacing / rate-limit headers
+2026-10-23T00:20:21Z merged_prs [2026-07-08T00:00:00Z, 2026-07-15T00:00:00Z) page 3; downloaded unique records=207/207
+2026-10-23T00:20:21Z COMPLETED merged_prs [2026-07-08T00:00:00Z, 2026-07-15T00:00:00Z): 207
+2026-10-23T00:20:21Z merged_prs waiting 1.5s: request pacing / rate-limit headers
+2026-10-23T00:20:25Z merged_prs [2026-07-15T00:00:00Z, 2026-07-22T00:00:00Z) page 1; downloaded unique records=100/254
+2026-10-23T00:20:25Z merged_prs waiting 0.5s: request pacing / rate-limit headers
+2026-10-23T00:20:27Z merged_prs [2026-07-15T00:00:00Z, 2026-07-22T00:00:00Z) page 2; downloaded unique records=200/254
+2026-10-23T00:20:27Z merged_prs waiting 0.6s: request pacing / rate-limit headers
+2026-10-23T00:20:28Z merged_prs [2026-07-15T00:00:00Z, 2026-07-22T00:00:00Z) page 3; downloaded unique records=254/254
+2026-10-23T00:20:28Z COMPLETED merged_prs [2026-07-15T00:00:00Z, 2026-07-22T00:00:00Z): 254
+2026-10-23T00:20:28Z merged_prs waiting 1.4s: request pacing / rate-limit headers
+2026-10-23T00:20:31Z merged_prs [2026-07-22T00:00:00Z, 2026-07-29T00:00:00Z) page 1; downloaded unique records=100/222
+2026-10-23T00:20:31Z merged_prs waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:20:33Z merged_prs [2026-07-22T00:00:00Z, 2026-07-29T00:00:00Z) page 2; downloaded unique records=200/222
+2026-10-23T00:20:33Z merged_prs waiting 0.5s: request pacing / rate-limit headers
+2026-10-23T00:20:34Z merged_prs [2026-07-22T00:00:00Z, 2026-07-29T00:00:00Z) page 3; downloaded unique records=222/222
+2026-10-23T00:20:34Z COMPLETED merged_prs [2026-07-22T00:00:00Z, 2026-07-29T00:00:00Z): 222
+2026-10-23T00:20:34Z merged_prs waiting 1.4s: request pacing / rate-limit headers
+2026-10-23T00:20:37Z merged_prs [2026-07-29T00:00:00Z, 2026-08-05T00:00:00Z) page 1; downloaded unique records=100/237
+2026-10-23T00:20:37Z merged_prs waiting 0.6s: request pacing / rate-limit headers
+2026-10-23T00:20:40Z merged_prs [2026-07-29T00:00:00Z, 2026-08-05T00:00:00Z) page 2; downloaded unique records=200/237
+2026-10-23T00:20:40Z merged_prs waiting 0.5s: request pacing / rate-limit headers
+2026-10-23T00:20:41Z merged_prs [2026-07-29T00:00:00Z, 2026-08-05T00:00:00Z) page 3; downloaded unique records=237/237
+2026-10-23T00:20:41Z COMPLETED merged_prs [2026-07-29T00:00:00Z, 2026-08-05T00:00:00Z): 237
+2026-10-23T00:20:41Z merged_prs waiting 1.3s: request pacing / rate-limit headers
+2026-10-23T00:20:43Z merged_prs [2026-08-05T00:00:00Z, 2026-08-12T00:00:00Z) page 1; downloaded unique records=100/227
+2026-10-23T00:20:43Z merged_prs waiting 0.8s: request pacing / rate-limit headers
+2026-10-23T00:20:46Z merged_prs [2026-08-05T00:00:00Z, 2026-08-12T00:00:00Z) page 2; downloaded unique records=200/227
+2026-10-23T00:20:46Z merged_prs waiting 0.5s: request pacing / rate-limit headers
+2026-10-23T00:20:47Z merged_prs [2026-08-05T00:00:00Z, 2026-08-12T00:00:00Z) page 3; downloaded unique records=227/227
+2026-10-23T00:20:47Z COMPLETED merged_prs [2026-08-05T00:00:00Z, 2026-08-12T00:00:00Z): 227
+2026-10-23T00:20:47Z merged_prs waiting 1.4s: request pacing / rate-limit headers
+2026-10-23T00:20:50Z merged_prs [2026-08-12T00:00:00Z, 2026-08-19T00:00:00Z) page 1; downloaded unique records=100/359
+2026-10-23T00:20:50Z merged_prs waiting 0.5s: request pacing / rate-limit headers
+2026-10-23T00:20:52Z merged_prs [2026-08-12T00:00:00Z, 2026-08-19T00:00:00Z) page 2; downloaded unique records=200/359
+2026-10-23T00:20:52Z merged_prs waiting 0.7s: request pacing / rate-limit headers
+2026-10-23T00:20:54Z merged_prs [2026-08-12T00:00:00Z, 2026-08-19T00:00:00Z) page 3; downloaded unique records=300/359
+2026-10-23T00:20:54Z merged_prs waiting 0.7s: request pacing / rate-limit headers
+2026-10-23T00:20:56Z merged_prs [2026-08-12T00:00:00Z, 2026-08-19T00:00:00Z) page 4; downloaded unique records=359/359
+2026-10-23T00:20:56Z COMPLETED merged_prs [2026-08-12T00:00:00Z, 2026-08-19T00:00:00Z): 359
+2026-10-23T00:20:56Z merged_prs waiting 1.0s: request pacing / rate-limit headers
+2026-10-23T00:20:59Z merged_prs [2026-08-19T00:00:00Z, 2026-08-26T00:00:00Z) page 1; downloaded unique records=100/323
+2026-10-23T00:20:59Z merged_prs waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:21:01Z merged_prs [2026-08-19T00:00:00Z, 2026-08-26T00:00:00Z) page 2; downloaded unique records=200/323
+2026-10-23T00:21:01Z merged_prs waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:21:03Z merged_prs [2026-08-19T00:00:00Z, 2026-08-26T00:00:00Z) page 3; downloaded unique records=300/323
+2026-10-23T00:21:03Z merged_prs waiting 0.5s: request pacing / rate-limit headers
+2026-10-23T00:21:04Z merged_prs [2026-08-19T00:00:00Z, 2026-08-26T00:00:00Z) page 4; downloaded unique records=323/323
+2026-10-23T00:21:04Z COMPLETED merged_prs [2026-08-19T00:00:00Z, 2026-08-26T00:00:00Z): 323
+2026-10-23T00:21:04Z merged_prs waiting 1.3s: request pacing / rate-limit headers
+2026-10-23T00:21:07Z merged_prs [2026-08-26T00:00:00Z, 2026-09-02T00:00:00Z) page 1; downloaded unique records=100/194
+2026-10-23T00:21:07Z merged_prs waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:21:09Z merged_prs [2026-08-26T00:00:00Z, 2026-09-02T00:00:00Z) page 2; downloaded unique records=194/194
+2026-10-23T00:21:09Z COMPLETED merged_prs [2026-08-26T00:00:00Z, 2026-09-02T00:00:00Z): 194
+2026-10-23T00:21:09Z merged_prs waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:21:11Z merged_prs [2026-09-02T00:00:00Z, 2026-09-09T00:00:00Z) page 1; downloaded unique records=100/347
+2026-10-23T00:21:11Z merged_prs waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:21:13Z merged_prs [2026-09-02T00:00:00Z, 2026-09-09T00:00:00Z) page 2; downloaded unique records=200/347
+2026-10-23T00:21:13Z merged_prs waiting 0.6s: request pacing / rate-limit headers
+2026-10-23T00:21:15Z merged_prs [2026-09-02T00:00:00Z, 2026-09-09T00:00:00Z) page 3; downloaded unique records=300/347
+2026-10-23T00:21:15Z merged_prs waiting 0.6s: request pacing / rate-limit headers
+2026-10-23T00:21:17Z merged_prs [2026-09-02T00:00:00Z, 2026-09-09T00:00:00Z) page 4; downloaded unique records=347/347
+2026-10-23T00:21:17Z COMPLETED merged_prs [2026-09-02T00:00:00Z, 2026-09-09T00:00:00Z): 347
+2026-10-23T00:21:17Z merged_prs waiting 1.2s: request pacing / rate-limit headers
+2026-10-23T00:21:19Z merged_prs [2026-09-09T00:00:00Z, 2026-09-16T00:00:00Z) page 1; downloaded unique records=100/345
+2026-10-23T00:21:19Z merged_prs waiting 0.6s: request pacing / rate-limit headers
+2026-10-23T00:21:22Z merged_prs [2026-09-09T00:00:00Z, 2026-09-16T00:00:00Z) page 2; downloaded unique records=200/345
+2026-10-23T00:21:22Z merged_prs waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:21:24Z merged_prs [2026-09-09T00:00:00Z, 2026-09-16T00:00:00Z) page 3; downloaded unique records=300/345
+2026-10-23T00:21:24Z merged_prs waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:21:25Z merged_prs [2026-09-09T00:00:00Z, 2026-09-16T00:00:00Z) page 4; downloaded unique records=345/345
+2026-10-23T00:21:25Z COMPLETED merged_prs [2026-09-09T00:00:00Z, 2026-09-16T00:00:00Z): 345
+2026-10-23T00:21:25Z merged_prs waiting 1.2s: request pacing / rate-limit headers
+2026-10-23T00:21:28Z merged_prs [2026-09-16T00:00:00Z, 2026-09-23T00:00:00Z) page 1; downloaded unique records=100/415
+2026-10-23T00:21:28Z merged_prs waiting 0.6s: request pacing / rate-limit headers
+2026-10-23T00:21:30Z merged_prs [2026-09-16T00:00:00Z, 2026-09-23T00:00:00Z) page 2; downloaded unique records=200/415
+2026-10-23T00:21:30Z merged_prs waiting 1.5s: request pacing / rate-limit headers
+2026-10-23T00:21:33Z merged_prs [2026-09-16T00:00:00Z, 2026-09-23T00:00:00Z) page 3; downloaded unique records=300/415
+2026-10-23T00:21:33Z merged_prs waiting 0.7s: request pacing / rate-limit headers
+2026-10-23T00:21:35Z merged_prs [2026-09-16T00:00:00Z, 2026-09-23T00:00:00Z) page 4; downloaded unique records=400/415
+2026-10-23T00:21:35Z merged_prs waiting 0.5s: request pacing / rate-limit headers
+2026-10-23T00:21:36Z merged_prs [2026-09-16T00:00:00Z, 2026-09-23T00:00:00Z) page 5; downloaded unique records=415/415
+2026-10-23T00:21:36Z COMPLETED merged_prs [2026-09-16T00:00:00Z, 2026-09-23T00:00:00Z): 415
+2026-10-23T00:21:36Z merged_prs waiting 1.5s: request pacing / rate-limit headers
+2026-10-23T00:21:39Z merged_prs [2026-09-23T00:00:00Z, 2026-09-30T00:00:00Z) page 1; downloaded unique records=100/391
+2026-10-23T00:21:39Z merged_prs waiting 0.7s: request pacing / rate-limit headers
+2026-10-23T00:21:41Z merged_prs [2026-09-23T00:00:00Z, 2026-09-30T00:00:00Z) page 2; downloaded unique records=200/391
+2026-10-23T00:21:41Z merged_prs waiting 0.8s: request pacing / rate-limit headers
+2026-10-23T00:21:43Z merged_prs [2026-09-23T00:00:00Z, 2026-09-30T00:00:00Z) page 3; downloaded unique records=300/391
+2026-10-23T00:21:43Z merged_prs waiting 0.7s: request pacing / rate-limit headers
+2026-10-23T00:21:46Z merged_prs [2026-09-23T00:00:00Z, 2026-09-30T00:00:00Z) page 4; downloaded unique records=391/391
+2026-10-23T00:21:46Z COMPLETED merged_prs [2026-09-23T00:00:00Z, 2026-09-30T00:00:00Z): 391
+2026-10-23T00:21:46Z merged_prs waiting 0.5s: request pacing / rate-limit headers
+2026-10-23T00:21:48Z merged_prs [2026-09-30T00:00:00Z, 2026-10-07T00:00:00Z) page 1; downloaded unique records=100/339
+2026-10-23T00:21:48Z merged_prs waiting 0.7s: request pacing / rate-limit headers
+2026-10-23T00:21:50Z merged_prs [2026-09-30T00:00:00Z, 2026-10-07T00:00:00Z) page 2; downloaded unique records=200/339
+2026-10-23T00:21:50Z merged_prs waiting 0.8s: request pacing / rate-limit headers
+2026-10-23T00:21:52Z merged_prs [2026-09-30T00:00:00Z, 2026-10-07T00:00:00Z) page 3; downloaded unique records=300/339
+2026-10-23T00:21:52Z merged_prs waiting 0.8s: request pacing / rate-limit headers
+2026-10-23T00:21:53Z merged_prs [2026-09-30T00:00:00Z, 2026-10-07T00:00:00Z) page 4; downloaded unique records=339/339
+2026-10-23T00:21:53Z COMPLETED merged_prs [2026-09-30T00:00:00Z, 2026-10-07T00:00:00Z): 339
+2026-10-23T00:21:53Z merged_prs waiting 1.3s: request pacing / rate-limit headers
+2026-10-23T00:21:56Z merged_prs [2026-10-07T00:00:00Z, 2026-10-14T00:00:00Z) page 1; downloaded unique records=100/249
+2026-10-23T00:21:56Z merged_prs waiting 0.7s: request pacing / rate-limit headers
+2026-10-23T00:21:58Z merged_prs [2026-10-07T00:00:00Z, 2026-10-14T00:00:00Z) page 2; downloaded unique records=200/249
+2026-10-23T00:21:58Z merged_prs waiting 0.7s: request pacing / rate-limit headers
+2026-10-23T00:22:00Z merged_prs [2026-10-07T00:00:00Z, 2026-10-14T00:00:00Z) page 3; downloaded unique records=249/249
+2026-10-23T00:22:00Z COMPLETED merged_prs [2026-10-07T00:00:00Z, 2026-10-14T00:00:00Z): 249
+2026-10-23T00:22:00Z merged_prs waiting 1.3s: request pacing / rate-limit headers
+2026-10-23T00:22:03Z merged_prs [2026-10-14T00:00:00Z, 2026-10-21T00:00:00Z) page 1; downloaded unique records=100/255
+2026-10-23T00:22:03Z merged_prs waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:22:04Z merged_prs [2026-10-14T00:00:00Z, 2026-10-21T00:00:00Z) page 2; downloaded unique records=200/255
+2026-10-23T00:22:04Z merged_prs waiting 0.9s: request pacing / rate-limit headers
+2026-10-23T00:22:06Z merged_prs [2026-10-14T00:00:00Z, 2026-10-21T00:00:00Z) page 3; downloaded unique records=255/255
+2026-10-23T00:22:06Z COMPLETED merged_prs [2026-10-14T00:00:00Z, 2026-10-21T00:00:00Z): 255
+2026-10-23T00:22:06Z closed_without_merge_prs waiting 1.2s: request pacing / rate-limit headers
+2026-10-23T00:22:09Z closed_without_merge_prs [2025-10-22T00:00:00Z, 2025-10-29T00:00:00Z) page 1; downloaded unique records=40/40
+2026-10-23T00:22:09Z COMPLETED closed_without_merge_prs [2025-10-22T00:00:00Z, 2025-10-29T00:00:00Z): 40
+2026-10-23T00:22:09Z closed_without_merge_prs waiting 0.7s: request pacing / rate-limit headers
+2026-10-23T00:22:12Z closed_without_merge_prs [2025-10-29T00:00:00Z, 2025-11-05T00:00:00Z) page 1; downloaded unique records=100/293
+2026-10-23T00:22:14Z closed_without_merge_prs [2025-10-29T00:00:00Z, 2025-11-05T00:00:00Z) page 2; downloaded unique records=200/293
+2026-10-23T00:22:16Z closed_without_merge_prs [2025-10-29T00:00:00Z, 2025-11-05T00:00:00Z) page 3; downloaded unique records=293/293
+2026-10-23T00:22:16Z COMPLETED closed_without_merge_prs [2025-10-29T00:00:00Z, 2025-11-05T00:00:00Z): 293
+2026-10-23T00:22:16Z closed_without_merge_prs waiting 0.0s: request pacing / rate-limit headers
+2026-10-23T00:22:18Z closed_without_merge_prs [2025-11-05T00:00:00Z, 2025-11-12T00:00:00Z) page 1; downloaded unique records=68/68
+2026-10-23T00:22:18Z COMPLETED closed_without_merge_prs [2025-11-05T00:00:00Z, 2025-11-12T00:00:00Z): 68
+2026-10-23T00:22:18Z closed_without_merge_prs waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:22:20Z closed_without_merge_prs [2025-11-12T00:00:00Z, 2025-11-19T00:00:00Z) page 1; downloaded unique records=100/119
+2026-10-23T00:22:20Z closed_without_merge_prs waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:22:21Z closed_without_merge_prs [2025-11-12T00:00:00Z, 2025-11-19T00:00:00Z) page 2; downloaded unique records=119/119
+2026-10-23T00:22:21Z COMPLETED closed_without_merge_prs [2025-11-12T00:00:00Z, 2025-11-19T00:00:00Z): 119
+2026-10-23T00:22:21Z closed_without_merge_prs waiting 1.2s: request pacing / rate-limit headers
+2026-10-23T00:22:24Z closed_without_merge_prs [2025-11-19T00:00:00Z, 2025-11-26T00:00:00Z) page 1; downloaded unique records=59/59
+2026-10-23T00:22:24Z COMPLETED closed_without_merge_prs [2025-11-19T00:00:00Z, 2025-11-26T00:00:00Z): 59
+2026-10-23T00:22:24Z closed_without_merge_prs waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:22:26Z closed_without_merge_prs [2025-11-26T00:00:00Z, 2025-12-03T00:00:00Z) page 1; downloaded unique records=24/24
+2026-10-23T00:22:26Z COMPLETED closed_without_merge_prs [2025-11-26T00:00:00Z, 2025-12-03T00:00:00Z): 24
+2026-10-23T00:22:26Z closed_without_merge_prs waiting 1.1s: request pacing / rate-limit headers
+2026-10-23T00:22:28Z closed_without_merge_prs [2025-12-03T00:00:00Z, 2025-12-10T00:00:00Z) page 1; downloaded unique records=66/66
+2026-10-23T00:22:28Z COMPLETED closed_without_merge_prs [2025-12-03T00:00:00Z, 2025-12-10T00:00:00Z): 66
+2026-10-23T00:22:28Z closed_without_merge_prs waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:22:30Z closed_without_merge_prs [2025-12-10T00:00:00Z, 2025-12-17T00:00:00Z) page 1; downloaded unique records=51/51
+2026-10-23T00:22:30Z COMPLETED closed_without_merge_prs [2025-12-10T00:00:00Z, 2025-12-17T00:00:00Z): 51
+2026-10-23T00:22:30Z closed_without_merge_prs waiting 0.8s: request pacing / rate-limit headers
+2026-10-23T00:22:32Z closed_without_merge_prs [2025-12-17T00:00:00Z, 2025-12-24T00:00:00Z) page 1; downloaded unique records=36/36
+2026-10-23T00:22:32Z COMPLETED closed_without_merge_prs [2025-12-17T00:00:00Z, 2025-12-24T00:00:00Z): 36
+2026-10-23T00:22:32Z closed_without_merge_prs waiting 1.1s: request pacing / rate-limit headers
+2026-10-23T00:22:34Z closed_without_merge_prs [2025-12-24T00:00:00Z, 2025-12-31T00:00:00Z) page 1; downloaded unique records=26/26
+2026-10-23T00:22:34Z COMPLETED closed_without_merge_prs [2025-12-24T00:00:00Z, 2025-12-31T00:00:00Z): 26
+2026-10-23T00:22:34Z closed_without_merge_prs waiting 1.2s: request pacing / rate-limit headers
+2026-10-23T00:22:36Z closed_without_merge_prs [2025-12-31T00:00:00Z, 2026-01-07T00:00:00Z) page 1; downloaded unique records=27/27
+2026-10-23T00:22:36Z COMPLETED closed_without_merge_prs [2025-12-31T00:00:00Z, 2026-01-07T00:00:00Z): 27
+2026-10-23T00:22:36Z closed_without_merge_prs waiting 1.1s: request pacing / rate-limit headers
+2026-10-23T00:22:39Z closed_without_merge_prs [2026-01-07T00:00:00Z, 2026-01-14T00:00:00Z) page 1; downloaded unique records=62/62
+2026-10-23T00:22:39Z COMPLETED closed_without_merge_prs [2026-01-07T00:00:00Z, 2026-01-14T00:00:00Z): 62
+2026-10-23T00:22:39Z closed_without_merge_prs waiting 0.6s: request pacing / rate-limit headers
+2026-10-23T00:22:41Z closed_without_merge_prs [2026-01-14T00:00:00Z, 2026-01-21T00:00:00Z) page 1; downloaded unique records=56/56
+2026-10-23T00:22:41Z COMPLETED closed_without_merge_prs [2026-01-14T00:00:00Z, 2026-01-21T00:00:00Z): 56
+2026-10-23T00:22:41Z closed_without_merge_prs waiting 0.7s: request pacing / rate-limit headers
+2026-10-23T00:22:43Z closed_without_merge_prs [2026-01-21T00:00:00Z, 2026-01-28T00:00:00Z) page 1; downloaded unique records=90/90
+2026-10-23T00:22:43Z COMPLETED closed_without_merge_prs [2026-01-21T00:00:00Z, 2026-01-28T00:00:00Z): 90
+2026-10-23T00:22:43Z closed_without_merge_prs waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:22:45Z closed_without_merge_prs [2026-01-28T00:00:00Z, 2026-02-04T00:00:00Z) page 1; downloaded unique records=83/83
+2026-10-23T00:22:45Z COMPLETED closed_without_merge_prs [2026-01-28T00:00:00Z, 2026-02-04T00:00:00Z): 83
+2026-10-23T00:22:45Z closed_without_merge_prs waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:22:48Z closed_without_merge_prs [2026-02-04T00:00:00Z, 2026-02-11T00:00:00Z) page 1; downloaded unique records=100/110
+2026-10-23T00:22:49Z closed_without_merge_prs [2026-02-04T00:00:00Z, 2026-02-11T00:00:00Z) page 2; downloaded unique records=110/110
+2026-10-23T00:22:49Z COMPLETED closed_without_merge_prs [2026-02-04T00:00:00Z, 2026-02-11T00:00:00Z): 110
+2026-10-23T00:22:49Z closed_without_merge_prs waiting 1.5s: request pacing / rate-limit headers
+2026-10-23T00:22:52Z closed_without_merge_prs [2026-02-11T00:00:00Z, 2026-02-18T00:00:00Z) page 1; downloaded unique records=100/122
+2026-10-23T00:22:52Z closed_without_merge_prs waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:22:53Z closed_without_merge_prs [2026-02-11T00:00:00Z, 2026-02-18T00:00:00Z) page 2; downloaded unique records=122/122
+2026-10-23T00:22:53Z COMPLETED closed_without_merge_prs [2026-02-11T00:00:00Z, 2026-02-18T00:00:00Z): 122
+2026-10-23T00:22:53Z closed_without_merge_prs waiting 1.2s: request pacing / rate-limit headers
+2026-10-23T00:22:56Z closed_without_merge_prs [2026-02-18T00:00:00Z, 2026-02-25T00:00:00Z) page 1; downloaded unique records=100/121
+2026-10-23T00:22:56Z closed_without_merge_prs waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:22:57Z closed_without_merge_prs [2026-02-18T00:00:00Z, 2026-02-25T00:00:00Z) page 2; downloaded unique records=121/121
+2026-10-23T00:22:57Z COMPLETED closed_without_merge_prs [2026-02-18T00:00:00Z, 2026-02-25T00:00:00Z): 121
+2026-10-23T00:22:57Z closed_without_merge_prs waiting 1.0s: request pacing / rate-limit headers
+2026-10-23T00:23:00Z closed_without_merge_prs [2026-02-25T00:00:00Z, 2026-03-04T00:00:00Z) page 1; downloaded unique records=88/88
+2026-10-23T00:23:00Z COMPLETED closed_without_merge_prs [2026-02-25T00:00:00Z, 2026-03-04T00:00:00Z): 88
+2026-10-23T00:23:00Z closed_without_merge_prs waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:23:02Z closed_without_merge_prs [2026-03-04T00:00:00Z, 2026-03-11T00:00:00Z) page 1; downloaded unique records=85/85
+2026-10-23T00:23:02Z COMPLETED closed_without_merge_prs [2026-03-04T00:00:00Z, 2026-03-11T00:00:00Z): 85
+2026-10-23T00:23:02Z closed_without_merge_prs waiting 0.5s: request pacing / rate-limit headers
+2026-10-23T00:23:04Z closed_without_merge_prs [2026-03-11T00:00:00Z, 2026-03-18T00:00:00Z) page 1; downloaded unique records=87/87
+2026-10-23T00:23:04Z COMPLETED closed_without_merge_prs [2026-03-11T00:00:00Z, 2026-03-18T00:00:00Z): 87
+2026-10-23T00:23:04Z closed_without_merge_prs waiting 0.6s: request pacing / rate-limit headers
+2026-10-23T00:23:06Z closed_without_merge_prs [2026-03-18T00:00:00Z, 2026-03-25T00:00:00Z) page 1; downloaded unique records=100/109
+2026-10-23T00:23:06Z closed_without_merge_prs waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:23:08Z closed_without_merge_prs [2026-03-18T00:00:00Z, 2026-03-25T00:00:00Z) page 2; downloaded unique records=109/109
+2026-10-23T00:23:08Z COMPLETED closed_without_merge_prs [2026-03-18T00:00:00Z, 2026-03-25T00:00:00Z): 109
+2026-10-23T00:23:08Z closed_without_merge_prs waiting 1.4s: request pacing / rate-limit headers
+2026-10-23T00:23:11Z closed_without_merge_prs [2026-03-25T00:00:00Z, 2026-04-01T00:00:00Z) page 1; downloaded unique records=100/106
+2026-10-23T00:23:11Z closed_without_merge_prs waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:23:12Z closed_without_merge_prs [2026-03-25T00:00:00Z, 2026-04-01T00:00:00Z) page 2; downloaded unique records=106/106
+2026-10-23T00:23:12Z COMPLETED closed_without_merge_prs [2026-03-25T00:00:00Z, 2026-04-01T00:00:00Z): 106
+2026-10-23T00:23:12Z closed_without_merge_prs waiting 1.6s: request pacing / rate-limit headers
+2026-10-23T00:23:15Z closed_without_merge_prs [2026-04-01T00:00:00Z, 2026-04-08T00:00:00Z) page 1; downloaded unique records=94/94
+2026-10-23T00:23:15Z COMPLETED closed_without_merge_prs [2026-04-01T00:00:00Z, 2026-04-08T00:00:00Z): 94
+2026-10-23T00:23:15Z closed_without_merge_prs waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:23:17Z closed_without_merge_prs [2026-04-08T00:00:00Z, 2026-04-15T00:00:00Z) page 1; downloaded unique records=96/96
+2026-10-23T00:23:17Z COMPLETED closed_without_merge_prs [2026-04-08T00:00:00Z, 2026-04-15T00:00:00Z): 96
+2026-10-23T00:23:17Z closed_without_merge_prs waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:23:22Z closed_without_merge_prs [2026-04-15T00:00:00Z, 2026-04-22T00:00:00Z) page 1; downloaded unique records=100/157
+2026-10-23T00:23:23Z closed_without_merge_prs [2026-04-15T00:00:00Z, 2026-04-22T00:00:00Z) page 2; downloaded unique records=157/157
+2026-10-23T00:23:23Z COMPLETED closed_without_merge_prs [2026-04-15T00:00:00Z, 2026-04-22T00:00:00Z): 157
+2026-10-23T00:23:23Z closed_without_merge_prs waiting 0.9s: request pacing / rate-limit headers
+2026-10-23T00:23:26Z closed_without_merge_prs [2026-04-22T00:00:00Z, 2026-04-29T00:00:00Z) page 1; downloaded unique records=100/144
+2026-10-23T00:23:26Z closed_without_merge_prs waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:23:29Z closed_without_merge_prs [2026-04-22T00:00:00Z, 2026-04-29T00:00:00Z) page 2; downloaded unique records=144/144
+2026-10-23T00:23:29Z COMPLETED closed_without_merge_prs [2026-04-22T00:00:00Z, 2026-04-29T00:00:00Z): 144
+2026-10-23T00:23:30Z closed_without_merge_prs [2026-04-29T00:00:00Z, 2026-05-06T00:00:00Z) page 1; downloaded unique records=100/135
+2026-10-23T00:23:30Z closed_without_merge_prs waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:23:32Z closed_without_merge_prs [2026-04-29T00:00:00Z, 2026-05-06T00:00:00Z) page 2; downloaded unique records=135/135
+2026-10-23T00:23:32Z COMPLETED closed_without_merge_prs [2026-04-29T00:00:00Z, 2026-05-06T00:00:00Z): 135
+2026-10-23T00:23:32Z closed_without_merge_prs waiting 0.7s: request pacing / rate-limit headers
+2026-10-23T00:23:35Z closed_without_merge_prs [2026-05-06T00:00:00Z, 2026-05-13T00:00:00Z) page 1; downloaded unique records=100/130
+2026-10-23T00:23:36Z closed_without_merge_prs [2026-05-06T00:00:00Z, 2026-05-13T00:00:00Z) page 2; downloaded unique records=130/130
+2026-10-23T00:23:36Z COMPLETED closed_without_merge_prs [2026-05-06T00:00:00Z, 2026-05-13T00:00:00Z): 130
+2026-10-23T00:23:36Z closed_without_merge_prs waiting 1.2s: request pacing / rate-limit headers
+2026-10-23T00:23:39Z closed_without_merge_prs [2026-05-13T00:00:00Z, 2026-05-20T00:00:00Z) page 1; downloaded unique records=100/182
+2026-10-23T00:23:39Z closed_without_merge_prs waiting 0.0s: request pacing / rate-limit headers
+2026-10-23T00:23:41Z closed_without_merge_prs [2026-05-13T00:00:00Z, 2026-05-20T00:00:00Z) page 2; downloaded unique records=182/182
+2026-10-23T00:23:41Z COMPLETED closed_without_merge_prs [2026-05-13T00:00:00Z, 2026-05-20T00:00:00Z): 182
+2026-10-23T00:23:41Z closed_without_merge_prs waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:23:43Z closed_without_merge_prs [2026-05-20T00:00:00Z, 2026-05-27T00:00:00Z) page 1; downloaded unique records=100/142
+2026-10-23T00:23:45Z closed_without_merge_prs [2026-05-20T00:00:00Z, 2026-05-27T00:00:00Z) page 2; downloaded unique records=142/142
+2026-10-23T00:23:45Z COMPLETED closed_without_merge_prs [2026-05-20T00:00:00Z, 2026-05-27T00:00:00Z): 142
+2026-10-23T00:23:45Z closed_without_merge_prs waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:23:47Z closed_without_merge_prs [2026-05-27T00:00:00Z, 2026-06-03T00:00:00Z) page 1; downloaded unique records=100/165
+2026-10-23T00:23:47Z closed_without_merge_prs waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:23:49Z closed_without_merge_prs [2026-05-27T00:00:00Z, 2026-06-03T00:00:00Z) page 2; downloaded unique records=165/165
+2026-10-23T00:23:49Z COMPLETED closed_without_merge_prs [2026-05-27T00:00:00Z, 2026-06-03T00:00:00Z): 165
+2026-10-23T00:23:49Z closed_without_merge_prs waiting 0.8s: request pacing / rate-limit headers
+2026-10-23T00:23:52Z closed_without_merge_prs [2026-06-03T00:00:00Z, 2026-06-10T00:00:00Z) page 1; downloaded unique records=100/159
+2026-10-23T00:23:53Z closed_without_merge_prs [2026-06-03T00:00:00Z, 2026-06-10T00:00:00Z) page 2; downloaded unique records=159/159
+2026-10-23T00:23:53Z COMPLETED closed_without_merge_prs [2026-06-03T00:00:00Z, 2026-06-10T00:00:00Z): 159
+2026-10-23T00:23:53Z closed_without_merge_prs waiting 0.6s: request pacing / rate-limit headers
+2026-10-23T00:23:56Z closed_without_merge_prs [2026-06-10T00:00:00Z, 2026-06-17T00:00:00Z) page 1; downloaded unique records=100/251
+2026-10-23T00:23:58Z closed_without_merge_prs [2026-06-10T00:00:00Z, 2026-06-17T00:00:00Z) page 2; downloaded unique records=200/251
+2026-10-23T00:23:58Z closed_without_merge_prs waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:23:59Z closed_without_merge_prs [2026-06-10T00:00:00Z, 2026-06-17T00:00:00Z) page 3; downloaded unique records=251/251
+2026-10-23T00:23:59Z COMPLETED closed_without_merge_prs [2026-06-10T00:00:00Z, 2026-06-17T00:00:00Z): 251
+2026-10-23T00:23:59Z closed_without_merge_prs waiting 0.8s: request pacing / rate-limit headers
+2026-10-23T00:24:02Z closed_without_merge_prs [2026-06-17T00:00:00Z, 2026-06-24T00:00:00Z) page 1; downloaded unique records=100/174
+2026-10-23T00:24:04Z closed_without_merge_prs [2026-06-17T00:00:00Z, 2026-06-24T00:00:00Z) page 2; downloaded unique records=174/174
+2026-10-23T00:24:04Z COMPLETED closed_without_merge_prs [2026-06-17T00:00:00Z, 2026-06-24T00:00:00Z): 174
+2026-10-23T00:24:04Z closed_without_merge_prs waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:24:07Z closed_without_merge_prs [2026-06-24T00:00:00Z, 2026-07-01T00:00:00Z) page 1; downloaded unique records=100/158
+2026-10-23T00:24:09Z closed_without_merge_prs [2026-06-24T00:00:00Z, 2026-07-01T00:00:00Z) page 2; downloaded unique records=158/158
+2026-10-23T00:24:09Z COMPLETED closed_without_merge_prs [2026-06-24T00:00:00Z, 2026-07-01T00:00:00Z): 158
+2026-10-23T00:24:09Z closed_without_merge_prs waiting 27.7s: request pacing / rate-limit headers
+2026-10-23T00:24:39Z closed_without_merge_prs [2026-07-01T00:00:00Z, 2026-07-08T00:00:00Z) page 1; downloaded unique records=100/142
+2026-10-23T00:24:40Z closed_without_merge_prs [2026-07-01T00:00:00Z, 2026-07-08T00:00:00Z) page 2; downloaded unique records=142/142
+2026-10-23T00:24:40Z COMPLETED closed_without_merge_prs [2026-07-01T00:00:00Z, 2026-07-08T00:00:00Z): 142
+2026-10-23T00:24:40Z closed_without_merge_prs waiting 0.7s: request pacing / rate-limit headers
+2026-10-23T00:24:43Z closed_without_merge_prs [2026-07-08T00:00:00Z, 2026-07-15T00:00:00Z) page 1; downloaded unique records=100/237
+2026-10-23T00:24:45Z closed_without_merge_prs [2026-07-08T00:00:00Z, 2026-07-15T00:00:00Z) page 2; downloaded unique records=200/237
+2026-10-23T00:24:46Z closed_without_merge_prs [2026-07-08T00:00:00Z, 2026-07-15T00:00:00Z) page 3; downloaded unique records=237/237
+2026-10-23T00:24:46Z COMPLETED closed_without_merge_prs [2026-07-08T00:00:00Z, 2026-07-15T00:00:00Z): 237
+2026-10-23T00:24:46Z closed_without_merge_prs waiting 1.1s: request pacing / rate-limit headers
+2026-10-23T00:24:48Z closed_without_merge_prs [2026-07-15T00:00:00Z, 2026-07-22T00:00:00Z) page 1; downloaded unique records=27/27
+2026-10-23T00:24:48Z COMPLETED closed_without_merge_prs [2026-07-15T00:00:00Z, 2026-07-22T00:00:00Z): 27
+2026-10-23T00:24:48Z closed_without_merge_prs waiting 1.0s: request pacing / rate-limit headers
+2026-10-23T00:24:51Z closed_without_merge_prs [2026-07-22T00:00:00Z, 2026-07-29T00:00:00Z) page 1; downloaded unique records=42/42
+2026-10-23T00:24:51Z COMPLETED closed_without_merge_prs [2026-07-22T00:00:00Z, 2026-07-29T00:00:00Z): 42
+2026-10-23T00:24:51Z closed_without_merge_prs waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:24:52Z closed_without_merge_prs [2026-07-29T00:00:00Z, 2026-08-05T00:00:00Z) page 1; downloaded unique records=6/6
+2026-10-23T00:24:52Z COMPLETED closed_without_merge_prs [2026-07-29T00:00:00Z, 2026-08-05T00:00:00Z): 6
+2026-10-23T00:24:52Z closed_without_merge_prs waiting 1.4s: request pacing / rate-limit headers
+2026-10-23T00:24:55Z closed_without_merge_prs [2026-08-05T00:00:00Z, 2026-08-12T00:00:00Z) page 1; downloaded unique records=5/5
+2026-10-23T00:24:55Z COMPLETED closed_without_merge_prs [2026-08-05T00:00:00Z, 2026-08-12T00:00:00Z): 5
+2026-10-23T00:24:55Z closed_without_merge_prs waiting 0.8s: request pacing / rate-limit headers
+2026-10-23T00:24:56Z closed_without_merge_prs [2026-08-12T00:00:00Z, 2026-08-19T00:00:00Z) page 1; downloaded unique records=16/16
+2026-10-23T00:24:56Z COMPLETED closed_without_merge_prs [2026-08-12T00:00:00Z, 2026-08-19T00:00:00Z): 16
+2026-10-23T00:24:56Z closed_without_merge_prs waiting 1.3s: request pacing / rate-limit headers
+2026-10-23T00:24:58Z closed_without_merge_prs [2026-08-19T00:00:00Z, 2026-08-26T00:00:00Z) page 1; downloaded unique records=9/9
+2026-10-23T00:24:58Z COMPLETED closed_without_merge_prs [2026-08-19T00:00:00Z, 2026-08-26T00:00:00Z): 9
+2026-10-23T00:24:58Z closed_without_merge_prs waiting 1.4s: request pacing / rate-limit headers
+2026-10-23T00:25:00Z closed_without_merge_prs [2026-08-26T00:00:00Z, 2026-09-02T00:00:00Z) page 1; downloaded unique records=0/0
+2026-10-23T00:25:00Z COMPLETED closed_without_merge_prs [2026-08-26T00:00:00Z, 2026-09-02T00:00:00Z): 0
+2026-10-23T00:25:00Z closed_without_merge_prs waiting 1.7s: request pacing / rate-limit headers
+2026-10-23T00:25:02Z closed_without_merge_prs [2026-09-02T00:00:00Z, 2026-09-09T00:00:00Z) page 1; downloaded unique records=0/0
+2026-10-23T00:25:02Z COMPLETED closed_without_merge_prs [2026-09-02T00:00:00Z, 2026-09-09T00:00:00Z): 0
+2026-10-23T00:25:02Z closed_without_merge_prs waiting 1.7s: request pacing / rate-limit headers
+2026-10-23T00:25:05Z closed_without_merge_prs [2026-09-09T00:00:00Z, 2026-09-16T00:00:00Z) page 1; downloaded unique records=1/1
+2026-10-23T00:25:05Z COMPLETED closed_without_merge_prs [2026-09-09T00:00:00Z, 2026-09-16T00:00:00Z): 1
+2026-10-23T00:25:05Z closed_without_merge_prs waiting 1.6s: request pacing / rate-limit headers
+2026-10-23T00:25:07Z closed_without_merge_prs [2026-09-16T00:00:00Z, 2026-09-23T00:00:00Z) page 1; downloaded unique records=0/0
+2026-10-23T00:25:07Z COMPLETED closed_without_merge_prs [2026-09-16T00:00:00Z, 2026-09-23T00:00:00Z): 0
+2026-10-23T00:25:07Z closed_without_merge_prs waiting 1.7s: request pacing / rate-limit headers
+2026-10-23T00:25:09Z closed_without_merge_prs [2026-09-23T00:00:00Z, 2026-09-30T00:00:00Z) page 1; downloaded unique records=6/6
+2026-10-23T00:25:09Z COMPLETED closed_without_merge_prs [2026-09-23T00:00:00Z, 2026-09-30T00:00:00Z): 6
+2026-10-23T00:25:09Z closed_without_merge_prs waiting 1.4s: request pacing / rate-limit headers
+2026-10-23T00:25:11Z closed_without_merge_prs [2026-09-30T00:00:00Z, 2026-10-07T00:00:00Z) page 1; downloaded unique records=1/1
+2026-10-23T00:25:11Z COMPLETED closed_without_merge_prs [2026-09-30T00:00:00Z, 2026-10-07T00:00:00Z): 1
+2026-10-23T00:25:11Z closed_without_merge_prs waiting 1.5s: request pacing / rate-limit headers
+2026-10-23T00:25:13Z closed_without_merge_prs [2026-10-07T00:00:00Z, 2026-10-14T00:00:00Z) page 1; downloaded unique records=0/0
+2026-10-23T00:25:13Z COMPLETED closed_without_merge_prs [2026-10-07T00:00:00Z, 2026-10-14T00:00:00Z): 0
+2026-10-23T00:25:13Z closed_without_merge_prs waiting 1.7s: request pacing / rate-limit headers
+2026-10-23T00:25:15Z closed_without_merge_prs [2026-10-14T00:00:00Z, 2026-10-21T00:00:00Z) page 1; downloaded unique records=2/2
+2026-10-23T00:25:15Z COMPLETED closed_without_merge_prs [2026-10-14T00:00:00Z, 2026-10-21T00:00:00Z): 2
+2026-10-23T00:25:15Z closed_issues waiting 1.6s: request pacing / rate-limit headers
+2026-10-23T00:25:19Z closed_issues [2025-10-22T00:00:00Z, 2025-10-29T00:00:00Z) page 1; downloaded unique records=100/198
+2026-10-23T00:25:19Z closed_issues waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:25:20Z closed_issues [2025-10-22T00:00:00Z, 2025-10-29T00:00:00Z) page 2; downloaded unique records=198/198
+2026-10-23T00:25:20Z COMPLETED closed_issues [2025-10-22T00:00:00Z, 2025-10-29T00:00:00Z): 198
+2026-10-23T00:25:20Z closed_issues waiting 0.7s: request pacing / rate-limit headers
+2026-10-23T00:25:23Z closed_issues [2025-10-29T00:00:00Z, 2025-11-05T00:00:00Z) page 1; downloaded unique records=100/113
+2026-10-23T00:25:23Z closed_issues waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:25:24Z closed_issues [2025-10-29T00:00:00Z, 2025-11-05T00:00:00Z) page 2; downloaded unique records=113/113
+2026-10-23T00:25:24Z COMPLETED closed_issues [2025-10-29T00:00:00Z, 2025-11-05T00:00:00Z): 113
+2026-10-23T00:25:24Z closed_issues waiting 14.9s: request pacing / rate-limit headers
+2026-10-23T00:25:40Z closed_issues [2025-11-05T00:00:00Z, 2025-11-12T00:00:00Z) page 1; downloaded unique records=100/252
+2026-10-23T00:25:40Z closed_issues waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:25:43Z closed_issues [2025-11-05T00:00:00Z, 2025-11-12T00:00:00Z) page 2; downloaded unique records=200/252
+2026-10-23T00:25:45Z closed_issues [2025-11-05T00:00:00Z, 2025-11-12T00:00:00Z) page 3; downloaded unique records=252/252
+2026-10-23T00:25:45Z COMPLETED closed_issues [2025-11-05T00:00:00Z, 2025-11-12T00:00:00Z): 252
+2026-10-23T00:25:45Z closed_issues waiting 0.0s: request pacing / rate-limit headers
+2026-10-23T00:25:48Z closed_issues [2025-11-12T00:00:00Z, 2025-11-19T00:00:00Z) page 1; downloaded unique records=100/226
+2026-10-23T00:25:50Z closed_issues [2025-11-12T00:00:00Z, 2025-11-19T00:00:00Z) page 2; downloaded unique records=200/226
+2026-10-23T00:25:50Z closed_issues waiting 0.5s: request pacing / rate-limit headers
+2026-10-23T00:25:51Z closed_issues [2025-11-12T00:00:00Z, 2025-11-19T00:00:00Z) page 3; downloaded unique records=226/226
+2026-10-23T00:25:51Z COMPLETED closed_issues [2025-11-12T00:00:00Z, 2025-11-19T00:00:00Z): 226
+2026-10-23T00:25:51Z closed_issues waiting 1.1s: request pacing / rate-limit headers
+2026-10-23T00:25:54Z closed_issues [2025-11-19T00:00:00Z, 2025-11-26T00:00:00Z) page 1; downloaded unique records=100/228
+2026-10-23T00:25:54Z closed_issues waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:25:56Z closed_issues [2025-11-19T00:00:00Z, 2025-11-26T00:00:00Z) page 2; downloaded unique records=200/228
+2026-10-23T00:25:57Z closed_issues [2025-11-19T00:00:00Z, 2025-11-26T00:00:00Z) page 3; downloaded unique records=228/228
+2026-10-23T00:25:57Z COMPLETED closed_issues [2025-11-19T00:00:00Z, 2025-11-26T00:00:00Z): 228
+2026-10-23T00:25:57Z closed_issues waiting 1.0s: request pacing / rate-limit headers
+2026-10-23T00:26:01Z closed_issues [2025-11-26T00:00:00Z, 2025-12-03T00:00:00Z) page 1; downloaded unique records=100/236
+2026-10-23T00:26:02Z closed_issues [2025-11-26T00:00:00Z, 2025-12-03T00:00:00Z) page 2; downloaded unique records=200/236
+2026-10-23T00:26:02Z closed_issues waiting 0.5s: request pacing / rate-limit headers
+2026-10-23T00:26:04Z closed_issues [2025-11-26T00:00:00Z, 2025-12-03T00:00:00Z) page 3; downloaded unique records=236/236
+2026-10-23T00:26:04Z COMPLETED closed_issues [2025-11-26T00:00:00Z, 2025-12-03T00:00:00Z): 236
+2026-10-23T00:26:04Z closed_issues waiting 0.9s: request pacing / rate-limit headers
+2026-10-23T00:26:07Z closed_issues [2025-12-03T00:00:00Z, 2025-12-10T00:00:00Z) page 1; downloaded unique records=94/94
+2026-10-23T00:26:07Z COMPLETED closed_issues [2025-12-03T00:00:00Z, 2025-12-10T00:00:00Z): 94
+2026-10-23T00:26:07Z closed_issues waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:26:09Z closed_issues [2025-12-10T00:00:00Z, 2025-12-17T00:00:00Z) page 1; downloaded unique records=100/155
+2026-10-23T00:26:09Z closed_issues waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:26:10Z closed_issues [2025-12-10T00:00:00Z, 2025-12-17T00:00:00Z) page 2; downloaded unique records=155/155
+2026-10-23T00:26:10Z COMPLETED closed_issues [2025-12-10T00:00:00Z, 2025-12-17T00:00:00Z): 155
+2026-10-23T00:26:10Z closed_issues waiting 0.7s: request pacing / rate-limit headers
+2026-10-23T00:26:14Z closed_issues [2025-12-17T00:00:00Z, 2025-12-24T00:00:00Z) page 1; downloaded unique records=100/155
+2026-10-23T00:26:15Z closed_issues [2025-12-17T00:00:00Z, 2025-12-24T00:00:00Z) page 2; downloaded unique records=155/155
+2026-10-23T00:26:15Z COMPLETED closed_issues [2025-12-17T00:00:00Z, 2025-12-24T00:00:00Z): 155
+2026-10-23T00:26:15Z closed_issues waiting 0.9s: request pacing / rate-limit headers
+2026-10-23T00:26:17Z closed_issues [2025-12-24T00:00:00Z, 2025-12-31T00:00:00Z) page 1; downloaded unique records=43/43
+2026-10-23T00:26:17Z COMPLETED closed_issues [2025-12-24T00:00:00Z, 2025-12-31T00:00:00Z): 43
+2026-10-23T00:26:17Z closed_issues waiting 0.6s: request pacing / rate-limit headers
+2026-10-23T00:26:19Z closed_issues [2025-12-31T00:00:00Z, 2026-01-07T00:00:00Z) page 1; downloaded unique records=70/70
+2026-10-23T00:26:19Z COMPLETED closed_issues [2025-12-31T00:00:00Z, 2026-01-07T00:00:00Z): 70
+2026-10-23T00:26:19Z closed_issues waiting 0.6s: request pacing / rate-limit headers
+2026-10-23T00:26:22Z closed_issues [2026-01-07T00:00:00Z, 2026-01-14T00:00:00Z) page 1; downloaded unique records=100/211
+2026-10-23T00:26:22Z closed_issues waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:26:24Z closed_issues [2026-01-07T00:00:00Z, 2026-01-14T00:00:00Z) page 2; downloaded unique records=200/211
+2026-10-23T00:26:24Z closed_issues waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:26:25Z closed_issues [2026-01-07T00:00:00Z, 2026-01-14T00:00:00Z) page 3; downloaded unique records=211/211
+2026-10-23T00:26:25Z COMPLETED closed_issues [2026-01-07T00:00:00Z, 2026-01-14T00:00:00Z): 211
+2026-10-23T00:26:25Z closed_issues waiting 1.4s: request pacing / rate-limit headers
+2026-10-23T00:26:28Z closed_issues [2026-01-14T00:00:00Z, 2026-01-21T00:00:00Z) page 1; downloaded unique records=100/217
+2026-10-23T00:26:28Z closed_issues waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:26:30Z closed_issues [2026-01-14T00:00:00Z, 2026-01-21T00:00:00Z) page 2; downloaded unique records=200/217
+2026-10-23T00:26:30Z closed_issues waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:26:31Z closed_issues [2026-01-14T00:00:00Z, 2026-01-21T00:00:00Z) page 3; downloaded unique records=217/217
+2026-10-23T00:26:31Z COMPLETED closed_issues [2026-01-14T00:00:00Z, 2026-01-21T00:00:00Z): 217
+2026-10-23T00:26:31Z closed_issues waiting 1.2s: request pacing / rate-limit headers
+2026-10-23T00:26:35Z closed_issues [2026-01-21T00:00:00Z, 2026-01-28T00:00:00Z) page 1; downloaded unique records=100/148
+2026-10-23T00:26:35Z closed_issues waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:26:35Z closed_issues waiting 61.2s: HTTP 403 rate limit; retry 1/8
+2026-10-23T00:27:36Z closed_issues waiting 120.3s: HTTP 403 rate limit; retry 2/8
+2026-10-23T00:29:37Z closed_issues waiting 240.8s: HTTP 403 rate limit; retry 3/8
+2026-10-23T00:33:38Z closed_issues waiting 481.3s: HTTP 403 rate limit; retry 4/8
+2026-10-23T00:41:41Z closed_issues [2026-01-21T00:00:00Z, 2026-01-28T00:00:00Z) page 2; downloaded unique records=148/148
+2026-10-23T00:41:41Z COMPLETED closed_issues [2026-01-21T00:00:00Z, 2026-01-28T00:00:00Z): 148
+2026-10-23T00:41:41Z closed_issues waiting 1.0s: request pacing / rate-limit headers
+2026-10-23T00:41:43Z closed_issues [2026-01-28T00:00:00Z, 2026-02-04T00:00:00Z) page 1; downloaded unique records=100/192
+2026-10-23T00:41:43Z closed_issues waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:41:45Z closed_issues [2026-01-28T00:00:00Z, 2026-02-04T00:00:00Z) page 2; downloaded unique records=192/192
+2026-10-23T00:41:45Z COMPLETED closed_issues [2026-01-28T00:00:00Z, 2026-02-04T00:00:00Z): 192
+2026-10-23T00:41:45Z closed_issues waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:41:48Z closed_issues [2026-02-04T00:00:00Z, 2026-02-11T00:00:00Z) page 1; downloaded unique records=100/210
+2026-10-23T00:41:50Z closed_issues [2026-02-04T00:00:00Z, 2026-02-11T00:00:00Z) page 2; downloaded unique records=200/210
+2026-10-23T00:41:50Z closed_issues waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:41:51Z closed_issues [2026-02-04T00:00:00Z, 2026-02-11T00:00:00Z) page 3; downloaded unique records=210/210
+2026-10-23T00:41:51Z COMPLETED closed_issues [2026-02-04T00:00:00Z, 2026-02-11T00:00:00Z): 210
+2026-10-23T00:41:51Z closed_issues waiting 1.3s: request pacing / rate-limit headers
+2026-10-23T00:41:54Z closed_issues [2026-02-11T00:00:00Z, 2026-02-18T00:00:00Z) page 1; downloaded unique records=100/202
+2026-10-23T00:41:54Z closed_issues waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:41:57Z closed_issues [2026-02-11T00:00:00Z, 2026-02-18T00:00:00Z) page 2; downloaded unique records=200/202
+2026-10-23T00:41:57Z closed_issues waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:41:57Z closed_issues [2026-02-11T00:00:00Z, 2026-02-18T00:00:00Z) page 3; downloaded unique records=202/202
+2026-10-23T00:41:57Z COMPLETED closed_issues [2026-02-11T00:00:00Z, 2026-02-18T00:00:00Z): 202
+2026-10-23T00:41:57Z closed_issues waiting 1.6s: request pacing / rate-limit headers
+2026-10-23T00:42:00Z closed_issues [2026-02-18T00:00:00Z, 2026-02-25T00:00:00Z) page 1; downloaded unique records=100/278
+2026-10-23T00:42:00Z closed_issues waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:42:03Z closed_issues [2026-02-18T00:00:00Z, 2026-02-25T00:00:00Z) page 2; downloaded unique records=200/278
+2026-10-23T00:42:03Z closed_issues waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:42:05Z closed_issues [2026-02-18T00:00:00Z, 2026-02-25T00:00:00Z) page 3; downloaded unique records=278/278
+2026-10-23T00:42:05Z COMPLETED closed_issues [2026-02-18T00:00:00Z, 2026-02-25T00:00:00Z): 278
+2026-10-23T00:42:05Z closed_issues waiting 0.5s: request pacing / rate-limit headers
+2026-10-23T00:42:07Z closed_issues [2026-02-25T00:00:00Z, 2026-03-04T00:00:00Z) page 1; downloaded unique records=100/222
+2026-10-23T00:42:07Z closed_issues waiting 0.5s: request pacing / rate-limit headers
+2026-10-23T00:42:09Z closed_issues [2026-02-25T00:00:00Z, 2026-03-04T00:00:00Z) page 2; downloaded unique records=200/222
+2026-10-23T00:42:09Z closed_issues waiting 0.6s: request pacing / rate-limit headers
+2026-10-23T00:42:10Z closed_issues [2026-02-25T00:00:00Z, 2026-03-04T00:00:00Z) page 3; downloaded unique records=222/222
+2026-10-23T00:42:10Z COMPLETED closed_issues [2026-02-25T00:00:00Z, 2026-03-04T00:00:00Z): 222
+2026-10-23T00:42:10Z closed_issues waiting 1.3s: request pacing / rate-limit headers
+2026-10-23T00:42:13Z closed_issues [2026-03-04T00:00:00Z, 2026-03-11T00:00:00Z) page 1; downloaded unique records=100/198
+2026-10-23T00:42:13Z closed_issues waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:42:15Z closed_issues [2026-03-04T00:00:00Z, 2026-03-11T00:00:00Z) page 2; downloaded unique records=198/198
+2026-10-23T00:42:15Z COMPLETED closed_issues [2026-03-04T00:00:00Z, 2026-03-11T00:00:00Z): 198
+2026-10-23T00:42:15Z closed_issues waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:42:17Z closed_issues [2026-03-11T00:00:00Z, 2026-03-18T00:00:00Z) page 1; downloaded unique records=100/176
+2026-10-23T00:42:17Z closed_issues waiting 0.5s: request pacing / rate-limit headers
+2026-10-23T00:42:19Z closed_issues [2026-03-11T00:00:00Z, 2026-03-18T00:00:00Z) page 2; downloaded unique records=176/176
+2026-10-23T00:42:19Z COMPLETED closed_issues [2026-03-11T00:00:00Z, 2026-03-18T00:00:00Z): 176
+2026-10-23T00:42:19Z closed_issues waiting 0.8s: request pacing / rate-limit headers
+2026-10-23T00:42:22Z closed_issues [2026-03-18T00:00:00Z, 2026-03-25T00:00:00Z) page 1; downloaded unique records=100/214
+2026-10-23T00:42:23Z closed_issues [2026-03-18T00:00:00Z, 2026-03-25T00:00:00Z) page 2; downloaded unique records=200/214
+2026-10-23T00:42:23Z closed_issues waiting 0.6s: request pacing / rate-limit headers
+2026-10-23T00:42:25Z closed_issues [2026-03-18T00:00:00Z, 2026-03-25T00:00:00Z) page 3; downloaded unique records=214/214
+2026-10-23T00:42:25Z COMPLETED closed_issues [2026-03-18T00:00:00Z, 2026-03-25T00:00:00Z): 214
+2026-10-23T00:42:25Z closed_issues waiting 1.5s: request pacing / rate-limit headers
+2026-10-23T00:42:28Z closed_issues [2026-03-25T00:00:00Z, 2026-04-01T00:00:00Z) page 1; downloaded unique records=100/374
+2026-10-23T00:42:28Z closed_issues waiting 0.5s: request pacing / rate-limit headers
+2026-10-23T00:42:30Z closed_issues [2026-03-25T00:00:00Z, 2026-04-01T00:00:00Z) page 2; downloaded unique records=200/374
+2026-10-23T00:42:30Z closed_issues waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:42:32Z closed_issues [2026-03-25T00:00:00Z, 2026-04-01T00:00:00Z) page 3; downloaded unique records=300/374
+2026-10-23T00:42:32Z closed_issues waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:42:34Z closed_issues [2026-03-25T00:00:00Z, 2026-04-01T00:00:00Z) page 4; downloaded unique records=374/374
+2026-10-23T00:42:34Z COMPLETED closed_issues [2026-03-25T00:00:00Z, 2026-04-01T00:00:00Z): 374
+2026-10-23T00:42:34Z closed_issues waiting 0.6s: request pacing / rate-limit headers
+2026-10-23T00:42:36Z closed_issues [2026-04-01T00:00:00Z, 2026-04-08T00:00:00Z) page 1; downloaded unique records=100/283
+2026-10-23T00:42:36Z closed_issues waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:42:38Z closed_issues [2026-04-01T00:00:00Z, 2026-04-08T00:00:00Z) page 2; downloaded unique records=200/283
+2026-10-23T00:42:38Z closed_issues waiting 3.2s: request pacing / rate-limit headers
+2026-10-23T00:42:43Z closed_issues [2026-04-01T00:00:00Z, 2026-04-08T00:00:00Z) page 3; downloaded unique records=283/283
+2026-10-23T00:42:43Z COMPLETED closed_issues [2026-04-01T00:00:00Z, 2026-04-08T00:00:00Z): 283
+2026-10-23T00:42:43Z closed_issues waiting 0.6s: request pacing / rate-limit headers
+2026-10-23T00:42:46Z closed_issues [2026-04-08T00:00:00Z, 2026-04-15T00:00:00Z) page 1; downloaded unique records=100/245
+2026-10-23T00:42:46Z closed_issues waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:42:48Z closed_issues [2026-04-08T00:00:00Z, 2026-04-15T00:00:00Z) page 2; downloaded unique records=200/245
+2026-10-23T00:42:48Z closed_issues waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:42:49Z closed_issues [2026-04-08T00:00:00Z, 2026-04-15T00:00:00Z) page 3; downloaded unique records=245/245
+2026-10-23T00:42:49Z COMPLETED closed_issues [2026-04-08T00:00:00Z, 2026-04-15T00:00:00Z): 245
+2026-10-23T00:42:49Z closed_issues waiting 1.1s: request pacing / rate-limit headers
+2026-10-23T00:42:52Z closed_issues [2026-04-15T00:00:00Z, 2026-04-22T00:00:00Z) page 1; downloaded unique records=100/288
+2026-10-23T00:42:52Z closed_issues waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:42:54Z closed_issues [2026-04-15T00:00:00Z, 2026-04-22T00:00:00Z) page 2; downloaded unique records=200/288
+2026-10-23T00:42:54Z closed_issues waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:42:56Z closed_issues [2026-04-15T00:00:00Z, 2026-04-22T00:00:00Z) page 3; downloaded unique records=288/288
+2026-10-23T00:42:56Z COMPLETED closed_issues [2026-04-15T00:00:00Z, 2026-04-22T00:00:00Z): 288
+2026-10-23T00:42:56Z closed_issues waiting 0.5s: request pacing / rate-limit headers
+2026-10-23T00:42:58Z closed_issues [2026-04-22T00:00:00Z, 2026-04-29T00:00:00Z) page 1; downloaded unique records=100/312
+2026-10-23T00:42:58Z closed_issues waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:43:00Z closed_issues [2026-04-22T00:00:00Z, 2026-04-29T00:00:00Z) page 2; downloaded unique records=200/312
+2026-10-23T00:43:00Z closed_issues waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:43:02Z closed_issues [2026-04-22T00:00:00Z, 2026-04-29T00:00:00Z) page 3; downloaded unique records=300/312
+2026-10-23T00:43:02Z closed_issues waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:43:03Z closed_issues [2026-04-22T00:00:00Z, 2026-04-29T00:00:00Z) page 4; downloaded unique records=312/312
+2026-10-23T00:43:03Z COMPLETED closed_issues [2026-04-22T00:00:00Z, 2026-04-29T00:00:00Z): 312
+2026-10-23T00:43:03Z closed_issues waiting 1.5s: request pacing / rate-limit headers
+2026-10-23T00:43:06Z closed_issues [2026-04-29T00:00:00Z, 2026-05-06T00:00:00Z) page 1; downloaded unique records=100/293
+2026-10-23T00:43:06Z closed_issues waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:43:09Z closed_issues [2026-04-29T00:00:00Z, 2026-05-06T00:00:00Z) page 2; downloaded unique records=200/293
+2026-10-23T00:43:09Z closed_issues waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:43:11Z closed_issues [2026-04-29T00:00:00Z, 2026-05-06T00:00:00Z) page 3; downloaded unique records=293/293
+2026-10-23T00:43:11Z COMPLETED closed_issues [2026-04-29T00:00:00Z, 2026-05-06T00:00:00Z): 293
+2026-10-23T00:43:11Z closed_issues waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:43:13Z closed_issues [2026-05-06T00:00:00Z, 2026-05-13T00:00:00Z) page 1; downloaded unique records=100/308
+2026-10-23T00:43:13Z closed_issues waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:43:15Z closed_issues [2026-05-06T00:00:00Z, 2026-05-13T00:00:00Z) page 2; downloaded unique records=200/308
+2026-10-23T00:43:15Z closed_issues waiting 0.5s: request pacing / rate-limit headers
+2026-10-23T00:43:17Z closed_issues [2026-05-06T00:00:00Z, 2026-05-13T00:00:00Z) page 3; downloaded unique records=300/308
+2026-10-23T00:43:17Z closed_issues waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:43:18Z closed_issues [2026-05-06T00:00:00Z, 2026-05-13T00:00:00Z) page 4; downloaded unique records=308/308
+2026-10-23T00:43:18Z COMPLETED closed_issues [2026-05-06T00:00:00Z, 2026-05-13T00:00:00Z): 308
+2026-10-23T00:43:18Z closed_issues waiting 1.6s: request pacing / rate-limit headers
+2026-10-23T00:43:21Z closed_issues [2026-05-13T00:00:00Z, 2026-05-20T00:00:00Z) page 1; downloaded unique records=100/301
+2026-10-23T00:43:21Z closed_issues waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:43:23Z closed_issues [2026-05-13T00:00:00Z, 2026-05-20T00:00:00Z) page 2; downloaded unique records=200/301
+2026-10-23T00:43:23Z closed_issues waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:43:26Z closed_issues [2026-05-13T00:00:00Z, 2026-05-20T00:00:00Z) page 3; downloaded unique records=300/301
+2026-10-23T00:43:26Z closed_issues waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:43:26Z closed_issues [2026-05-13T00:00:00Z, 2026-05-20T00:00:00Z) page 4; downloaded unique records=301/301
+2026-10-23T00:43:26Z COMPLETED closed_issues [2026-05-13T00:00:00Z, 2026-05-20T00:00:00Z): 301
+2026-10-23T00:43:26Z closed_issues waiting 1.5s: request pacing / rate-limit headers
+2026-10-23T00:43:30Z closed_issues [2026-05-20T00:00:00Z, 2026-05-27T00:00:00Z) page 1; downloaded unique records=100/173
+2026-10-23T00:43:30Z closed_issues waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:43:31Z closed_issues [2026-05-20T00:00:00Z, 2026-05-27T00:00:00Z) page 2; downloaded unique records=173/173
+2026-10-23T00:43:31Z COMPLETED closed_issues [2026-05-20T00:00:00Z, 2026-05-27T00:00:00Z): 173
+2026-10-23T00:43:31Z closed_issues waiting 0.7s: request pacing / rate-limit headers
+2026-10-23T00:43:34Z closed_issues [2026-05-27T00:00:00Z, 2026-06-03T00:00:00Z) page 1; downloaded unique records=100/284
+2026-10-23T00:43:34Z closed_issues waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:43:36Z closed_issues [2026-05-27T00:00:00Z, 2026-06-03T00:00:00Z) page 2; downloaded unique records=200/284
+2026-10-23T00:43:36Z closed_issues waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:43:38Z closed_issues [2026-05-27T00:00:00Z, 2026-06-03T00:00:00Z) page 3; downloaded unique records=284/284
+2026-10-23T00:43:38Z COMPLETED closed_issues [2026-05-27T00:00:00Z, 2026-06-03T00:00:00Z): 284
+2026-10-23T00:43:38Z closed_issues waiting 0.6s: request pacing / rate-limit headers
+2026-10-23T00:43:40Z closed_issues [2026-06-03T00:00:00Z, 2026-06-10T00:00:00Z) page 1; downloaded unique records=100/196
+2026-10-23T00:43:40Z closed_issues waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:43:42Z closed_issues [2026-06-03T00:00:00Z, 2026-06-10T00:00:00Z) page 2; downloaded unique records=196/196
+2026-10-23T00:43:42Z COMPLETED closed_issues [2026-06-03T00:00:00Z, 2026-06-10T00:00:00Z): 196
+2026-10-23T00:43:42Z closed_issues waiting 1.5s: request pacing / rate-limit headers
+2026-10-23T00:43:45Z closed_issues [2026-06-10T00:00:00Z, 2026-06-17T00:00:00Z) page 1; downloaded unique records=100/224
+2026-10-23T00:43:45Z closed_issues waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:43:48Z closed_issues [2026-06-10T00:00:00Z, 2026-06-17T00:00:00Z) page 2; downloaded unique records=200/224
+2026-10-23T00:43:49Z closed_issues [2026-06-10T00:00:00Z, 2026-06-17T00:00:00Z) page 3; downloaded unique records=224/224
+2026-10-23T00:43:49Z COMPLETED closed_issues [2026-06-10T00:00:00Z, 2026-06-17T00:00:00Z): 224
+2026-10-23T00:43:49Z closed_issues waiting 1.3s: request pacing / rate-limit headers
+2026-10-23T00:43:52Z closed_issues [2026-06-17T00:00:00Z, 2026-06-24T00:00:00Z) page 1; downloaded unique records=100/137
+2026-10-23T00:43:52Z closed_issues waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:43:53Z closed_issues [2026-06-17T00:00:00Z, 2026-06-24T00:00:00Z) page 2; downloaded unique records=137/137
+2026-10-23T00:43:53Z COMPLETED closed_issues [2026-06-17T00:00:00Z, 2026-06-24T00:00:00Z): 137
+2026-10-23T00:43:53Z closed_issues waiting 1.1s: request pacing / rate-limit headers
+2026-10-23T00:43:56Z closed_issues [2026-06-24T00:00:00Z, 2026-07-01T00:00:00Z) page 1; downloaded unique records=100/221
+2026-10-23T00:43:56Z closed_issues waiting 0.0s: request pacing / rate-limit headers
+2026-10-23T00:43:58Z closed_issues [2026-06-24T00:00:00Z, 2026-07-01T00:00:00Z) page 2; downloaded unique records=200/221
+2026-10-23T00:43:58Z closed_issues waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:43:59Z closed_issues [2026-06-24T00:00:00Z, 2026-07-01T00:00:00Z) page 3; downloaded unique records=221/221
+2026-10-23T00:43:59Z COMPLETED closed_issues [2026-06-24T00:00:00Z, 2026-07-01T00:00:00Z): 221
+2026-10-23T00:43:59Z closed_issues waiting 1.4s: request pacing / rate-limit headers
+2026-10-23T00:44:02Z closed_issues [2026-07-01T00:00:00Z, 2026-07-08T00:00:00Z) page 1; downloaded unique records=100/199
+2026-10-23T00:44:02Z closed_issues waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:44:04Z closed_issues [2026-07-01T00:00:00Z, 2026-07-08T00:00:00Z) page 2; downloaded unique records=199/199
+2026-10-23T00:44:04Z COMPLETED closed_issues [2026-07-01T00:00:00Z, 2026-07-08T00:00:00Z): 199
+2026-10-23T00:44:04Z closed_issues waiting 0.5s: request pacing / rate-limit headers
+2026-10-23T00:44:07Z closed_issues [2026-07-08T00:00:00Z, 2026-07-15T00:00:00Z) page 1; downloaded unique records=100/201
+2026-10-23T00:44:07Z closed_issues waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:44:09Z closed_issues [2026-07-08T00:00:00Z, 2026-07-15T00:00:00Z) page 2; downloaded unique records=200/201
+2026-10-23T00:44:09Z closed_issues [2026-07-08T00:00:00Z, 2026-07-15T00:00:00Z) page 3; downloaded unique records=201/201
+2026-10-23T00:44:09Z COMPLETED closed_issues [2026-07-08T00:00:00Z, 2026-07-15T00:00:00Z): 201
+2026-10-23T00:44:10Z closed_issues waiting 1.5s: request pacing / rate-limit headers
+2026-10-23T00:44:13Z closed_issues [2026-07-15T00:00:00Z, 2026-07-22T00:00:00Z) page 1; downloaded unique records=100/195
+2026-10-23T00:44:13Z closed_issues waiting 0.0s: request pacing / rate-limit headers
+2026-10-23T00:44:15Z closed_issues [2026-07-15T00:00:00Z, 2026-07-22T00:00:00Z) page 2; downloaded unique records=195/195
+2026-10-23T00:44:15Z COMPLETED closed_issues [2026-07-15T00:00:00Z, 2026-07-22T00:00:00Z): 195
+2026-10-23T00:44:15Z closed_issues waiting 0.0s: request pacing / rate-limit headers
+2026-10-23T00:44:17Z closed_issues [2026-07-22T00:00:00Z, 2026-07-29T00:00:00Z) page 1; downloaded unique records=100/144
+2026-10-23T00:44:17Z closed_issues waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:44:19Z closed_issues [2026-07-22T00:00:00Z, 2026-07-29T00:00:00Z) page 2; downloaded unique records=144/144
+2026-10-23T00:44:19Z COMPLETED closed_issues [2026-07-22T00:00:00Z, 2026-07-29T00:00:00Z): 144
+2026-10-23T00:44:19Z closed_issues waiting 0.8s: request pacing / rate-limit headers
+2026-10-23T00:44:21Z closed_issues [2026-07-29T00:00:00Z, 2026-08-05T00:00:00Z) page 1; downloaded unique records=100/226
+2026-10-23T00:44:21Z closed_issues waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:44:23Z closed_issues [2026-07-29T00:00:00Z, 2026-08-05T00:00:00Z) page 2; downloaded unique records=200/226
+2026-10-23T00:44:23Z closed_issues waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:44:24Z closed_issues [2026-07-29T00:00:00Z, 2026-08-05T00:00:00Z) page 3; downloaded unique records=226/226
+2026-10-23T00:44:24Z COMPLETED closed_issues [2026-07-29T00:00:00Z, 2026-08-05T00:00:00Z): 226
+2026-10-23T00:44:24Z closed_issues waiting 1.3s: request pacing / rate-limit headers
+2026-10-23T00:44:28Z closed_issues [2026-08-05T00:00:00Z, 2026-08-12T00:00:00Z) page 1; downloaded unique records=100/403
+2026-10-23T00:44:28Z closed_issues waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:44:30Z closed_issues [2026-08-05T00:00:00Z, 2026-08-12T00:00:00Z) page 2; downloaded unique records=200/403
+2026-10-23T00:44:30Z closed_issues waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:44:32Z closed_issues [2026-08-05T00:00:00Z, 2026-08-12T00:00:00Z) page 3; downloaded unique records=300/403
+2026-10-23T00:44:32Z closed_issues waiting 0.5s: request pacing / rate-limit headers
+2026-10-23T00:44:34Z closed_issues [2026-08-05T00:00:00Z, 2026-08-12T00:00:00Z) page 4; downloaded unique records=400/403
+2026-10-23T00:44:34Z closed_issues waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:44:35Z closed_issues [2026-08-05T00:00:00Z, 2026-08-12T00:00:00Z) page 5; downloaded unique records=403/403
+2026-10-23T00:44:35Z COMPLETED closed_issues [2026-08-05T00:00:00Z, 2026-08-12T00:00:00Z): 403
+2026-10-23T00:44:35Z closed_issues waiting 1.6s: request pacing / rate-limit headers
+2026-10-23T00:44:38Z closed_issues [2026-08-12T00:00:00Z, 2026-08-19T00:00:00Z) page 1; downloaded unique records=100/112
+2026-10-23T00:44:38Z closed_issues waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:44:39Z closed_issues [2026-08-12T00:00:00Z, 2026-08-19T00:00:00Z) page 2; downloaded unique records=112/112
+2026-10-23T00:44:39Z COMPLETED closed_issues [2026-08-12T00:00:00Z, 2026-08-19T00:00:00Z): 112
+2026-10-23T00:44:39Z closed_issues waiting 1.2s: request pacing / rate-limit headers
+2026-10-23T00:44:43Z closed_issues [2026-08-19T00:00:00Z, 2026-08-26T00:00:00Z) page 1; downloaded unique records=100/145
+2026-10-23T00:44:44Z closed_issues [2026-08-19T00:00:00Z, 2026-08-26T00:00:00Z) page 2; downloaded unique records=145/145
+2026-10-23T00:44:44Z COMPLETED closed_issues [2026-08-19T00:00:00Z, 2026-08-26T00:00:00Z): 145
+2026-10-23T00:44:44Z closed_issues waiting 1.0s: request pacing / rate-limit headers
+2026-10-23T00:44:47Z closed_issues [2026-08-26T00:00:00Z, 2026-09-02T00:00:00Z) page 1; downloaded unique records=100/132
+2026-10-23T00:44:47Z closed_issues waiting 0.0s: request pacing / rate-limit headers
+2026-10-23T00:44:48Z closed_issues [2026-08-26T00:00:00Z, 2026-09-02T00:00:00Z) page 2; downloaded unique records=132/132
+2026-10-23T00:44:48Z COMPLETED closed_issues [2026-08-26T00:00:00Z, 2026-09-02T00:00:00Z): 132
+2026-10-23T00:44:48Z closed_issues waiting 1.3s: request pacing / rate-limit headers
+2026-10-23T00:44:51Z closed_issues [2026-09-02T00:00:00Z, 2026-09-09T00:00:00Z) page 1; downloaded unique records=100/142
+2026-10-23T00:44:51Z closed_issues waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:44:52Z closed_issues [2026-09-02T00:00:00Z, 2026-09-09T00:00:00Z) page 2; downloaded unique records=142/142
+2026-10-23T00:44:52Z COMPLETED closed_issues [2026-09-02T00:00:00Z, 2026-09-09T00:00:00Z): 142
+2026-10-23T00:44:52Z closed_issues waiting 0.9s: request pacing / rate-limit headers
+2026-10-23T00:44:55Z closed_issues [2026-09-09T00:00:00Z, 2026-09-16T00:00:00Z) page 1; downloaded unique records=100/233
+2026-10-23T00:44:55Z closed_issues waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:44:57Z closed_issues [2026-09-09T00:00:00Z, 2026-09-16T00:00:00Z) page 2; downloaded unique records=200/233
+2026-10-23T00:44:57Z closed_issues waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:44:58Z closed_issues [2026-09-09T00:00:00Z, 2026-09-16T00:00:00Z) page 3; downloaded unique records=233/233
+2026-10-23T00:44:58Z COMPLETED closed_issues [2026-09-09T00:00:00Z, 2026-09-16T00:00:00Z): 233
+2026-10-23T00:44:58Z closed_issues waiting 1.1s: request pacing / rate-limit headers
+2026-10-23T00:45:02Z closed_issues [2026-09-16T00:00:00Z, 2026-09-23T00:00:00Z) page 1; downloaded unique records=100/134
+2026-10-23T00:45:03Z closed_issues [2026-09-16T00:00:00Z, 2026-09-23T00:00:00Z) page 2; downloaded unique records=134/134
+2026-10-23T00:45:03Z COMPLETED closed_issues [2026-09-16T00:00:00Z, 2026-09-23T00:00:00Z): 134
+2026-10-23T00:45:03Z closed_issues waiting 1.1s: request pacing / rate-limit headers
+2026-10-23T00:45:06Z closed_issues [2026-09-23T00:00:00Z, 2026-09-30T00:00:00Z) page 1; downloaded unique records=100/314
+2026-10-23T00:45:06Z closed_issues waiting 0.0s: request pacing / rate-limit headers
+2026-10-23T00:45:08Z closed_issues [2026-09-23T00:00:00Z, 2026-09-30T00:00:00Z) page 2; downloaded unique records=200/314
+2026-10-23T00:45:10Z closed_issues [2026-09-23T00:00:00Z, 2026-09-30T00:00:00Z) page 3; downloaded unique records=300/314
+2026-10-23T00:45:10Z closed_issues waiting 0.4s: request pacing / rate-limit headers
+2026-10-23T00:45:11Z closed_issues [2026-09-23T00:00:00Z, 2026-09-30T00:00:00Z) page 4; downloaded unique records=314/314
+2026-10-23T00:45:11Z COMPLETED closed_issues [2026-09-23T00:00:00Z, 2026-09-30T00:00:00Z): 314
+2026-10-23T00:45:11Z closed_issues waiting 1.5s: request pacing / rate-limit headers
+2026-10-23T00:45:14Z closed_issues [2026-09-30T00:00:00Z, 2026-10-07T00:00:00Z) page 1; downloaded unique records=100/330
+2026-10-23T00:45:14Z closed_issues waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:45:16Z closed_issues [2026-09-30T00:00:00Z, 2026-10-07T00:00:00Z) page 2; downloaded unique records=200/330
+2026-10-23T00:45:16Z closed_issues waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:45:19Z closed_issues [2026-09-30T00:00:00Z, 2026-10-07T00:00:00Z) page 3; downloaded unique records=300/330
+2026-10-23T00:45:19Z closed_issues waiting 28.0s: request pacing / rate-limit headers
+2026-10-23T00:45:47Z closed_issues [2026-09-30T00:00:00Z, 2026-10-07T00:00:00Z) page 4; downloaded unique records=330/330
+2026-10-23T00:45:47Z COMPLETED closed_issues [2026-09-30T00:00:00Z, 2026-10-07T00:00:00Z): 330
+2026-10-23T00:45:47Z closed_issues waiting 1.2s: request pacing / rate-limit headers
+2026-10-23T00:45:51Z closed_issues [2026-10-07T00:00:00Z, 2026-10-14T00:00:00Z) page 1; downloaded unique records=100/640
+2026-10-23T00:45:51Z closed_issues waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:45:53Z closed_issues [2026-10-07T00:00:00Z, 2026-10-14T00:00:00Z) page 2; downloaded unique records=200/640
+2026-10-23T00:45:55Z closed_issues [2026-10-07T00:00:00Z, 2026-10-14T00:00:00Z) page 3; downloaded unique records=300/640
+2026-10-23T00:45:55Z closed_issues waiting 0.2s: request pacing / rate-limit headers
+2026-10-23T00:45:57Z closed_issues [2026-10-07T00:00:00Z, 2026-10-14T00:00:00Z) page 4; downloaded unique records=400/640
+2026-10-23T00:45:57Z closed_issues waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:45:59Z closed_issues [2026-10-07T00:00:00Z, 2026-10-14T00:00:00Z) page 5; downloaded unique records=500/640
+2026-10-23T00:45:59Z closed_issues waiting 0.3s: request pacing / rate-limit headers
+2026-10-23T00:46:01Z closed_issues [2026-10-07T00:00:00Z, 2026-10-14T00:00:00Z) page 6; downloaded unique records=600/640
+2026-10-23T00:46:01Z closed_issues waiting 0.1s: request pacing / rate-limit headers
+2026-10-23T00:46:03Z closed_issues [2026-10-07T00:00:00Z, 2026-10-14T00:00:00Z) page 7; downloaded unique records=640/640
+2026-10-23T00:46:03Z COMPLETED closed_issues [2026-10-07T00:00:00Z, 2026-10-14T00:00:00Z): 640
+2026-10-23T00:46:03Z closed_issues waiting 0.9s: request pacing / rate-limit headers
+2026-10-23T00:46:06Z closed_issues [2026-10-14T00:00:00Z, 2026-10-21T00:00:00Z) page 1; downloaded unique records=100/164
+2026-10-23T00:46:07Z closed_issues [2026-10-14T00:00:00Z, 2026-10-21T00:00:00Z) page 2; downloaded unique records=164/164
+2026-10-23T00:46:07Z COMPLETED closed_issues [2026-10-14T00:00:00Z, 2026-10-21T00:00:00Z): 164
+2026-10-23T00:46:08Z COMPLETE FOR DOCUMENTED QUERY SCOPE: 26598 records; outputs: /Users/yoanayosifova/Desktop/codex-health/activity_metrics/codex_closure_data/runs/20261023T004608-d40af02c
